@@ -1,0 +1,4 @@
+echo comando1
+ls -l
+echo comando2
+cat exemplo.txt

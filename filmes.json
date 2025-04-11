@@ -1,0 +1,142 @@
+[
+    {
+        "Nome do Filme": "Inception",
+        "Ano": 2010,
+        "Genero": "Ação/Ficção Científica",
+        "Ator Principal": "Leonardo DiCaprio",
+        "Atriz Principal": "Ellen Page"
+    },
+    {
+        "Nome do Filme": "Titanic",
+        "Ano": 1997,
+        "Genero": "Romance/Drama",
+        "Ator Principal": "Leonardo DiCaprio",
+        "Atriz Principal": "Kate Winslet"
+    },
+    {
+        "Nome do Filme": "The Matrix",
+        "Ano": 1999,
+        "Genero": "Ação/Ficção Científica",
+        "Ator Principal": "Keanu Reeves",
+        "Atriz Principal": "Carrie-Anne Moss"
+    },
+    {
+        "Nome do Filme": "The Devil Wears Prada",
+        "Ano": 2006,
+        "Genero": "Comédia/Drama",
+        "Ator Principal": "Meryl Streep",
+        "Atriz Principal": "Anne Hathaway"
+    },
+    {
+        "Nome do Filme": "Gladiator",
+        "Ano": 2000,
+        "Genero": "Ação/Drama",
+        "Ator Principal": "Russell Crowe",
+        "Atriz Principal": "Connie Nielsen"
+    },
+    {
+        "Nome do Filme": "Forrest Gump",
+        "Ano": 1994,
+        "Genero": "Drama",
+        "Ator Principal": "Tom Hanks",
+        "Atriz Principal": "Robin Wright"
+    },
+    {
+        "Nome do Filme": "Pretty Woman",
+        "Ano": 1990,
+        "Genero": "Romance/Comédia",
+        "Ator Principal": "Richard Gere",
+        "Atriz Principal": "Julia Roberts"
+    },
+    {
+        "Nome do Filme": "Avatar",
+        "Ano": 2009,
+        "Genero": "Ação/Ficção Científica",
+        "Ator Principal": "Sam Worthington",
+        "Atriz Principal": "Zoe Saldana"
+    },
+    {
+        "Nome do Filme": "The Shawshank Redemption",
+        "Ano": 1994,
+        "Genero": "Drama",
+        "Ator Principal": "Tim Robbins",
+        "Atriz Principal": "Renee Blaine"
+    },
+    {
+        "Nome do Filme": "The Dark Knight",
+        "Ano": 2008,
+        "Genero": "Ação",
+        "Ator Principal": "Christian Bale",
+        "Atriz Principal": "Maggie Gyllenhaal"
+    },
+    {
+        "Nome do Filme": "La La Land",
+        "Ano": 2016,
+        "Genero": "Romance/Musical",
+        "Ator Principal": "Ryan Gosling",
+        "Atriz Principal": "Emma Stone"
+    },
+    {
+        "Nome do Filme": "The Godfather",
+        "Ano": 1972,
+        "Genero": "Crime/Drama",
+        "Ator Principal": "Marlon Brando",
+        "Atriz Principal": "Diane Keaton"
+    },
+    {
+        "Nome do Filme": "Pulp Fiction",
+        "Ano": 1994,
+        "Genero": "Crime/Drama",
+        "Ator Principal": "John Travolta",
+        "Atriz Principal": "Uma Thurman"
+    },
+    {
+        "Nome do Filme": "Wonder Woman",
+        "Ano": 2017,
+        "Genero": "Ação/Fantasia",
+        "Ator Principal": "Chris Pine",
+        "Atriz Principal": "Gal Gadot"
+    },
+    {
+        "Nome do Filme": "A Star is Born",
+        "Ano": 2018,
+        "Genero": "Romance/Drama",
+        "Ator Principal": "Bradley Cooper",
+        "Atriz Principal": "Lady Gaga"
+    },
+    {
+        "Nome do Filme": "Jurassic Park",
+        "Ano": 1993,
+        "Genero": "Ação/Ficção Científica",
+        "Ator Principal": "Sam Neill",
+        "Atriz Principal": "Laura Dern"
+    },
+    {
+        "Nome do Filme": "The Silence of the Lambs",
+        "Ano": 1991,
+        "Genero": "Suspense/Crime",
+        "Ator Principal": "Anthony Hopkins",
+        "Atriz Principal": "Jodie Foster"
+    },
+    {
+        "Nome do Filme": "Black Panther",
+        "Ano": 2018,
+        "Genero": "Ação/Ficção Científica",
+        "Ator Principal": "Chadwick Boseman",
+        "Atriz Principal": "Lupita Nyong'o"
+    },
+    {
+        "Nome do Filme": "Braveheart",
+        "Ano": 1995,
+        "Genero": "Ação/Drama",
+        "Ator Principal": "Mel Gibson",
+        "Atriz Principal": "Sophie Marceau"
+    },
+    {
+        "Nome do Filme": "Gone with the Wind",
+        "Ano": 1939,
+        "Genero": "Romance/Drama",
+        "Ator Principal": "Clark Gable",
+        "Atriz Principal": "Vivien Leigh"
+    }
+]

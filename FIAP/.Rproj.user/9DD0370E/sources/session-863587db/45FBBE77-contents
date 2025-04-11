@@ -1,0 +1,9 @@
+df <- data.frame(
+  nome = c("João", "Maria", "Pedro"), 
+  idade = c(25, 30, 28),
+  casado = c(TRUE, FALSE, TRUE)
+)
+
+df
+
+

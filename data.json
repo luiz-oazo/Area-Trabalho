@@ -1,0 +1,38 @@
+{
+    "1001": {
+        "nome": "Jo\u00e3o",
+        "email": "joaozinho@yahoo.com",
+        "cidade": "S\u00e3o Paulo",
+        "estado": "SP"
+    },
+    "1002": {
+        "nome": "Maria",
+        "email": "maria201@outlook.com",
+        "cidade": "Rio de Janeiro",
+        "estado": "RJ"
+    },
+    "1003": {
+        "nome": "Pedro",
+        "email": "pedrinho@gmail.com",
+        "cidade": "Belo Horizonte",
+        "estado": "MG"
+    },
+    "1004": {
+        "nome": "Ana",
+        "email": "ana1000@hotmail.com",
+        "cidade": "Salvador",
+        "estado": "BA"
+    },
+    "1005": {
+        "nome": "Lucas",
+        "email": "lucas7@gmail.com",
+        "cidade": "Curitiba",
+        "estado": "PR"
+    },
+    "2": {
+        "nome": "qweqweqweqweqwesadsdasdasdasdasd asdasd asd asd as ",
+        "email": "wqeeqw@qweqwe.qweqwe",
+        "cidade": "qweqweqweqwe",
+        "estado": "MG"
+    }
+}

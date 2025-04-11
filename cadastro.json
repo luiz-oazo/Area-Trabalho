@@ -1,0 +1,23 @@
+{
+    "registro1": {
+        "id": 1,
+        "nome": "Joao",
+        "email": "joao@gmail.com",
+        "cidade": "S\u00e3o Paulo",
+        "estado": "SP"
+    },
+    "registro2": {
+        "id": 2,
+        "nome": "Maria",
+        "email": "maria@gmail.com",
+        "cidade": "Rio de Janeiro",
+        "estado": "RJ"
+    },
+    "registro3": {
+        "id": 3,
+        "nome": "Carlos",
+        "email": "carlos@gmail.com",
+        "cidade": "Belo Horizonte",
+        "estado": "MG"
+    }
+}

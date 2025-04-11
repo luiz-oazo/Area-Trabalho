@@ -1,0 +1,18 @@
+[
+    {
+        "id": "2",
+        "name": "John G",
+        "age": 40,
+        "email": "john@gmail.com",
+        "city": "Washington",
+        "state": "RJ"
+    },
+    {
+        "id": "3",
+        "name": "Bala T",
+        "age": 22,
+        "email": "bala@gmail.com",
+        "city": "Bangalore",
+        "state": "MG"
+    }
+]

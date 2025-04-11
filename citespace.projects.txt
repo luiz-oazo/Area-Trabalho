@@ -1,0 +1,60 @@
+Title:Demo 1: Terrorism (1996-2003)
+TimeStamp:October 16, 2023, 5:44:46 PM BRT
+ProjectHome:/Users/luiz/.citespace/Examples/WoS/Terrorism1990-2003/project
+DataHome:/Users/luiz/.citespace/Examples/WoS/Terrorism1990-2003/data
+DataSource:WoS
+Language:English
+Description:This is a demo project on Terrorism research (1990-2003).
+Begin:1996
+End:2003
+LinkRetainingFactor:3
+MaxLinksPerNode:10
+LookBackYears:5
+MinimumThresholdValue:1.0
+LinkWeightModificationRate:0.00000000001
+
+Title:ML CS
+TimeStamp:October 16, 2023, 5:44:40 PM BRT
+ProjectHome:/Users/luiz/Downloads/ML CS
+DataHome:/Users/luiz/Downloads/ML CS/data
+DataSource:WoS
+Language:English
+Description:ML Account
+Begin:2000
+End:2023
+LinkRetainingFactor:3
+MaxLinksPerNode:10
+LookBackYears:5
+MinimumThresholdValue:1.0
+LinkWeightModificationRate:0.00000000001
+
+Title:Untitled
+TimeStamp:October 16, 2023, 5:44:40 PM BRT
+ProjectHome:/Users/luiz/.citespace/Examples/Template/project
+DataHome:/Users/luiz/.citespace/Examples/Template/data
+DataSource:WoS
+Language:English
+Description:This is a template. Please edit before use.
+Begin:2000
+End:2023
+LinkRetainingFactor:3
+MaxLinksPerNode:10
+LookBackYears:5
+MinimumThresholdValue:1.0
+LinkWeightModificationRate:0.00000000001
+
+Title:teste
+TimeStamp:October 16, 2023, 5:44:40 PM BRT
+ProjectHome:/Users/luiz/Downloads/ML CS
+DataHome:/Users/luiz/Downloads/ML CS/data
+DataSource:WoS
+Language:English
+Description:How did you create the dataset?
+Begin:2013
+End:2023
+LinkRetainingFactor:3
+MaxLinksPerNode:10
+LookBackYears:5
+MinimumThresholdValue:1.0
+LinkWeightModificationRate:0.00000000001
+

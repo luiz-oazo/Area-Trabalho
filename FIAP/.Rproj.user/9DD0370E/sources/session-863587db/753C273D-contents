@@ -1,0 +1,87 @@
+getwd()
+setwd("USPx")
+getwd()
+
+list.files(path=".", pattern=NULL, all.files=FALSE, full.names=FALSE)
+
+setwd("EAD5754 - Vidal e Cesar/Cluster/")
+
+exemplo1 <- read.csv2("exemplo1.csv", stringsAsFactors=FALSE)
+
+
+library(car)
+
+scatterplot(V2~V1+Idade, regLine=FALSE, smooth=FALSE, id=list(method="mahal", n=7, labels=exemplo1$Respondente), boxplots=FALSE, xlab="Lealdade à Loja", ylab="Lealdade à Marca", main="Análise de Clusters", cex=2.5, data=exemplo1)
+
+dist(exemplo1[2:3], method="euclidean")
+
+hc1 <- hclust(dist(exemplo1[2:3]) , method= "single")
+plot(hc1, main= "Dendrograma para a solução hc1", xlab= "Número da observação em Exemplo1", sub="Method=single; Distance=euclidian")
+
+par(mfrow = c(1,2))
+
+dendro1 <- as.dendrogram(hc1)
+plot(dendro1, main= "Cluster Dendrogram for Solution hc1", xlab= "Observation Number in Data Set exemplo1", sub="Method=single; Distance=euclidian")
+rect.hclust(hc1, k=3)
+
+as.factor(cutree(hc1, k=3))
+summary(as.factor(cutree(hc1, k = 3))) # Cluster Sizes
+by(exemplo1[,2:3], as.factor(cutree(hc1, k = 3)), colMeans) # Cluster Centroids
+biplot(princomp(exemplo1[,2:3]), xlabs = as.character(cutree(hc1, k = 3)))
+
+exemplo1$cluster1 <- as.factor(cutree(hc1, k = 3))
+
+library(RcmdrMisc)
+numSummary(exemplo1[,c("V1", "V2", "Idade"), drop=FALSE], statistics=c("mean", "sd", "IQR", "quantiles"), quantiles=c(0,.25,.5,.75,1), groups=exemplo1$cluster1) 
+boxplot(Idade ~ cluster1, data=exemplo1) 
+summary(aov(Idade ~cluster1, data=exemplo1))
+
+centroides1 <- aggregate(cbind(V1, V2) ~ cluster1, data=exemplo1, FUN=mean)
+
+scatterplot(V2~V1 | cluster1, regLine=FALSE, smooth=FALSE, id=list(method='mahal', n=7), boxplots=FALSE, xlab="Lealdade à Loja", ylab="Lealdade à Marca", main="Análise de Clusters",   cex=2.5, by.groups=TRUE, data=exemplo1, col=c('black', 'red', 'blue'))
+
+points(centroides1$V1, centroides1$V2, pch=20)
+
+hc2 <- hclust(dist(exemplo1[,2:3]) , method= "complete")
+plot(hc2, main= "Dendrograma para a solução hc2", xlab= "Número da observação em Exemplo1", sub="Method=complete; Distance=euclidian")
+
+exemplo4 <-read.csv2("exemplo4.csv", stringsAsFactors = FALSE)
+
+exemplo4 <- exemplo1
+
+dist(exemplo4[2:8], method="euclidean")
+
+hc4<- hclust(dist(exemplo4[2:8]), method= "single")
+plot(hc4, main= "Dendrograma para a solução hc4", xlab= "Número da observação em Exemplo4", sub="Method=single; Distance=euclidian") 
+
+biplot(princomp(exemplo4[2:8]), xlabs = as.character(cutree(hc4, k = 10)))
+by(exemplo4[2:8], as.factor(cutree(hc4, k = 10)), colMeans)
+
+hc4<- hclust(dist(exemplo4), method= "complete")
+plot(hc4, main= "Dendrograma para a solução hc4", xlab= "Número da observação em Exemplo4", sub="Method=complete; Distance=euclidian") 
+
+library(factoextra)
+fviz_nbclust(exemplo4[2:8], hcut, method = "wss", k.max=6)
+
+exemplo6 <-read.csv2("exemplo6.csv")
+exemplo6$beer <- as.character(exemplo6$beer)
+str(exemplo6)
+exemplo6$rf <- as.factor(exemplo6$rating)
+exemplo6$lf <- as.factor(exemplo6$light)
+exemplo6$cf <- as.factor(exemplo6$class)
+
+exemplo6$rfn <- as.numeric(exemplo6$rf)
+exemplo6$lfn <- as.numeric(exemplo6$lf)
+exemplo6$cfn <- as.numeric(exemplo6$cf)
+
+hc6 <- hclust(dist(exemplo6[c(6, 7, 8, 9)]), method= "ward.D2")
+
+plot(hc6, main= "Cluster Dendrogram for Solution hc6", xlab= 
+       "Observation Number in Data Set exemplo6", sub="Method=ward.D2; Distance=euclidian", 
+     labels=exemplo6$beer)
+
+exemplo6[c(1, 5:11)]
+exemplo6[c(15, 16, 17)]
+dist(exemplo6[c(1, 5:9)])
+
+

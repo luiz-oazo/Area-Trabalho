@@ -1,0 +1,3692 @@
+    {
+        "_id": "66b4e8aec5ad80858b87d116",
+        "productCode": "ANTECIPACAO_COMISSAO_CORRETOR",
+        "externalId": "1723131986822x664685658424384300",
+        "transactionCode": "1721336592148x805550972132393000",
+        "transactionValue": 270000,
+        "transactionSubstepsCount": 6,
+        "transactionDate": "2024-08-06",
+        "transactionAddressStreet": "Rua Laurindo",
+        "transactionAddressNeighborhood": "Santana",
+        "transactionAddressNumber": "426",
+        "transactionAddressComplement": "Apto 102",
+        "transactionAddressCity": "Porto Alegre",
+        "transactionAddressUF": "RS",
+        "transactionAddressCEP": "90040140",
+        "currentInstallment": 1,
+        "totalInstallment": 1,
+        "constructionYear": "",
+        "companygroup": "Independente (n\u00e3o pertencente a rede)",
+        "propertyTypology": "",
+        "expectedValue": 4860,
+        "expectedDate": "2024-08-09T03:00:00.000Z",
+        "paymentStructure": [
+            {
+                "forma_pagamento_nome": "Sinal e princ\u00edpio de pagamento",
+                "forma_pagamento_valor": 270000.0,
+                "forma_pagamento_detalhes": "Ted no ato da assinatura do contrato de compra e venda. "
+            }
+        ],
+        "intermediary": {
+            "name": "Foxter RS",
+            "type": "JURIDICA",
+            "cpfCnpj": "11022364000199"
+        },
+        "contract_files": [
+            {
+                "nome": "PS AUTO\u0302NOMOS.docx",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1721933708686x982815490634731500/PS%20AUTO%CC%82NOMOS.docx",
+                "data_upload": "25/07/2024"
+            },
+            {
+                "nome": "PS FOXTER.docx",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1721933726402x553785090431699200/PS%20FOXTER.docx",
+                "data_upload": "25/07/2024"
+            },
+            {
+                "nome": "Minuta CCV 277574R. Laurindo - Santana, Porto Alegre - RS, 90450-190, Brasil  Apto 102 2024_07_30_07h07m.pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1722379967536x389370839588766500/Minuta CCV 277574R. Laurindo - Santana%2C Porto Alegre - RS%2C 90450-190%2C Brasil  Apto 102 2024_07_30_07h07m.pdf",
+                "data_upload": "30/07/2024"
+            },
+            {
+                "nome": "CT 10235 PS AUTO\u0302NOMOS.pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1722885420351x404757317396128300/CT 10235 PS AUTO\u0302NOMOS.pdf",
+                "data_upload": "05/08/2024"
+            },
+            {
+                "nome": "CT 10235 PS FOXTER.pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1722885420347x642871116105223400/CT 10235 PS FOXTER.pdf",
+                "data_upload": "05/08/2024"
+            },
+            {
+                "nome": "auto_close (assinado 202486) CT 10235 PS FOXTER.pdf",
+                "url": "https://cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1722984151381x317925370999091000/auto_close (assinado 202486) CT 10235 PS FOXTER.pdf",
+                "data_upload": "06/08/2024"
+            },
+            {
+                "nome": "CT 10235.pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1723053452431x645703840979874300/CT 10235.pdf",
+                "data_upload": "07/08/2024"
+            },
+            {
+                "nome": "auto_close (assinado 202488) CT 10235.pdf",
+                "url": "https://cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1723126613309x920402587959427700/auto_close (assinado 202488) CT 10235.pdf",
+                "data_upload": "08/08/2024"
+            },
+            {
+                "nome": "auto_close (assinado 202488) CT 10235 PS AUTO\u0302NOMOS.pdf",
+                "url": "https://cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1723128261266x976636125261875300/auto_close (assinado 202488) CT 10235 PS AUTO\u0302NOMOS.pdf",
+                "data_upload": "08/08/2024"
+            }
+        ],
+        "property_registration_files": [],
+        "contracted": {
+            "name": "Paulo Ricardo Allgayer",
+            "type": "FISICA",
+            "cpfCnpj": "29383811072"
+        },
+        "guarantees": [
+            {
+                "externalId": "1721336592148x805550972132393000",
+                "guaranteeType": "CONTRATO_COMPRA_VENDA_IMOVEL",
+                "description": "Comiss\u00e3o Intermedia\u00e7\u00e3o Im\u00f3vel \u00e0 277574R. Laurindo - Santana, Porto Alegre - RS, 90450-190, Brasil  Apto 102. Credores desta fatura: FOXTER CIA IMOBILIARIA (R$1.620,00); FOXTER CIA IMOBILIARIA (R$1.944,00); Paulo Ricardo Allgayer (R$4.860,00); Cl\u00f3vis ",
+                "totalValue": 270000,
+                "contractDate": "2024-08-06",
+                "depositValue": 270000,
+                "depositDate": "2024-08-08",
+                "totalCommission": 16200,
+                "brokerCommission": 4860,
+                "billingUrl": "https://www.asaas.com/i/de47qqkbv4pwk5md",
+                "dueDate": "2024-08-09",
+                "brokerName": "Paulo Ricardo Allgayer",
+                "brokerCpfCnpj": "29383811072",
+                "brokerAssociationDate": "2024-06-11",
+                "brokerPreviousTransactions": 3,
+                "agencyName": "Foxter RS",
+                "agencyCnpj": "11022364000199",
+                "agencyPreviousTransactions": 249,
+                "fiduciaryAlienation": false,
+                "fiduciaryAlienationBankSlug": "",
+                "parties": [
+                    {
+                        "name": "Andressa Gabriele de Oliveira Strzykalska",
+                        "type": "COMPRADOR",
+                        "cpfCnpj": "86004743020"
+                    },
+                    {
+                        "name": "Neusa Ramos Pinto",
+                        "type": "VENDEDOR",
+                        "cpfCnpj": "33555605020"
+                    }
+                ]
+            }
+        ],
+        "pontuacao_da_comissao": {
+            "NEGOCIACAO": "Pontuou 1 em sem_sinal_ou_com_sinal",
+            "IMOVEL": [
+                "Pontuou 2 em eh_apartamento",
+                "Pontuou 2 em eh_capital",
+                "Pontuou 0 em checa_valor"
+            ],
+            "VENDEDOR": "Pontuou 0 em checa_quantidade_de_vendedores",
+            "_PONTUACAO_TOTAL": 5
+        }
+    },
+    {
+        "_id": "66b4e8b0c5ad80858b87d118",
+        "productCode": "ANTECIPACAO_COMISSAO_CORRETOR",
+        "externalId": "1723131986911x982863243438854700",
+        "transactionCode": "1721336592148x805550972132393000",
+        "transactionValue": 270000,
+        "transactionSubstepsCount": 6,
+        "transactionDate": "2024-08-06",
+        "transactionAddressStreet": "Rua Laurindo",
+        "transactionAddressNeighborhood": "Santana",
+        "transactionAddressNumber": "426",
+        "transactionAddressComplement": "Apto 102",
+        "transactionAddressCity": "Porto Alegre",
+        "transactionAddressUF": "RS",
+        "transactionAddressCEP": "90040140",
+        "currentInstallment": 1,
+        "totalInstallment": 1,
+        "constructionYear": "",
+        "companygroup": "Independente (n\u00e3o pertencente a rede)",
+        "propertyTypology": "",
+        "expectedValue": 810,
+        "expectedDate": "2024-08-09T03:00:00.000Z",
+        "paymentStructure": [
+            {
+                "forma_pagamento_nome": "Sinal e princ\u00edpio de pagamento",
+                "forma_pagamento_valor": 270000.0,
+                "forma_pagamento_detalhes": "Ted no ato da assinatura do contrato de compra e venda. "
+            }
+        ],
+        "intermediary": {
+            "name": "Foxter RS",
+            "type": "JURIDICA",
+            "cpfCnpj": "11022364000199"
+        },
+        "contract_files": [
+            {
+                "nome": "PS AUTO\u0302NOMOS.docx",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1721933708686x982815490634731500/PS%20AUTO%CC%82NOMOS.docx",
+                "data_upload": "25/07/2024"
+            },
+            {
+                "nome": "PS FOXTER.docx",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1721933726402x553785090431699200/PS%20FOXTER.docx",
+                "data_upload": "25/07/2024"
+            },
+            {
+                "nome": "Minuta CCV 277574R. Laurindo - Santana, Porto Alegre - RS, 90450-190, Brasil  Apto 102 2024_07_30_07h07m.pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1722379967536x389370839588766500/Minuta CCV 277574R. Laurindo - Santana%2C Porto Alegre - RS%2C 90450-190%2C Brasil  Apto 102 2024_07_30_07h07m.pdf",
+                "data_upload": "30/07/2024"
+            },
+            {
+                "nome": "CT 10235 PS AUTO\u0302NOMOS.pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1722885420351x404757317396128300/CT 10235 PS AUTO\u0302NOMOS.pdf",
+                "data_upload": "05/08/2024"
+            },
+            {
+                "nome": "CT 10235 PS FOXTER.pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1722885420347x642871116105223400/CT 10235 PS FOXTER.pdf",
+                "data_upload": "05/08/2024"
+            },
+            {
+                "nome": "auto_close (assinado 202486) CT 10235 PS FOXTER.pdf",
+                "url": "https://cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1722984151381x317925370999091000/auto_close (assinado 202486) CT 10235 PS FOXTER.pdf",
+                "data_upload": "06/08/2024"
+            },
+            {
+                "nome": "CT 10235.pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1723053452431x645703840979874300/CT 10235.pdf",
+                "data_upload": "07/08/2024"
+            },
+            {
+                "nome": "auto_close (assinado 202488) CT 10235.pdf",
+                "url": "https://cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1723126613309x920402587959427700/auto_close (assinado 202488) CT 10235.pdf",
+                "data_upload": "08/08/2024"
+            },
+            {
+                "nome": "auto_close (assinado 202488) CT 10235 PS AUTO\u0302NOMOS.pdf",
+                "url": "https://cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1723128261266x976636125261875300/auto_close (assinado 202488) CT 10235 PS AUTO\u0302NOMOS.pdf",
+                "data_upload": "08/08/2024"
+            }
+        ],
+        "property_registration_files": [],
+        "contracted": {
+            "name": "Tanara Silva De Freitas",
+            "type": "FISICA",
+            "cpfCnpj": "80431038015"
+        },
+        "guarantees": [
+            {
+                "externalId": "1721336592148x805550972132393000",
+                "guaranteeType": "CONTRATO_COMPRA_VENDA_IMOVEL",
+                "description": "Comiss\u00e3o Intermedia\u00e7\u00e3o Im\u00f3vel \u00e0 277574R. Laurindo - Santana, Porto Alegre - RS, 90450-190, Brasil  Apto 102. Credores desta fatura: FOXTER CIA IMOBILIARIA (R$1.620,00); FOXTER CIA IMOBILIARIA (R$1.944,00); Paulo Ricardo Allgayer (R$4.860,00); Cl\u00f3vis ",
+                "totalValue": 270000,
+                "contractDate": "2024-08-06",
+                "depositValue": 270000,
+                "depositDate": "2024-08-08",
+                "totalCommission": 16200,
+                "brokerCommission": 810,
+                "billingUrl": "https://www.asaas.com/i/de47qqkbv4pwk5md",
+                "dueDate": "2024-08-09",
+                "brokerName": "Tanara Silva De Freitas",
+                "brokerCpfCnpj": "80431038015",
+                "brokerAssociationDate": "2024-06-04",
+                "brokerPreviousTransactions": 12,
+                "agencyName": "Foxter RS",
+                "agencyCnpj": "11022364000199",
+                "agencyPreviousTransactions": 249,
+                "fiduciaryAlienation": false,
+                "fiduciaryAlienationBankSlug": "",
+                "parties": [
+                    {
+                        "name": "Andressa Gabriele de Oliveira Strzykalska",
+                        "type": "COMPRADOR",
+                        "cpfCnpj": "86004743020"
+                    },
+                    {
+                        "name": "Neusa Ramos Pinto",
+                        "type": "VENDEDOR",
+                        "cpfCnpj": "33555605020"
+                    }
+                ]
+            }
+        ],
+        "pontuacao_da_comissao": {
+            "NEGOCIACAO": "Pontuou 1 em sem_sinal_ou_com_sinal",
+            "IMOVEL": [
+                "Pontuou 2 em eh_apartamento",
+                "Pontuou 2 em eh_capital",
+                "Pontuou 0 em checa_valor"
+            ],
+            "VENDEDOR": "Pontuou 0 em checa_quantidade_de_vendedores",
+            "_PONTUACAO_TOTAL": 5
+        }
+    },
+    {
+        "_id": "66b4e8b1c5ad80858b87d11a",
+        "productCode": "ANTECIPACAO_COMISSAO_CORRETOR",
+        "externalId": "1723131987476x325512210692495700",
+        "transactionCode": "1721336592148x805550972132393000",
+        "transactionValue": 270000,
+        "transactionSubstepsCount": 6,
+        "transactionDate": "2024-08-06",
+        "transactionAddressStreet": "Rua Laurindo",
+        "transactionAddressNeighborhood": "Santana",
+        "transactionAddressNumber": "426",
+        "transactionAddressComplement": "Apto 102",
+        "transactionAddressCity": "Porto Alegre",
+        "transactionAddressUF": "RS",
+        "transactionAddressCEP": "90040140",
+        "currentInstallment": 1,
+        "totalInstallment": 1,
+        "constructionYear": "",
+        "companygroup": "Independente (n\u00e3o pertencente a rede)",
+        "propertyTypology": "",
+        "expectedValue": 486,
+        "expectedDate": "2024-08-09T03:00:00.000Z",
+        "paymentStructure": [
+            {
+                "forma_pagamento_nome": "Sinal e princ\u00edpio de pagamento",
+                "forma_pagamento_valor": 270000.0,
+                "forma_pagamento_detalhes": "Ted no ato da assinatura do contrato de compra e venda. "
+            }
+        ],
+        "intermediary": {
+            "name": "Foxter RS",
+            "type": "JURIDICA",
+            "cpfCnpj": "11022364000199"
+        },
+        "contract_files": [
+            {
+                "nome": "PS AUTO\u0302NOMOS.docx",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1721933708686x982815490634731500/PS%20AUTO%CC%82NOMOS.docx",
+                "data_upload": "25/07/2024"
+            },
+            {
+                "nome": "PS FOXTER.docx",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1721933726402x553785090431699200/PS%20FOXTER.docx",
+                "data_upload": "25/07/2024"
+            },
+            {
+                "nome": "Minuta CCV 277574R. Laurindo - Santana, Porto Alegre - RS, 90450-190, Brasil  Apto 102 2024_07_30_07h07m.pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1722379967536x389370839588766500/Minuta CCV 277574R. Laurindo - Santana%2C Porto Alegre - RS%2C 90450-190%2C Brasil  Apto 102 2024_07_30_07h07m.pdf",
+                "data_upload": "30/07/2024"
+            },
+            {
+                "nome": "CT 10235 PS AUTO\u0302NOMOS.pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1722885420351x404757317396128300/CT 10235 PS AUTO\u0302NOMOS.pdf",
+                "data_upload": "05/08/2024"
+            },
+            {
+                "nome": "CT 10235 PS FOXTER.pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1722885420347x642871116105223400/CT 10235 PS FOXTER.pdf",
+                "data_upload": "05/08/2024"
+            },
+            {
+                "nome": "auto_close (assinado 202486) CT 10235 PS FOXTER.pdf",
+                "url": "https://cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1722984151381x317925370999091000/auto_close (assinado 202486) CT 10235 PS FOXTER.pdf",
+                "data_upload": "06/08/2024"
+            },
+            {
+                "nome": "CT 10235.pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1723053452431x645703840979874300/CT 10235.pdf",
+                "data_upload": "07/08/2024"
+            },
+            {
+                "nome": "auto_close (assinado 202488) CT 10235.pdf",
+                "url": "https://cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1723126613309x920402587959427700/auto_close (assinado 202488) CT 10235.pdf",
+                "data_upload": "08/08/2024"
+            },
+            {
+                "nome": "auto_close (assinado 202488) CT 10235 PS AUTO\u0302NOMOS.pdf",
+                "url": "https://cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1723128261266x976636125261875300/auto_close (assinado 202488) CT 10235 PS AUTO\u0302NOMOS.pdf",
+                "data_upload": "08/08/2024"
+            }
+        ],
+        "property_registration_files": [],
+        "contracted": {
+            "name": "Cl\u00f3vis Passos P\u00e9res Im\u00f3veis",
+            "type": "JURIDICA",
+            "cpfCnpj": "41507981000145"
+        },
+        "guarantees": [
+            {
+                "externalId": "1721336592148x805550972132393000",
+                "guaranteeType": "CONTRATO_COMPRA_VENDA_IMOVEL",
+                "description": "Comiss\u00e3o Intermedia\u00e7\u00e3o Im\u00f3vel \u00e0 277574R. Laurindo - Santana, Porto Alegre - RS, 90450-190, Brasil  Apto 102. Credores desta fatura: FOXTER CIA IMOBILIARIA (R$1.620,00); FOXTER CIA IMOBILIARIA (R$1.944,00); Paulo Ricardo Allgayer (R$4.860,00); Cl\u00f3vis ",
+                "totalValue": 270000,
+                "contractDate": "2024-08-06",
+                "depositValue": 270000,
+                "depositDate": "2024-08-08",
+                "totalCommission": 16200,
+                "brokerCommission": 486,
+                "billingUrl": "https://www.asaas.com/i/de47qqkbv4pwk5md",
+                "dueDate": "2024-08-09",
+                "brokerName": "Cl\u00f3vis Passos P\u00e9res Im\u00f3veis",
+                "brokerCpfCnpj": "41507981000145",
+                "brokerAssociationDate": "2024-06-04",
+                "brokerPreviousTransactions": 54,
+                "agencyName": "Foxter RS",
+                "agencyCnpj": "11022364000199",
+                "agencyPreviousTransactions": 249,
+                "fiduciaryAlienation": false,
+                "fiduciaryAlienationBankSlug": "",
+                "parties": [
+                    {
+                        "name": "Andressa Gabriele de Oliveira Strzykalska",
+                        "type": "COMPRADOR",
+                        "cpfCnpj": "86004743020"
+                    },
+                    {
+                        "name": "Neusa Ramos Pinto",
+                        "type": "VENDEDOR",
+                        "cpfCnpj": "33555605020"
+                    }
+                ]
+            }
+        ],
+        "pontuacao_da_comissao": {
+            "NEGOCIACAO": "Pontuou 1 em sem_sinal_ou_com_sinal",
+            "IMOVEL": [
+                "Pontuou 2 em eh_apartamento",
+                "Pontuou 2 em eh_capital",
+                "Pontuou 0 em checa_valor"
+            ],
+            "VENDEDOR": "Pontuou 0 em checa_quantidade_de_vendedores",
+            "_PONTUACAO_TOTAL": 5
+        }
+    },
+    {
+        "_id": "66b4e90cc5ad80858b87d11c",
+        "productCode": "ANTECIPACAO_COMISSAO_CORRETOR",
+        "externalId": "1723132172149x707793115746518300",
+        "transactionCode": "1723059317003x721311992298864600",
+        "transactionValue": 840000,
+        "transactionSubstepsCount": 0,
+        "transactionDate": "",
+        "transactionAddressStreet": "Rua Volunt\u00e1rios da P\u00e1tria",
+        "transactionAddressNeighborhood": "Botafogo",
+        "transactionAddressNumber": "61",
+        "transactionAddressComplement": "apt\u00b0701",
+        "transactionAddressCity": "Rio de Janeiro",
+        "transactionAddressUF": "RJ",
+        "transactionAddressCEP": "22270000",
+        "currentInstallment": 1,
+        "totalInstallment": 1,
+        "constructionYear": "",
+        "companygroup": "Independente (n\u00e3o pertencente a rede)",
+        "propertyTypology": "",
+        "expectedValue": 2800,
+        "expectedDate": "2024-08-12T03:00:00.000Z",
+        "paymentStructure": [
+            {
+                "forma_pagamento_nome": "Parcela concomitante \u00e0 escritura",
+                "forma_pagamento_valor": 756000.0,
+                "forma_pagamento_detalhes": "29082024"
+            },
+            {
+                "forma_pagamento_nome": "Sinal e princ\u00edpio de pagamento",
+                "forma_pagamento_valor": 84000.0,
+                "forma_pagamento_detalhes": "24072024"
+            }
+        ],
+        "intermediary": {
+            "name": "Privil\u00e9gio Im\u00f3veis",
+            "type": "JURIDICA",
+            "cpfCnpj": "15385257000186"
+        },
+        "contract_files": [],
+        "property_registration_files": [],
+        "contracted": {
+            "name": "Bruno  Ribeiro",
+            "type": "FISICA",
+            "cpfCnpj": "17359993776"
+        },
+        "guarantees": [
+            {
+                "externalId": "1723059317003x721311992298864600",
+                "guaranteeType": "CONTRATO_COMPRA_VENDA_IMOVEL",
+                "description": "Comiss\u00e3o Intermedia\u00e7\u00e3o Im\u00f3vel \u00e0 Rua Volunt\u00e1rios da P\u00e1tria, 61, apt\u00b0701, Botafogo, Rio de Janeiro - RJ, CEP 22270000. Credores desta fatura: Privilegio Investimentos Imobili\u00e1rios Ltda (R$5,02); mazza consultoria e corretagem (R$1.400,00); BRUNO GALARA",
+                "totalValue": 840000,
+                "contractDate": "",
+                "depositValue": 84000,
+                "depositDate": "",
+                "totalCommission": 35000,
+                "brokerCommission": 2800,
+                "billingUrl": "https://www.asaas.com/i/9ylj24t5avfmyzoj",
+                "dueDate": "2024-08-12",
+                "brokerName": "Bruno  Ribeiro",
+                "brokerCpfCnpj": "17359993776",
+                "brokerAssociationDate": "",
+                "brokerPreviousTransactions": 0,
+                "agencyName": "Privil\u00e9gio Im\u00f3veis",
+                "agencyCnpj": "15385257000186",
+                "agencyPreviousTransactions": 28,
+                "fiduciaryAlienation": false,
+                "fiduciaryAlienationBankSlug": "",
+                "parties": [
+                    {
+                        "name": "FABRICIO ANDRE RUBIN",
+                        "type": "VENDEDOR",
+                        "cpfCnpj": "63600765000"
+                    },
+                    {
+                        "name": "MANOEL MESSIAS PEIXINHO ",
+                        "type": "COMPRADOR",
+                        "cpfCnpj": "24768480500"
+                    }
+                ]
+            }
+        ],
+        "pontuacao_da_comissao": {
+            "NEGOCIACAO": "Pontuou 1 em sem_sinal_ou_com_sinal",
+            "IMOVEL": [
+                "Pontuou 2 em eh_apartamento",
+                "Pontuou 2 em eh_capital",
+                "Pontuou 2 em checa_valor"
+            ],
+            "VENDEDOR": "Pontuou 0 em checa_quantidade_de_vendedores",
+            "_PONTUACAO_TOTAL": 7
+        }
+    },
+    {
+        "_id": "66b4e90ec5ad80858b87d11e",
+        "productCode": "ANTECIPACAO_COMISSAO_CORRETOR",
+        "externalId": "1723132172077x192812878332365500",
+        "transactionCode": "1723059317003x721311992298864600",
+        "transactionValue": 840000,
+        "transactionSubstepsCount": 0,
+        "transactionDate": "",
+        "transactionAddressStreet": "Rua Volunt\u00e1rios da P\u00e1tria",
+        "transactionAddressNeighborhood": "Botafogo",
+        "transactionAddressNumber": "61",
+        "transactionAddressComplement": "apt\u00b0701",
+        "transactionAddressCity": "Rio de Janeiro",
+        "transactionAddressUF": "RJ",
+        "transactionAddressCEP": "22270000",
+        "currentInstallment": 1,
+        "totalInstallment": 1,
+        "constructionYear": "",
+        "companygroup": "Independente (n\u00e3o pertencente a rede)",
+        "propertyTypology": "",
+        "expectedValue": 525,
+        "expectedDate": "2024-08-12T03:00:00.000Z",
+        "paymentStructure": [
+            {
+                "forma_pagamento_nome": "Parcela concomitante \u00e0 escritura",
+                "forma_pagamento_valor": 756000.0,
+                "forma_pagamento_detalhes": "29082024"
+            },
+            {
+                "forma_pagamento_nome": "Sinal e princ\u00edpio de pagamento",
+                "forma_pagamento_valor": 84000.0,
+                "forma_pagamento_detalhes": "24072024"
+            }
+        ],
+        "intermediary": {
+            "name": "Privil\u00e9gio Im\u00f3veis",
+            "type": "JURIDICA",
+            "cpfCnpj": "15385257000186"
+        },
+        "contract_files": [],
+        "property_registration_files": [],
+        "contracted": {
+            "name": "Marcelo Mallet",
+            "type": "FISICA",
+            "cpfCnpj": "02881106765"
+        },
+        "guarantees": [
+            {
+                "externalId": "1723059317003x721311992298864600",
+                "guaranteeType": "CONTRATO_COMPRA_VENDA_IMOVEL",
+                "description": "Comiss\u00e3o Intermedia\u00e7\u00e3o Im\u00f3vel \u00e0 Rua Volunt\u00e1rios da P\u00e1tria, 61, apt\u00b0701, Botafogo, Rio de Janeiro - RJ, CEP 22270000. Credores desta fatura: Privilegio Investimentos Imobili\u00e1rios Ltda (R$5,02); mazza consultoria e corretagem (R$1.400,00); BRUNO GALARA",
+                "totalValue": 840000,
+                "contractDate": "",
+                "depositValue": 84000,
+                "depositDate": "",
+                "totalCommission": 35000,
+                "brokerCommission": 525,
+                "billingUrl": "https://www.asaas.com/i/9ylj24t5avfmyzoj",
+                "dueDate": "2024-08-12",
+                "brokerName": "Marcelo Mallet",
+                "brokerCpfCnpj": "02881106765",
+                "brokerAssociationDate": "",
+                "brokerPreviousTransactions": 4,
+                "agencyName": "Privil\u00e9gio Im\u00f3veis",
+                "agencyCnpj": "15385257000186",
+                "agencyPreviousTransactions": 28,
+                "fiduciaryAlienation": false,
+                "fiduciaryAlienationBankSlug": "",
+                "parties": [
+                    {
+                        "name": "FABRICIO ANDRE RUBIN",
+                        "type": "VENDEDOR",
+                        "cpfCnpj": "63600765000"
+                    },
+                    {
+                        "name": "MANOEL MESSIAS PEIXINHO ",
+                        "type": "COMPRADOR",
+                        "cpfCnpj": "24768480500"
+                    }
+                ]
+            }
+        ],
+        "pontuacao_da_comissao": {
+            "NEGOCIACAO": "Pontuou 1 em sem_sinal_ou_com_sinal",
+            "IMOVEL": [
+                "Pontuou 2 em eh_apartamento",
+                "Pontuou 2 em eh_capital",
+                "Pontuou 2 em checa_valor"
+            ],
+            "VENDEDOR": "Pontuou 0 em checa_quantidade_de_vendedores",
+            "_PONTUACAO_TOTAL": 7
+        }
+    },
+    {
+        "_id": "66b4e90fc5ad80858b87d120",
+        "productCode": "ANTECIPACAO_COMISSAO_CORRETOR",
+        "externalId": "1723132172237x785283822697695200",
+        "transactionCode": "1723059317003x721311992298864600",
+        "transactionValue": 840000,
+        "transactionSubstepsCount": 0,
+        "transactionDate": "",
+        "transactionAddressStreet": "Rua Volunt\u00e1rios da P\u00e1tria",
+        "transactionAddressNeighborhood": "Botafogo",
+        "transactionAddressNumber": "61",
+        "transactionAddressComplement": "apt\u00b0701",
+        "transactionAddressCity": "Rio de Janeiro",
+        "transactionAddressUF": "RJ",
+        "transactionAddressCEP": "22270000",
+        "currentInstallment": 1,
+        "totalInstallment": 1,
+        "constructionYear": "",
+        "companygroup": "Independente (n\u00e3o pertencente a rede)",
+        "propertyTypology": "",
+        "expectedValue": 2800,
+        "expectedDate": "2024-08-12T03:00:00.000Z",
+        "paymentStructure": [
+            {
+                "forma_pagamento_nome": "Parcela concomitante \u00e0 escritura",
+                "forma_pagamento_valor": 756000.0,
+                "forma_pagamento_detalhes": "29082024"
+            },
+            {
+                "forma_pagamento_nome": "Sinal e princ\u00edpio de pagamento",
+                "forma_pagamento_valor": 84000.0,
+                "forma_pagamento_detalhes": "24072024"
+            }
+        ],
+        "intermediary": {
+            "name": "Privil\u00e9gio Im\u00f3veis",
+            "type": "JURIDICA",
+            "cpfCnpj": "15385257000186"
+        },
+        "contract_files": [],
+        "property_registration_files": [],
+        "contracted": {
+            "name": "BRUNO GALARANI",
+            "type": "FISICA",
+            "cpfCnpj": "14826175795"
+        },
+        "guarantees": [
+            {
+                "externalId": "1723059317003x721311992298864600",
+                "guaranteeType": "CONTRATO_COMPRA_VENDA_IMOVEL",
+                "description": "Comiss\u00e3o Intermedia\u00e7\u00e3o Im\u00f3vel \u00e0 Rua Volunt\u00e1rios da P\u00e1tria, 61, apt\u00b0701, Botafogo, Rio de Janeiro - RJ, CEP 22270000. Credores desta fatura: Privilegio Investimentos Imobili\u00e1rios Ltda (R$5,02); mazza consultoria e corretagem (R$1.400,00); BRUNO GALARA",
+                "totalValue": 840000,
+                "contractDate": "",
+                "depositValue": 84000,
+                "depositDate": "",
+                "totalCommission": 35000,
+                "brokerCommission": 2800,
+                "billingUrl": "https://www.asaas.com/i/9ylj24t5avfmyzoj",
+                "dueDate": "2024-08-12",
+                "brokerName": "BRUNO GALARANI",
+                "brokerCpfCnpj": "14826175795",
+                "brokerAssociationDate": "",
+                "brokerPreviousTransactions": 0,
+                "agencyName": "Privil\u00e9gio Im\u00f3veis",
+                "agencyCnpj": "15385257000186",
+                "agencyPreviousTransactions": 28,
+                "fiduciaryAlienation": false,
+                "fiduciaryAlienationBankSlug": "",
+                "parties": [
+                    {
+                        "name": "FABRICIO ANDRE RUBIN",
+                        "type": "VENDEDOR",
+                        "cpfCnpj": "63600765000"
+                    },
+                    {
+                        "name": "MANOEL MESSIAS PEIXINHO ",
+                        "type": "COMPRADOR",
+                        "cpfCnpj": "24768480500"
+                    }
+                ]
+            }
+        ],
+        "pontuacao_da_comissao": {
+            "NEGOCIACAO": "Pontuou 1 em sem_sinal_ou_com_sinal",
+            "IMOVEL": [
+                "Pontuou 2 em eh_apartamento",
+                "Pontuou 2 em eh_capital",
+                "Pontuou 2 em checa_valor"
+            ],
+            "VENDEDOR": "Pontuou 0 em checa_quantidade_de_vendedores",
+            "_PONTUACAO_TOTAL": 7
+        }
+    },
+    {
+        "_id": "66b4e911c5ad80858b87d122",
+        "productCode": "ANTECIPACAO_COMISSAO_CORRETOR",
+        "externalId": "1723132172366x459562582268231230",
+        "transactionCode": "1723059317003x721311992298864600",
+        "transactionValue": 840000,
+        "transactionSubstepsCount": 0,
+        "transactionDate": "",
+        "transactionAddressStreet": "Rua Volunt\u00e1rios da P\u00e1tria",
+        "transactionAddressNeighborhood": "Botafogo",
+        "transactionAddressNumber": "61",
+        "transactionAddressComplement": "apt\u00b0701",
+        "transactionAddressCity": "Rio de Janeiro",
+        "transactionAddressUF": "RJ",
+        "transactionAddressCEP": "22270000",
+        "currentInstallment": 1,
+        "totalInstallment": 1,
+        "constructionYear": "",
+        "companygroup": "Independente (n\u00e3o pertencente a rede)",
+        "propertyTypology": "",
+        "expectedValue": 787.5,
+        "expectedDate": "2024-08-12T03:00:00.000Z",
+        "paymentStructure": [
+            {
+                "forma_pagamento_nome": "Parcela concomitante \u00e0 escritura",
+                "forma_pagamento_valor": 756000.0,
+                "forma_pagamento_detalhes": "29082024"
+            },
+            {
+                "forma_pagamento_nome": "Sinal e princ\u00edpio de pagamento",
+                "forma_pagamento_valor": 84000.0,
+                "forma_pagamento_detalhes": "24072024"
+            }
+        ],
+        "intermediary": {
+            "name": "Privil\u00e9gio Im\u00f3veis",
+            "type": "JURIDICA",
+            "cpfCnpj": "15385257000186"
+        },
+        "contract_files": [],
+        "property_registration_files": [],
+        "contracted": {
+            "name": "VINICIUS DA SILVA FERREIRA",
+            "type": "FISICA",
+            "cpfCnpj": "14544727740"
+        },
+        "guarantees": [
+            {
+                "externalId": "1723059317003x721311992298864600",
+                "guaranteeType": "CONTRATO_COMPRA_VENDA_IMOVEL",
+                "description": "Comiss\u00e3o Intermedia\u00e7\u00e3o Im\u00f3vel \u00e0 Rua Volunt\u00e1rios da P\u00e1tria, 61, apt\u00b0701, Botafogo, Rio de Janeiro - RJ, CEP 22270000. Credores desta fatura: Privilegio Investimentos Imobili\u00e1rios Ltda (R$5,02); mazza consultoria e corretagem (R$1.400,00); BRUNO GALARA",
+                "totalValue": 840000,
+                "contractDate": "",
+                "depositValue": 84000,
+                "depositDate": "",
+                "totalCommission": 35000,
+                "brokerCommission": 787.5,
+                "billingUrl": "https://www.asaas.com/i/9ylj24t5avfmyzoj",
+                "dueDate": "2024-08-12",
+                "brokerName": "VINICIUS DA SILVA FERREIRA",
+                "brokerCpfCnpj": "14544727740",
+                "brokerAssociationDate": "2024-02-08",
+                "brokerPreviousTransactions": 12,
+                "agencyName": "Privil\u00e9gio Im\u00f3veis",
+                "agencyCnpj": "15385257000186",
+                "agencyPreviousTransactions": 28,
+                "fiduciaryAlienation": false,
+                "fiduciaryAlienationBankSlug": "",
+                "parties": [
+                    {
+                        "name": "FABRICIO ANDRE RUBIN",
+                        "type": "VENDEDOR",
+                        "cpfCnpj": "63600765000"
+                    },
+                    {
+                        "name": "MANOEL MESSIAS PEIXINHO ",
+                        "type": "COMPRADOR",
+                        "cpfCnpj": "24768480500"
+                    }
+                ]
+            }
+        ],
+        "pontuacao_da_comissao": {
+            "NEGOCIACAO": "Pontuou 1 em sem_sinal_ou_com_sinal",
+            "IMOVEL": [
+                "Pontuou 2 em eh_apartamento",
+                "Pontuou 2 em eh_capital",
+                "Pontuou 2 em checa_valor"
+            ],
+            "VENDEDOR": "Pontuou 0 em checa_quantidade_de_vendedores",
+            "_PONTUACAO_TOTAL": 7
+        }
+    },
+    {
+        "_id": "66b4e913c5ad80858b87d124",
+        "productCode": "ANTECIPACAO_COMISSAO_CORRETOR",
+        "externalId": "1723132172016x697266737950840300",
+        "transactionCode": "1723059317003x721311992298864600",
+        "transactionValue": 840000,
+        "transactionSubstepsCount": 0,
+        "transactionDate": "",
+        "transactionAddressStreet": "Rua Volunt\u00e1rios da P\u00e1tria",
+        "transactionAddressNeighborhood": "Botafogo",
+        "transactionAddressNumber": "61",
+        "transactionAddressComplement": "apt\u00b0701",
+        "transactionAddressCity": "Rio de Janeiro",
+        "transactionAddressUF": "RJ",
+        "transactionAddressCEP": "22270000",
+        "currentInstallment": 1,
+        "totalInstallment": 1,
+        "constructionYear": "",
+        "companygroup": "Independente (n\u00e3o pertencente a rede)",
+        "propertyTypology": "",
+        "expectedValue": 787.5,
+        "expectedDate": "2024-08-12T03:00:00.000Z",
+        "paymentStructure": [
+            {
+                "forma_pagamento_nome": "Parcela concomitante \u00e0 escritura",
+                "forma_pagamento_valor": 756000.0,
+                "forma_pagamento_detalhes": "29082024"
+            },
+            {
+                "forma_pagamento_nome": "Sinal e princ\u00edpio de pagamento",
+                "forma_pagamento_valor": 84000.0,
+                "forma_pagamento_detalhes": "24072024"
+            }
+        ],
+        "intermediary": {
+            "name": "Privil\u00e9gio Im\u00f3veis",
+            "type": "JURIDICA",
+            "cpfCnpj": "15385257000186"
+        },
+        "contract_files": [],
+        "property_registration_files": [],
+        "contracted": {
+            "name": "Jo\u00e3o Paulo Campanha Mallet",
+            "type": "FISICA",
+            "cpfCnpj": "01485049733"
+        },
+        "guarantees": [
+            {
+                "externalId": "1723059317003x721311992298864600",
+                "guaranteeType": "CONTRATO_COMPRA_VENDA_IMOVEL",
+                "description": "Comiss\u00e3o Intermedia\u00e7\u00e3o Im\u00f3vel \u00e0 Rua Volunt\u00e1rios da P\u00e1tria, 61, apt\u00b0701, Botafogo, Rio de Janeiro - RJ, CEP 22270000. Credores desta fatura: Privilegio Investimentos Imobili\u00e1rios Ltda (R$5,02); mazza consultoria e corretagem (R$1.400,00); BRUNO GALARA",
+                "totalValue": 840000,
+                "contractDate": "",
+                "depositValue": 84000,
+                "depositDate": "",
+                "totalCommission": 35000,
+                "brokerCommission": 787.5,
+                "billingUrl": "https://www.asaas.com/i/9ylj24t5avfmyzoj",
+                "dueDate": "2024-08-12",
+                "brokerName": "Jo\u00e3o Paulo Campanha Mallet",
+                "brokerCpfCnpj": "01485049733",
+                "brokerAssociationDate": "2024-02-08",
+                "brokerPreviousTransactions": 6,
+                "agencyName": "Privil\u00e9gio Im\u00f3veis",
+                "agencyCnpj": "15385257000186",
+                "agencyPreviousTransactions": 28,
+                "fiduciaryAlienation": false,
+                "fiduciaryAlienationBankSlug": "",
+                "parties": [
+                    {
+                        "name": "FABRICIO ANDRE RUBIN",
+                        "type": "VENDEDOR",
+                        "cpfCnpj": "63600765000"
+                    },
+                    {
+                        "name": "MANOEL MESSIAS PEIXINHO ",
+                        "type": "COMPRADOR",
+                        "cpfCnpj": "24768480500"
+                    }
+                ]
+            }
+        ],
+        "pontuacao_da_comissao": {
+            "NEGOCIACAO": "Pontuou 1 em sem_sinal_ou_com_sinal",
+            "IMOVEL": [
+                "Pontuou 2 em eh_apartamento",
+                "Pontuou 2 em eh_capital",
+                "Pontuou 2 em checa_valor"
+            ],
+            "VENDEDOR": "Pontuou 0 em checa_quantidade_de_vendedores",
+            "_PONTUACAO_TOTAL": 7
+        }
+    },
+    {
+        "_id": "66b4e914c5ad80858b87d126",
+        "productCode": "ANTECIPACAO_COMISSAO_CORRETOR",
+        "externalId": "1723132172148x862433995104886300",
+        "transactionCode": "1723059317003x721311992298864600",
+        "transactionValue": 840000,
+        "transactionSubstepsCount": 0,
+        "transactionDate": "",
+        "transactionAddressStreet": "Rua Volunt\u00e1rios da P\u00e1tria",
+        "transactionAddressNeighborhood": "Botafogo",
+        "transactionAddressNumber": "61",
+        "transactionAddressComplement": "apt\u00b0701",
+        "transactionAddressCity": "Rio de Janeiro",
+        "transactionAddressUF": "RJ",
+        "transactionAddressCEP": "22270000",
+        "currentInstallment": 1,
+        "totalInstallment": 1,
+        "constructionYear": "",
+        "companygroup": "Independente (n\u00e3o pertencente a rede)",
+        "propertyTypology": "",
+        "expectedValue": 1400,
+        "expectedDate": "2024-08-12T03:00:00.000Z",
+        "paymentStructure": [
+            {
+                "forma_pagamento_nome": "Parcela concomitante \u00e0 escritura",
+                "forma_pagamento_valor": 756000.0,
+                "forma_pagamento_detalhes": "29082024"
+            },
+            {
+                "forma_pagamento_nome": "Sinal e princ\u00edpio de pagamento",
+                "forma_pagamento_valor": 84000.0,
+                "forma_pagamento_detalhes": "24072024"
+            }
+        ],
+        "intermediary": {
+            "name": "Privil\u00e9gio Im\u00f3veis",
+            "type": "JURIDICA",
+            "cpfCnpj": "15385257000186"
+        },
+        "contract_files": [],
+        "property_registration_files": [],
+        "contracted": {
+            "name": "mazza consultoria e corretagem",
+            "type": "JURIDICA",
+            "cpfCnpj": "46890763000156"
+        },
+        "guarantees": [
+            {
+                "externalId": "1723059317003x721311992298864600",
+                "guaranteeType": "CONTRATO_COMPRA_VENDA_IMOVEL",
+                "description": "Comiss\u00e3o Intermedia\u00e7\u00e3o Im\u00f3vel \u00e0 Rua Volunt\u00e1rios da P\u00e1tria, 61, apt\u00b0701, Botafogo, Rio de Janeiro - RJ, CEP 22270000. Credores desta fatura: Privilegio Investimentos Imobili\u00e1rios Ltda (R$5,02); mazza consultoria e corretagem (R$1.400,00); BRUNO GALARA",
+                "totalValue": 840000,
+                "contractDate": "",
+                "depositValue": 84000,
+                "depositDate": "",
+                "totalCommission": 35000,
+                "brokerCommission": 1400,
+                "billingUrl": "https://www.asaas.com/i/9ylj24t5avfmyzoj",
+                "dueDate": "2024-08-12",
+                "brokerName": "mazza consultoria e corretagem",
+                "brokerCpfCnpj": "46890763000156",
+                "brokerAssociationDate": "2024-02-08",
+                "brokerPreviousTransactions": 7,
+                "agencyName": "Privil\u00e9gio Im\u00f3veis",
+                "agencyCnpj": "15385257000186",
+                "agencyPreviousTransactions": 28,
+                "fiduciaryAlienation": false,
+                "fiduciaryAlienationBankSlug": "",
+                "parties": [
+                    {
+                        "name": "FABRICIO ANDRE RUBIN",
+                        "type": "VENDEDOR",
+                        "cpfCnpj": "63600765000"
+                    },
+                    {
+                        "name": "MANOEL MESSIAS PEIXINHO ",
+                        "type": "COMPRADOR",
+                        "cpfCnpj": "24768480500"
+                    }
+                ]
+            }
+        ],
+        "pontuacao_da_comissao": {
+            "NEGOCIACAO": "Pontuou 1 em sem_sinal_ou_com_sinal",
+            "IMOVEL": [
+                "Pontuou 2 em eh_apartamento",
+                "Pontuou 2 em eh_capital",
+                "Pontuou 2 em checa_valor"
+            ],
+            "VENDEDOR": "Pontuou 0 em checa_quantidade_de_vendedores",
+            "_PONTUACAO_TOTAL": 7
+        }
+    },
+    {
+        "_id": "66b4e916c5ad80858b87d128",
+        "productCode": "ANTECIPACAO_COMISSAO_CORRETOR",
+        "externalId": "1723132172653x473282607060386200",
+        "transactionCode": "1723059317003x721311992298864600",
+        "transactionValue": 840000,
+        "transactionSubstepsCount": 0,
+        "transactionDate": "",
+        "transactionAddressStreet": "Rua Volunt\u00e1rios da P\u00e1tria",
+        "transactionAddressNeighborhood": "Botafogo",
+        "transactionAddressNumber": "61",
+        "transactionAddressComplement": "apt\u00b0701",
+        "transactionAddressCity": "Rio de Janeiro",
+        "transactionAddressUF": "RJ",
+        "transactionAddressCEP": "22270000",
+        "currentInstallment": 1,
+        "totalInstallment": 1,
+        "constructionYear": "",
+        "companygroup": "Independente (n\u00e3o pertencente a rede)",
+        "propertyTypology": "",
+        "expectedValue": 10150,
+        "expectedDate": "2024-08-12T03:00:00.000Z",
+        "paymentStructure": [
+            {
+                "forma_pagamento_nome": "Parcela concomitante \u00e0 escritura",
+                "forma_pagamento_valor": 756000.0,
+                "forma_pagamento_detalhes": "29082024"
+            },
+            {
+                "forma_pagamento_nome": "Sinal e princ\u00edpio de pagamento",
+                "forma_pagamento_valor": 84000.0,
+                "forma_pagamento_detalhes": "24072024"
+            }
+        ],
+        "intermediary": {
+            "name": "Privil\u00e9gio Im\u00f3veis",
+            "type": "JURIDICA",
+            "cpfCnpj": "15385257000186"
+        },
+        "contract_files": [],
+        "property_registration_files": [],
+        "contracted": {
+            "name": "Rafael Rangel",
+            "type": "FISICA",
+            "cpfCnpj": "14562384778"
+        },
+        "guarantees": [
+            {
+                "externalId": "1723059317003x721311992298864600",
+                "guaranteeType": "CONTRATO_COMPRA_VENDA_IMOVEL",
+                "description": "Comiss\u00e3o Intermedia\u00e7\u00e3o Im\u00f3vel \u00e0 Rua Volunt\u00e1rios da P\u00e1tria, 61, apt\u00b0701, Botafogo, Rio de Janeiro - RJ, CEP 22270000. Credores desta fatura: Privilegio Investimentos Imobili\u00e1rios Ltda (R$5,02); mazza consultoria e corretagem (R$1.400,00); BRUNO GALARA",
+                "totalValue": 840000,
+                "contractDate": "",
+                "depositValue": 84000,
+                "depositDate": "",
+                "totalCommission": 35000,
+                "brokerCommission": 10150,
+                "billingUrl": "https://www.asaas.com/i/9ylj24t5avfmyzoj",
+                "dueDate": "2024-08-12",
+                "brokerName": "Rafael Rangel",
+                "brokerCpfCnpj": "14562384778",
+                "brokerAssociationDate": "2024-02-08",
+                "brokerPreviousTransactions": 2,
+                "agencyName": "Privil\u00e9gio Im\u00f3veis",
+                "agencyCnpj": "15385257000186",
+                "agencyPreviousTransactions": 28,
+                "fiduciaryAlienation": false,
+                "fiduciaryAlienationBankSlug": "",
+                "parties": [
+                    {
+                        "name": "FABRICIO ANDRE RUBIN",
+                        "type": "VENDEDOR",
+                        "cpfCnpj": "63600765000"
+                    },
+                    {
+                        "name": "MANOEL MESSIAS PEIXINHO ",
+                        "type": "COMPRADOR",
+                        "cpfCnpj": "24768480500"
+                    }
+                ]
+            }
+        ],
+        "pontuacao_da_comissao": {
+            "NEGOCIACAO": "Pontuou 1 em sem_sinal_ou_com_sinal",
+            "IMOVEL": [
+                "Pontuou 2 em eh_apartamento",
+                "Pontuou 2 em eh_capital",
+                "Pontuou 2 em checa_valor"
+            ],
+            "VENDEDOR": "Pontuou 0 em checa_quantidade_de_vendedores",
+            "_PONTUACAO_TOTAL": 7
+        }
+    },
+    {
+        "_id": "66b4e9a0c5ad80858b87d12a",
+        "productCode": "ANTECIPACAO_COMISSAO_CORRETOR",
+        "externalId": "1723132320269x731812214223210400",
+        "transactionCode": "1721053482434x518787474668388350",
+        "transactionValue": 405000,
+        "transactionSubstepsCount": 2,
+        "transactionDate": "2024-08-08",
+        "transactionAddressStreet": "Rua Valpara\u00edso",
+        "transactionAddressNeighborhood": "Jardim Bot\u00e2nico",
+        "transactionAddressNumber": "1018",
+        "transactionAddressComplement": "401",
+        "transactionAddressCity": "Porto Alegre",
+        "transactionAddressUF": "RS",
+        "transactionAddressCEP": "90690300",
+        "currentInstallment": 1,
+        "totalInstallment": 1,
+        "constructionYear": "",
+        "companygroup": "Auxiliadora Predial",
+        "propertyTypology": "",
+        "expectedValue": 1458,
+        "expectedDate": "2024-08-09T03:00:00.000Z",
+        "paymentStructure": [
+            {
+                "forma_pagamento_nome": "Aliena\u00e7\u00e3o fiduci\u00e1ria (cr\u00e9dito do financiamento)",
+                "forma_pagamento_valor": 324000.0,
+                "forma_pagamento_detalhes": "caixa em at\u00e9 90 dias na assinatura deste contrato"
+            },
+            {
+                "forma_pagamento_nome": "Sinal e princ\u00edpio de pagamento",
+                "forma_pagamento_valor": 81000.0,
+                "forma_pagamento_detalhes": "pix na assinatura deste contrato"
+            }
+        ],
+        "intermediary": {
+            "name": "Auxiliadora Predial Parque Germania",
+            "type": "JURIDICA",
+            "cpfCnpj": "31645621000156"
+        },
+        "contract_files": [
+            {
+                "nome": "Minuta CCV Rua Valparaiso, 1018, 401, Jardim Botanico, Porto Alegre - RS, CEP 90690300 2024_07_16_02h07m.pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1721152445809x128156757353292240/Minuta%20CCV%20Rua%20Valpara%C3%ADso%2C%201018%2C%20401%2C%20Jardim%20Bot%C3%A2nico%2C%20Porto%20Alegre%20-%20RS%2C%20CEP%2090690300%202024_07_16_02h07m.pdf",
+                "data_upload": "16/07/2024"
+            },
+            {
+                "nome": "Contrato Valpara\u00edso, 1018 ap 401 atual Assinatura digital .pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1723058163726x336706232414287100/Contrato Valpara\u00edso%2C 1018 ap 401 atual Assinatura digital .pdf",
+                "data_upload": "07/08/2024"
+            },
+            {
+                "nome": "auto_close (assinado 202488) Contrato Valpara\u00edso, 1018 ap 401 atual Assinatura digital .pdf",
+                "url": "https://cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1723114704808x590546440909092100/auto_close (assinado 202488) Contrato Valpara\u00edso%2C 1018 ap 401 atual Assinatura digital .pdf",
+                "data_upload": "08/08/2024"
+            }
+        ],
+        "property_registration_files": [],
+        "contracted": {
+            "name": "Beatriz Kulisz",
+            "type": "FISICA",
+            "cpfCnpj": "31693946068"
+        },
+        "guarantees": [
+            {
+                "externalId": "1721053482434x518787474668388350",
+                "guaranteeType": "CONTRATO_COMPRA_VENDA_IMOVEL",
+                "description": "Comiss\u00e3o Intermedia\u00e7\u00e3o Im\u00f3vel \u00e0 Rua Valpara\u00edso, 1018, 401, Jardim Bot\u00e2nico, Porto Alegre - RS, CEP 90690300. Credores desta fatura: Simone Oliveira (R$3.037,50); Europa Comercializa\u00e7\u00e3o de imoveis Ltda (R$3.037,50); FOXTER CIA IMOBILIARIA (R$4.617,00)",
+                "totalValue": 405000,
+                "contractDate": "2024-08-08",
+                "depositValue": 81000,
+                "depositDate": "2024-08-10",
+                "totalCommission": 24300,
+                "brokerCommission": 1458,
+                "billingUrl": "https://www.asaas.com/i/0rwdk5wwe42y9gig",
+                "dueDate": "2024-08-09",
+                "brokerName": "Beatriz Kulisz",
+                "brokerCpfCnpj": "31693946068",
+                "brokerAssociationDate": "2024-06-11",
+                "brokerPreviousTransactions": 1,
+                "agencyName": "Auxiliadora Predial Parque Germania",
+                "agencyCnpj": "31645621000156",
+                "agencyPreviousTransactions": 38,
+                "fiduciaryAlienation": false,
+                "fiduciaryAlienationBankSlug": "cef",
+                "parties": [
+                    {
+                        "name": "Luis Claudio Bothona Filho ",
+                        "type": "VENDEDOR",
+                        "cpfCnpj": "65666380087"
+                    },
+                    {
+                        "name": "Thiago Soares Licks",
+                        "type": "COMPRADOR",
+                        "cpfCnpj": "02160507075"
+                    }
+                ]
+            }
+        ],
+        "pontuacao_da_comissao": {
+            "NEGOCIACAO": "Pontuou 1 em sem_sinal_ou_com_sinal",
+            "IMOVEL": [
+                "Pontuou 0 em eh_apartamento",
+                "Pontuou 2 em eh_capital",
+                "Pontuou 0 em checa_valor"
+            ],
+            "VENDEDOR": "Pontuou 0 em checa_quantidade_de_vendedores",
+            "_PONTUACAO_TOTAL": 3
+        }
+    },
+    {
+        "_id": "66b4e9d4c5ad80858b87d12c",
+        "productCode": "ANTECIPACAO_COMISSAO_CORRETOR",
+        "externalId": "1723132371905x266316765380489200",
+        "transactionCode": "1721053482434x518787474668388350",
+        "transactionValue": 405000,
+        "transactionSubstepsCount": 2,
+        "transactionDate": "2024-08-08",
+        "transactionAddressStreet": "Rua Valpara\u00edso",
+        "transactionAddressNeighborhood": "Jardim Bot\u00e2nico",
+        "transactionAddressNumber": "1018",
+        "transactionAddressComplement": "401",
+        "transactionAddressCity": "Porto Alegre",
+        "transactionAddressUF": "RS",
+        "transactionAddressCEP": "90690300",
+        "currentInstallment": 1,
+        "totalInstallment": 1,
+        "constructionYear": "",
+        "companygroup": "Auxiliadora Predial",
+        "propertyTypology": "",
+        "expectedValue": 1458,
+        "expectedDate": "2024-10-15T03:00:00.000Z",
+        "paymentStructure": [
+            {
+                "forma_pagamento_nome": "Aliena\u00e7\u00e3o fiduci\u00e1ria (cr\u00e9dito do financiamento)",
+                "forma_pagamento_valor": 324000.0,
+                "forma_pagamento_detalhes": "caixa em at\u00e9 90 dias na assinatura deste contrato"
+            },
+            {
+                "forma_pagamento_nome": "Sinal e princ\u00edpio de pagamento",
+                "forma_pagamento_valor": 81000.0,
+                "forma_pagamento_detalhes": "pix na assinatura deste contrato"
+            }
+        ],
+        "intermediary": {
+            "name": "Auxiliadora Predial Parque Germania",
+            "type": "JURIDICA",
+            "cpfCnpj": "31645621000156"
+        },
+        "contract_files": [
+            {
+                "nome": "Minuta CCV Rua Valparaiso, 1018, 401, Jardim Botanico, Porto Alegre - RS, CEP 90690300 2024_07_16_02h07m.pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1721152445809x128156757353292240/Minuta%20CCV%20Rua%20Valpara%C3%ADso%2C%201018%2C%20401%2C%20Jardim%20Bot%C3%A2nico%2C%20Porto%20Alegre%20-%20RS%2C%20CEP%2090690300%202024_07_16_02h07m.pdf",
+                "data_upload": "16/07/2024"
+            },
+            {
+                "nome": "Contrato Valpara\u00edso, 1018 ap 401 atual Assinatura digital .pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1723058163726x336706232414287100/Contrato Valpara\u00edso%2C 1018 ap 401 atual Assinatura digital .pdf",
+                "data_upload": "07/08/2024"
+            },
+            {
+                "nome": "auto_close (assinado 202488) Contrato Valpara\u00edso, 1018 ap 401 atual Assinatura digital .pdf",
+                "url": "https://cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1723114704808x590546440909092100/auto_close (assinado 202488) Contrato Valpara\u00edso%2C 1018 ap 401 atual Assinatura digital .pdf",
+                "data_upload": "08/08/2024"
+            }
+        ],
+        "property_registration_files": [],
+        "contracted": {
+            "name": "Beatriz Kulisz",
+            "type": "FISICA",
+            "cpfCnpj": "31693946068"
+        },
+        "guarantees": [
+            {
+                "externalId": "1721053482434x518787474668388350",
+                "guaranteeType": "CONTRATO_COMPRA_VENDA_IMOVEL",
+                "description": "Comiss\u00e3o Intermedia\u00e7\u00e3o Im\u00f3vel \u00e0 Rua Valpara\u00edso, 1018, 401, Jardim Bot\u00e2nico, Porto Alegre - RS, CEP 90690300. Credores desta fatura: Simone Oliveira (R$3.037,50); Europa Comercializa\u00e7\u00e3o de imoveis Ltda (R$3.037,50); FOXTER CIA IMOBILIARIA (R$4.617,00)",
+                "totalValue": 405000,
+                "contractDate": "2024-08-08",
+                "depositValue": 81000,
+                "depositDate": "2024-08-10",
+                "totalCommission": 24300,
+                "brokerCommission": 1458,
+                "billingUrl": "https://www.asaas.com/i/yz2p4fv8wfatm1pz",
+                "dueDate": "2024-10-15",
+                "brokerName": "Beatriz Kulisz",
+                "brokerCpfCnpj": "31693946068",
+                "brokerAssociationDate": "2024-06-11",
+                "brokerPreviousTransactions": 1,
+                "agencyName": "Auxiliadora Predial Parque Germania",
+                "agencyCnpj": "31645621000156",
+                "agencyPreviousTransactions": 38,
+                "fiduciaryAlienation": false,
+                "fiduciaryAlienationBankSlug": "cef",
+                "parties": [
+                    {
+                        "name": "Luis Claudio Bothona Filho ",
+                        "type": "VENDEDOR",
+                        "cpfCnpj": "65666380087"
+                    },
+                    {
+                        "name": "Thiago Soares Licks",
+                        "type": "COMPRADOR",
+                        "cpfCnpj": "02160507075"
+                    }
+                ]
+            }
+        ],
+        "pontuacao_da_comissao": {
+            "NEGOCIACAO": "Pontuou 1 em sem_sinal_ou_com_sinal",
+            "IMOVEL": [
+                "Pontuou 0 em eh_apartamento",
+                "Pontuou 2 em eh_capital",
+                "Pontuou 0 em checa_valor"
+            ],
+            "VENDEDOR": "Pontuou 0 em checa_quantidade_de_vendedores",
+            "_PONTUACAO_TOTAL": 3
+        }
+    },
+    {
+        "_id": "66b4fe061e3ea06939e12bb8",
+        "productCode": "ANTECIPACAO_COMISSAO_CORRETOR",
+        "externalId": "1723137500753x858948468396506800",
+        "transactionCode": "1721760259888x155891207451967500",
+        "transactionValue": 310000,
+        "transactionSubstepsCount": 4,
+        "transactionDate": "2024-07-29",
+        "transactionAddressStreet": "Rua Catumbi",
+        "transactionAddressNeighborhood": "Catumbi",
+        "transactionAddressNumber": "286 ",
+        "transactionAddressComplement": "Apto 1305",
+        "transactionAddressCity": "S\u00e3o Paulo",
+        "transactionAddressUF": "SP",
+        "transactionAddressCEP": "03021000",
+        "currentInstallment": 1,
+        "totalInstallment": 1,
+        "constructionYear": "",
+        "companygroup": "Independente (n\u00e3o pertencente a rede)",
+        "propertyTypology": "",
+        "expectedValue": 5425,
+        "expectedDate": "2024-08-09T03:00:00.000Z",
+        "paymentStructure": [
+            {
+                "forma_pagamento_nome": "Sinal e princ\u00edpio de pagamento",
+                "forma_pagamento_valor": 62000.0,
+                "forma_pagamento_detalhes": "em at\u00e9 3 (tr\u00eas) dias \u00fateis a contar da data da assinatura deste Contrato por ambas as Partes diretamente na conta banc\u00e1ria do VENDEDOR."
+            },
+            {
+                "forma_pagamento_nome": "Parcela concomitante \u00e0 escritura",
+                "forma_pagamento_valor": 248000.0,
+                "forma_pagamento_detalhes": "em at\u00e9 30 (trinta) dias corridos a contar da data da assinatura deste Contrato por ambas as Partes diretamente na conta banc\u00e1ria do VENDEDOR, mediante a assinatura da Escritura P\u00fablica de Venda e Compra por ambas as partes. "
+            }
+        ],
+        "intermediary": {
+            "name": "Loft Brasil",
+            "type": "JURIDICA",
+            "cpfCnpj": "29213298000108"
+        },
+        "contract_files": [
+            {
+                "nome": "[318712] CCV Rua Catumbi, 286 , Apto 1305 [EDU] (5).pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1722259573732x639677262633666200/[318712] CCV Rua Catumbi%2C 286 %2C Apto 1305 [EDU] (5).pdf",
+                "data_upload": "29/07/2024"
+            },
+            {
+                "nome": "auto_close (assinado 2024729) [318712] CCV Rua Catumbi, 286 , Apto 1305 [EDU] (5).pdf",
+                "url": "https://cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1722274506868x269131684594168240/auto_close (assinado 2024729) [318712] CCV Rua Catumbi%2C 286 %2C Apto 1305 [EDU] (5).pdf",
+                "data_upload": "29/07/2024"
+            },
+            {
+                "nome": "[318712] CCV Rua Catumbi, 286 , Apto 1305  - Clicksign.pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1722276469965x992989155567032700/[318712] CCV Rua Catumbi%2C 286 %2C Apto 1305  - Clicksign.pdf",
+                "data_upload": "29/07/2024"
+            }
+        ],
+        "property_registration_files": [],
+        "contracted": {
+            "name": "Eduardo Nunes",
+            "type": "FISICA",
+            "cpfCnpj": "00067503039"
+        },
+        "guarantees": [
+            {
+                "externalId": "1721760259888x155891207451967500",
+                "guaranteeType": "CONTRATO_COMPRA_VENDA_IMOVEL",
+                "description": "Comiss\u00e3o Intermedia\u00e7\u00e3o Im\u00f3vel \u00e0 Rua Catumbi, 286 , Apto 1305, Catumbi, S\u00e3o Paulo - SP, CEP 03021000. Credores desta fatura: LOFT (R$10.075,00); Eduardo Nunes (R$5.425,00).",
+                "totalValue": 310000,
+                "contractDate": "2024-07-29",
+                "depositValue": 62000,
+                "depositDate": "2024-07-31",
+                "totalCommission": 15500,
+                "brokerCommission": 5425,
+                "billingUrl": "https://www.asaas.com/i/a1djdbi869h5nhj7",
+                "dueDate": "2024-08-09",
+                "brokerName": "Eduardo Nunes",
+                "brokerCpfCnpj": "00067503039",
+                "brokerAssociationDate": "2022-10-03",
+                "brokerPreviousTransactions": 2,
+                "agencyName": "Loft Brasil",
+                "agencyCnpj": "29213298000108",
+                "agencyPreviousTransactions": 56,
+                "fiduciaryAlienation": false,
+                "fiduciaryAlienationBankSlug": "",
+                "parties": [
+                    {
+                        "name": "Agripino Canuto Ferreira Junior ",
+                        "type": "COMPRADOR",
+                        "cpfCnpj": "28638868863"
+                    },
+                    {
+                        "name": "Anderson Le\u00e3o da Silva",
+                        "type": "VENDEDOR",
+                        "cpfCnpj": "30301867844"
+                    }
+                ]
+            }
+        ],
+        "pontuacao_da_comissao": {
+            "NEGOCIACAO": "Pontuou 1 em sem_sinal_ou_com_sinal",
+            "IMOVEL": [
+                "Pontuou 2 em eh_apartamento",
+                "Pontuou 2 em eh_capital",
+                "Pontuou 0 em checa_valor"
+            ],
+            "VENDEDOR": "Pontuou 0 em checa_quantidade_de_vendedores",
+            "_PONTUACAO_TOTAL": 5
+        }
+    },
+    {
+        "_id": "66b507b693d14d08d38ebe75",
+        "productCode": "ANTECIPACAO_COMISSAO_CORRETOR",
+        "externalId": "1723139932104x411462423796836740",
+        "transactionCode": "1723067253190x360620577609220100",
+        "transactionValue": 890000,
+        "transactionSubstepsCount": 0,
+        "transactionDate": "",
+        "transactionAddressStreet": "Avenida Nossa Senhora de Copacabana",
+        "transactionAddressNeighborhood": "Leme",
+        "transactionAddressNumber": "44",
+        "transactionAddressComplement": "902",
+        "transactionAddressCity": "Rio de Janeiro",
+        "transactionAddressUF": "RJ",
+        "transactionAddressCEP": "22010122",
+        "currentInstallment": 1,
+        "totalInstallment": 1,
+        "constructionYear": "",
+        "companygroup": "Independente (n\u00e3o pertencente a rede)",
+        "propertyTypology": "",
+        "expectedValue": 1780,
+        "expectedDate": "2024-08-12T03:00:00.000Z",
+        "paymentStructure": [
+            {
+                "forma_pagamento_nome": "Sinal e princ\u00edpio de pagamento",
+                "forma_pagamento_valor": 89000.0,
+                "forma_pagamento_detalhes": "TED"
+            },
+            {
+                "forma_pagamento_nome": "Parcela(s) anteriormente \u00e0 escritura",
+                "forma_pagamento_valor": 801000.0,
+                "forma_pagamento_detalhes": "TED"
+            }
+        ],
+        "intermediary": {
+            "name": "Privil\u00e9gio Im\u00f3veis",
+            "type": "JURIDICA",
+            "cpfCnpj": "15385257000186"
+        },
+        "contract_files": [],
+        "property_registration_files": [],
+        "contracted": {
+            "name": "Luiz Gustavo De Oliveira  Bernardes",
+            "type": "FISICA",
+            "cpfCnpj": "05458354702"
+        },
+        "guarantees": [
+            {
+                "externalId": "1723067253190x360620577609220100",
+                "guaranteeType": "CONTRATO_COMPRA_VENDA_IMOVEL",
+                "description": "Comiss\u00e3o Intermedia\u00e7\u00e3o Im\u00f3vel \u00e0 Avenida Nossa Senhora de Copacabana, 44, 902, Leme, Rio de Janeiro - RJ, CEP 22010122. Credores desta fatura: Privilegio Investimentos Imobili\u00e1rios Ltda (R$5,02); VINICIUS DA SILVA FERREIRA (R$1.001,25); Jo\u00e3o Paulo Cam",
+                "totalValue": 890000,
+                "contractDate": "",
+                "depositValue": 89000,
+                "depositDate": "",
+                "totalCommission": 44500,
+                "brokerCommission": 1780,
+                "billingUrl": "https://www.asaas.com/i/0ueqp8obrdx2mgvz",
+                "dueDate": "2024-08-12",
+                "brokerName": "Luiz Gustavo De Oliveira  Bernardes",
+                "brokerCpfCnpj": "05458354702",
+                "brokerAssociationDate": "2024-02-08",
+                "brokerPreviousTransactions": 9,
+                "agencyName": "Privil\u00e9gio Im\u00f3veis",
+                "agencyCnpj": "15385257000186",
+                "agencyPreviousTransactions": 28,
+                "fiduciaryAlienation": false,
+                "fiduciaryAlienationBankSlug": "",
+                "parties": [
+                    {
+                        "name": "JO\u00c3O MARCELO BARRETO SILVA",
+                        "type": "VENDEDOR",
+                        "cpfCnpj": "63469626120"
+                    },
+                    {
+                        "name": "FRANCISCO CORREA DE LIMA",
+                        "type": "COMPRADOR",
+                        "cpfCnpj": "98104748734"
+                    }
+                ]
+            }
+        ],
+        "pontuacao_da_comissao": {
+            "NEGOCIACAO": "Pontuou 1 em sem_sinal_ou_com_sinal",
+            "IMOVEL": [
+                "Pontuou 0 em eh_apartamento",
+                "Pontuou 2 em eh_capital",
+                "Pontuou 2 em checa_valor"
+            ],
+            "VENDEDOR": "Pontuou 0 em checa_quantidade_de_vendedores",
+            "_PONTUACAO_TOTAL": 5
+        }
+    },
+    {
+        "_id": "66b507b893d14d08d38ebe77",
+        "productCode": "ANTECIPACAO_COMISSAO_CORRETOR",
+        "externalId": "1723139932205x995229169478613500",
+        "transactionCode": "1723067253190x360620577609220100",
+        "transactionValue": 890000,
+        "transactionSubstepsCount": 0,
+        "transactionDate": "",
+        "transactionAddressStreet": "Avenida Nossa Senhora de Copacabana",
+        "transactionAddressNeighborhood": "Leme",
+        "transactionAddressNumber": "44",
+        "transactionAddressComplement": "902",
+        "transactionAddressCity": "Rio de Janeiro",
+        "transactionAddressUF": "RJ",
+        "transactionAddressCEP": "22010122",
+        "currentInstallment": 1,
+        "totalInstallment": 1,
+        "constructionYear": "",
+        "companygroup": "Independente (n\u00e3o pertencente a rede)",
+        "propertyTypology": "",
+        "expectedValue": 11837,
+        "expectedDate": "2024-08-12T03:00:00.000Z",
+        "paymentStructure": [
+            {
+                "forma_pagamento_nome": "Sinal e princ\u00edpio de pagamento",
+                "forma_pagamento_valor": 89000.0,
+                "forma_pagamento_detalhes": "TED"
+            },
+            {
+                "forma_pagamento_nome": "Parcela(s) anteriormente \u00e0 escritura",
+                "forma_pagamento_valor": 801000.0,
+                "forma_pagamento_detalhes": "TED"
+            }
+        ],
+        "intermediary": {
+            "name": "Privil\u00e9gio Im\u00f3veis",
+            "type": "JURIDICA",
+            "cpfCnpj": "15385257000186"
+        },
+        "contract_files": [],
+        "property_registration_files": [],
+        "contracted": {
+            "name": "Gustavo Soares",
+            "type": "FISICA",
+            "cpfCnpj": "15681683737"
+        },
+        "guarantees": [
+            {
+                "externalId": "1723067253190x360620577609220100",
+                "guaranteeType": "CONTRATO_COMPRA_VENDA_IMOVEL",
+                "description": "Comiss\u00e3o Intermedia\u00e7\u00e3o Im\u00f3vel \u00e0 Avenida Nossa Senhora de Copacabana, 44, 902, Leme, Rio de Janeiro - RJ, CEP 22010122. Credores desta fatura: Privilegio Investimentos Imobili\u00e1rios Ltda (R$5,02); VINICIUS DA SILVA FERREIRA (R$1.001,25); Jo\u00e3o Paulo Cam",
+                "totalValue": 890000,
+                "contractDate": "",
+                "depositValue": 89000,
+                "depositDate": "",
+                "totalCommission": 44500,
+                "brokerCommission": 11837,
+                "billingUrl": "https://www.asaas.com/i/0ueqp8obrdx2mgvz",
+                "dueDate": "2024-08-12",
+                "brokerName": "Gustavo Soares",
+                "brokerCpfCnpj": "15681683737",
+                "brokerAssociationDate": "2024-02-08",
+                "brokerPreviousTransactions": 0,
+                "agencyName": "Privil\u00e9gio Im\u00f3veis",
+                "agencyCnpj": "15385257000186",
+                "agencyPreviousTransactions": 28,
+                "fiduciaryAlienation": false,
+                "fiduciaryAlienationBankSlug": "",
+                "parties": [
+                    {
+                        "name": "JO\u00c3O MARCELO BARRETO SILVA",
+                        "type": "VENDEDOR",
+                        "cpfCnpj": "63469626120"
+                    },
+                    {
+                        "name": "FRANCISCO CORREA DE LIMA",
+                        "type": "COMPRADOR",
+                        "cpfCnpj": "98104748734"
+                    }
+                ]
+            }
+        ],
+        "pontuacao_da_comissao": {
+            "NEGOCIACAO": "Pontuou 1 em sem_sinal_ou_com_sinal",
+            "IMOVEL": [
+                "Pontuou 0 em eh_apartamento",
+                "Pontuou 2 em eh_capital",
+                "Pontuou 2 em checa_valor"
+            ],
+            "VENDEDOR": "Pontuou 0 em checa_quantidade_de_vendedores",
+            "_PONTUACAO_TOTAL": 5
+        }
+    },
+    {
+        "_id": "66b507ba93d14d08d38ebe79",
+        "productCode": "ANTECIPACAO_COMISSAO_CORRETOR",
+        "externalId": "1723139931375x818689331642218600",
+        "transactionCode": "1723067253190x360620577609220100",
+        "transactionValue": 890000,
+        "transactionSubstepsCount": 0,
+        "transactionDate": "",
+        "transactionAddressStreet": "Avenida Nossa Senhora de Copacabana",
+        "transactionAddressNeighborhood": "Leme",
+        "transactionAddressNumber": "44",
+        "transactionAddressComplement": "902",
+        "transactionAddressCity": "Rio de Janeiro",
+        "transactionAddressUF": "RJ",
+        "transactionAddressCEP": "22010122",
+        "currentInstallment": 1,
+        "totalInstallment": 1,
+        "constructionYear": "",
+        "companygroup": "Independente (n\u00e3o pertencente a rede)",
+        "propertyTypology": "",
+        "expectedValue": 1001.25,
+        "expectedDate": "2024-08-12T03:00:00.000Z",
+        "paymentStructure": [
+            {
+                "forma_pagamento_nome": "Sinal e princ\u00edpio de pagamento",
+                "forma_pagamento_valor": 89000.0,
+                "forma_pagamento_detalhes": "TED"
+            },
+            {
+                "forma_pagamento_nome": "Parcela(s) anteriormente \u00e0 escritura",
+                "forma_pagamento_valor": 801000.0,
+                "forma_pagamento_detalhes": "TED"
+            }
+        ],
+        "intermediary": {
+            "name": "Privil\u00e9gio Im\u00f3veis",
+            "type": "JURIDICA",
+            "cpfCnpj": "15385257000186"
+        },
+        "contract_files": [],
+        "property_registration_files": [],
+        "contracted": {
+            "name": "VINICIUS DA SILVA FERREIRA",
+            "type": "FISICA",
+            "cpfCnpj": "14544727740"
+        },
+        "guarantees": [
+            {
+                "externalId": "1723067253190x360620577609220100",
+                "guaranteeType": "CONTRATO_COMPRA_VENDA_IMOVEL",
+                "description": "Comiss\u00e3o Intermedia\u00e7\u00e3o Im\u00f3vel \u00e0 Avenida Nossa Senhora de Copacabana, 44, 902, Leme, Rio de Janeiro - RJ, CEP 22010122. Credores desta fatura: Privilegio Investimentos Imobili\u00e1rios Ltda (R$5,02); VINICIUS DA SILVA FERREIRA (R$1.001,25); Jo\u00e3o Paulo Cam",
+                "totalValue": 890000,
+                "contractDate": "",
+                "depositValue": 89000,
+                "depositDate": "",
+                "totalCommission": 44500,
+                "brokerCommission": 1001.25,
+                "billingUrl": "https://www.asaas.com/i/0ueqp8obrdx2mgvz",
+                "dueDate": "2024-08-12",
+                "brokerName": "VINICIUS DA SILVA FERREIRA",
+                "brokerCpfCnpj": "14544727740",
+                "brokerAssociationDate": "2024-02-08",
+                "brokerPreviousTransactions": 12,
+                "agencyName": "Privil\u00e9gio Im\u00f3veis",
+                "agencyCnpj": "15385257000186",
+                "agencyPreviousTransactions": 28,
+                "fiduciaryAlienation": false,
+                "fiduciaryAlienationBankSlug": "",
+                "parties": [
+                    {
+                        "name": "JO\u00c3O MARCELO BARRETO SILVA",
+                        "type": "VENDEDOR",
+                        "cpfCnpj": "63469626120"
+                    },
+                    {
+                        "name": "FRANCISCO CORREA DE LIMA",
+                        "type": "COMPRADOR",
+                        "cpfCnpj": "98104748734"
+                    }
+                ]
+            }
+        ],
+        "pontuacao_da_comissao": {
+            "NEGOCIACAO": "Pontuou 1 em sem_sinal_ou_com_sinal",
+            "IMOVEL": [
+                "Pontuou 0 em eh_apartamento",
+                "Pontuou 2 em eh_capital",
+                "Pontuou 2 em checa_valor"
+            ],
+            "VENDEDOR": "Pontuou 0 em checa_quantidade_de_vendedores",
+            "_PONTUACAO_TOTAL": 5
+        }
+    },
+    {
+        "_id": "66b507bb93d14d08d38ebe7b",
+        "productCode": "ANTECIPACAO_COMISSAO_CORRETOR",
+        "externalId": "1723139932141x622358843752190960",
+        "transactionCode": "1723067253190x360620577609220100",
+        "transactionValue": 890000,
+        "transactionSubstepsCount": 0,
+        "transactionDate": "",
+        "transactionAddressStreet": "Avenida Nossa Senhora de Copacabana",
+        "transactionAddressNeighborhood": "Leme",
+        "transactionAddressNumber": "44",
+        "transactionAddressComplement": "902",
+        "transactionAddressCity": "Rio de Janeiro",
+        "transactionAddressUF": "RJ",
+        "transactionAddressCEP": "22010122",
+        "currentInstallment": 1,
+        "totalInstallment": 1,
+        "constructionYear": "",
+        "companygroup": "Independente (n\u00e3o pertencente a rede)",
+        "propertyTypology": "",
+        "expectedValue": 4005,
+        "expectedDate": "2024-08-12T03:00:00.000Z",
+        "paymentStructure": [
+            {
+                "forma_pagamento_nome": "Sinal e princ\u00edpio de pagamento",
+                "forma_pagamento_valor": 89000.0,
+                "forma_pagamento_detalhes": "TED"
+            },
+            {
+                "forma_pagamento_nome": "Parcela(s) anteriormente \u00e0 escritura",
+                "forma_pagamento_valor": 801000.0,
+                "forma_pagamento_detalhes": "TED"
+            }
+        ],
+        "intermediary": {
+            "name": "Privil\u00e9gio Im\u00f3veis",
+            "type": "JURIDICA",
+            "cpfCnpj": "15385257000186"
+        },
+        "contract_files": [],
+        "property_registration_files": [],
+        "contracted": {
+            "name": "Felipe Fragoso",
+            "type": "FISICA",
+            "cpfCnpj": "13679818750"
+        },
+        "guarantees": [
+            {
+                "externalId": "1723067253190x360620577609220100",
+                "guaranteeType": "CONTRATO_COMPRA_VENDA_IMOVEL",
+                "description": "Comiss\u00e3o Intermedia\u00e7\u00e3o Im\u00f3vel \u00e0 Avenida Nossa Senhora de Copacabana, 44, 902, Leme, Rio de Janeiro - RJ, CEP 22010122. Credores desta fatura: Privilegio Investimentos Imobili\u00e1rios Ltda (R$5,02); VINICIUS DA SILVA FERREIRA (R$1.001,25); Jo\u00e3o Paulo Cam",
+                "totalValue": 890000,
+                "contractDate": "",
+                "depositValue": 89000,
+                "depositDate": "",
+                "totalCommission": 44500,
+                "brokerCommission": 4005,
+                "billingUrl": "https://www.asaas.com/i/0ueqp8obrdx2mgvz",
+                "dueDate": "2024-08-12",
+                "brokerName": "Felipe Fragoso",
+                "brokerCpfCnpj": "13679818750",
+                "brokerAssociationDate": "2024-02-08",
+                "brokerPreviousTransactions": 2,
+                "agencyName": "Privil\u00e9gio Im\u00f3veis",
+                "agencyCnpj": "15385257000186",
+                "agencyPreviousTransactions": 28,
+                "fiduciaryAlienation": false,
+                "fiduciaryAlienationBankSlug": "",
+                "parties": [
+                    {
+                        "name": "JO\u00c3O MARCELO BARRETO SILVA",
+                        "type": "VENDEDOR",
+                        "cpfCnpj": "63469626120"
+                    },
+                    {
+                        "name": "FRANCISCO CORREA DE LIMA",
+                        "type": "COMPRADOR",
+                        "cpfCnpj": "98104748734"
+                    }
+                ]
+            }
+        ],
+        "pontuacao_da_comissao": {
+            "NEGOCIACAO": "Pontuou 1 em sem_sinal_ou_com_sinal",
+            "IMOVEL": [
+                "Pontuou 0 em eh_apartamento",
+                "Pontuou 2 em eh_capital",
+                "Pontuou 2 em checa_valor"
+            ],
+            "VENDEDOR": "Pontuou 0 em checa_quantidade_de_vendedores",
+            "_PONTUACAO_TOTAL": 5
+        }
+    },
+    {
+        "_id": "66b507bd93d14d08d38ebe7d",
+        "productCode": "ANTECIPACAO_COMISSAO_CORRETOR",
+        "externalId": "1723139931869x555230428323757440",
+        "transactionCode": "1723067253190x360620577609220100",
+        "transactionValue": 890000,
+        "transactionSubstepsCount": 0,
+        "transactionDate": "",
+        "transactionAddressStreet": "Avenida Nossa Senhora de Copacabana",
+        "transactionAddressNeighborhood": "Leme",
+        "transactionAddressNumber": "44",
+        "transactionAddressComplement": "902",
+        "transactionAddressCity": "Rio de Janeiro",
+        "transactionAddressUF": "RJ",
+        "transactionAddressCEP": "22010122",
+        "currentInstallment": 1,
+        "totalInstallment": 1,
+        "constructionYear": "",
+        "companygroup": "Independente (n\u00e3o pertencente a rede)",
+        "propertyTypology": "",
+        "expectedValue": 1001.25,
+        "expectedDate": "2024-08-12T03:00:00.000Z",
+        "paymentStructure": [
+            {
+                "forma_pagamento_nome": "Sinal e princ\u00edpio de pagamento",
+                "forma_pagamento_valor": 89000.0,
+                "forma_pagamento_detalhes": "TED"
+            },
+            {
+                "forma_pagamento_nome": "Parcela(s) anteriormente \u00e0 escritura",
+                "forma_pagamento_valor": 801000.0,
+                "forma_pagamento_detalhes": "TED"
+            }
+        ],
+        "intermediary": {
+            "name": "Privil\u00e9gio Im\u00f3veis",
+            "type": "JURIDICA",
+            "cpfCnpj": "15385257000186"
+        },
+        "contract_files": [],
+        "property_registration_files": [],
+        "contracted": {
+            "name": "Jo\u00e3o Paulo Campanha Mallet",
+            "type": "FISICA",
+            "cpfCnpj": "01485049733"
+        },
+        "guarantees": [
+            {
+                "externalId": "1723067253190x360620577609220100",
+                "guaranteeType": "CONTRATO_COMPRA_VENDA_IMOVEL",
+                "description": "Comiss\u00e3o Intermedia\u00e7\u00e3o Im\u00f3vel \u00e0 Avenida Nossa Senhora de Copacabana, 44, 902, Leme, Rio de Janeiro - RJ, CEP 22010122. Credores desta fatura: Privilegio Investimentos Imobili\u00e1rios Ltda (R$5,02); VINICIUS DA SILVA FERREIRA (R$1.001,25); Jo\u00e3o Paulo Cam",
+                "totalValue": 890000,
+                "contractDate": "",
+                "depositValue": 89000,
+                "depositDate": "",
+                "totalCommission": 44500,
+                "brokerCommission": 1001.25,
+                "billingUrl": "https://www.asaas.com/i/0ueqp8obrdx2mgvz",
+                "dueDate": "2024-08-12",
+                "brokerName": "Jo\u00e3o Paulo Campanha Mallet",
+                "brokerCpfCnpj": "01485049733",
+                "brokerAssociationDate": "2024-02-08",
+                "brokerPreviousTransactions": 6,
+                "agencyName": "Privil\u00e9gio Im\u00f3veis",
+                "agencyCnpj": "15385257000186",
+                "agencyPreviousTransactions": 28,
+                "fiduciaryAlienation": false,
+                "fiduciaryAlienationBankSlug": "",
+                "parties": [
+                    {
+                        "name": "JO\u00c3O MARCELO BARRETO SILVA",
+                        "type": "VENDEDOR",
+                        "cpfCnpj": "63469626120"
+                    },
+                    {
+                        "name": "FRANCISCO CORREA DE LIMA",
+                        "type": "COMPRADOR",
+                        "cpfCnpj": "98104748734"
+                    }
+                ]
+            }
+        ],
+        "pontuacao_da_comissao": {
+            "NEGOCIACAO": "Pontuou 1 em sem_sinal_ou_com_sinal",
+            "IMOVEL": [
+                "Pontuou 0 em eh_apartamento",
+                "Pontuou 2 em eh_capital",
+                "Pontuou 2 em checa_valor"
+            ],
+            "VENDEDOR": "Pontuou 0 em checa_quantidade_de_vendedores",
+            "_PONTUACAO_TOTAL": 5
+        }
+    },
+    {
+        "_id": "66b507bf93d14d08d38ebe7f",
+        "productCode": "ANTECIPACAO_COMISSAO_CORRETOR",
+        "externalId": "1723139931547x144534620107155550",
+        "transactionCode": "1723067253190x360620577609220100",
+        "transactionValue": 890000,
+        "transactionSubstepsCount": 0,
+        "transactionDate": "",
+        "transactionAddressStreet": "Avenida Nossa Senhora de Copacabana",
+        "transactionAddressNeighborhood": "Leme",
+        "transactionAddressNumber": "44",
+        "transactionAddressComplement": "902",
+        "transactionAddressCity": "Rio de Janeiro",
+        "transactionAddressUF": "RJ",
+        "transactionAddressCEP": "22010122",
+        "currentInstallment": 1,
+        "totalInstallment": 1,
+        "constructionYear": "",
+        "companygroup": "Independente (n\u00e3o pertencente a rede)",
+        "propertyTypology": "",
+        "expectedValue": 667.5,
+        "expectedDate": "2024-08-12T03:00:00.000Z",
+        "paymentStructure": [
+            {
+                "forma_pagamento_nome": "Sinal e princ\u00edpio de pagamento",
+                "forma_pagamento_valor": 89000.0,
+                "forma_pagamento_detalhes": "TED"
+            },
+            {
+                "forma_pagamento_nome": "Parcela(s) anteriormente \u00e0 escritura",
+                "forma_pagamento_valor": 801000.0,
+                "forma_pagamento_detalhes": "TED"
+            }
+        ],
+        "intermediary": {
+            "name": "Privil\u00e9gio Im\u00f3veis",
+            "type": "JURIDICA",
+            "cpfCnpj": "15385257000186"
+        },
+        "contract_files": [],
+        "property_registration_files": [],
+        "contracted": {
+            "name": "Marcelo Mallet",
+            "type": "FISICA",
+            "cpfCnpj": "02881106765"
+        },
+        "guarantees": [
+            {
+                "externalId": "1723067253190x360620577609220100",
+                "guaranteeType": "CONTRATO_COMPRA_VENDA_IMOVEL",
+                "description": "Comiss\u00e3o Intermedia\u00e7\u00e3o Im\u00f3vel \u00e0 Avenida Nossa Senhora de Copacabana, 44, 902, Leme, Rio de Janeiro - RJ, CEP 22010122. Credores desta fatura: Privilegio Investimentos Imobili\u00e1rios Ltda (R$5,02); VINICIUS DA SILVA FERREIRA (R$1.001,25); Jo\u00e3o Paulo Cam",
+                "totalValue": 890000,
+                "contractDate": "",
+                "depositValue": 89000,
+                "depositDate": "",
+                "totalCommission": 44500,
+                "brokerCommission": 667.5,
+                "billingUrl": "https://www.asaas.com/i/0ueqp8obrdx2mgvz",
+                "dueDate": "2024-08-12",
+                "brokerName": "Marcelo Mallet",
+                "brokerCpfCnpj": "02881106765",
+                "brokerAssociationDate": "",
+                "brokerPreviousTransactions": 4,
+                "agencyName": "Privil\u00e9gio Im\u00f3veis",
+                "agencyCnpj": "15385257000186",
+                "agencyPreviousTransactions": 28,
+                "fiduciaryAlienation": false,
+                "fiduciaryAlienationBankSlug": "",
+                "parties": [
+                    {
+                        "name": "JO\u00c3O MARCELO BARRETO SILVA",
+                        "type": "VENDEDOR",
+                        "cpfCnpj": "63469626120"
+                    },
+                    {
+                        "name": "FRANCISCO CORREA DE LIMA",
+                        "type": "COMPRADOR",
+                        "cpfCnpj": "98104748734"
+                    }
+                ]
+            }
+        ],
+        "pontuacao_da_comissao": {
+            "NEGOCIACAO": "Pontuou 1 em sem_sinal_ou_com_sinal",
+            "IMOVEL": [
+                "Pontuou 0 em eh_apartamento",
+                "Pontuou 2 em eh_capital",
+                "Pontuou 2 em checa_valor"
+            ],
+            "VENDEDOR": "Pontuou 0 em checa_quantidade_de_vendedores",
+            "_PONTUACAO_TOTAL": 5
+        }
+    },
+    {
+        "_id": "66b507c093d14d08d38ebe81",
+        "productCode": "ANTECIPACAO_COMISSAO_CORRETOR",
+        "externalId": "1723139932013x963040243602337800",
+        "transactionCode": "1723067253190x360620577609220100",
+        "transactionValue": 890000,
+        "transactionSubstepsCount": 0,
+        "transactionDate": "",
+        "transactionAddressStreet": "Avenida Nossa Senhora de Copacabana",
+        "transactionAddressNeighborhood": "Leme",
+        "transactionAddressNumber": "44",
+        "transactionAddressComplement": "902",
+        "transactionAddressCity": "Rio de Janeiro",
+        "transactionAddressUF": "RJ",
+        "transactionAddressCEP": "22010122",
+        "currentInstallment": 1,
+        "totalInstallment": 1,
+        "constructionYear": "",
+        "companygroup": "Independente (n\u00e3o pertencente a rede)",
+        "propertyTypology": "",
+        "expectedValue": 2937,
+        "expectedDate": "2024-08-12T03:00:00.000Z",
+        "paymentStructure": [
+            {
+                "forma_pagamento_nome": "Sinal e princ\u00edpio de pagamento",
+                "forma_pagamento_valor": 89000.0,
+                "forma_pagamento_detalhes": "TED"
+            },
+            {
+                "forma_pagamento_nome": "Parcela(s) anteriormente \u00e0 escritura",
+                "forma_pagamento_valor": 801000.0,
+                "forma_pagamento_detalhes": "TED"
+            }
+        ],
+        "intermediary": {
+            "name": "Privil\u00e9gio Im\u00f3veis",
+            "type": "JURIDICA",
+            "cpfCnpj": "15385257000186"
+        },
+        "contract_files": [],
+        "property_registration_files": [],
+        "contracted": {
+            "name": "Monica Araujo",
+            "type": "FISICA",
+            "cpfCnpj": "10272243779"
+        },
+        "guarantees": [
+            {
+                "externalId": "1723067253190x360620577609220100",
+                "guaranteeType": "CONTRATO_COMPRA_VENDA_IMOVEL",
+                "description": "Comiss\u00e3o Intermedia\u00e7\u00e3o Im\u00f3vel \u00e0 Avenida Nossa Senhora de Copacabana, 44, 902, Leme, Rio de Janeiro - RJ, CEP 22010122. Credores desta fatura: Privilegio Investimentos Imobili\u00e1rios Ltda (R$5,02); VINICIUS DA SILVA FERREIRA (R$1.001,25); Jo\u00e3o Paulo Cam",
+                "totalValue": 890000,
+                "contractDate": "",
+                "depositValue": 89000,
+                "depositDate": "",
+                "totalCommission": 44500,
+                "brokerCommission": 2937,
+                "billingUrl": "https://www.asaas.com/i/0ueqp8obrdx2mgvz",
+                "dueDate": "2024-08-12",
+                "brokerName": "Monica Araujo",
+                "brokerCpfCnpj": "10272243779",
+                "brokerAssociationDate": "2024-02-08",
+                "brokerPreviousTransactions": 0,
+                "agencyName": "Privil\u00e9gio Im\u00f3veis",
+                "agencyCnpj": "15385257000186",
+                "agencyPreviousTransactions": 28,
+                "fiduciaryAlienation": false,
+                "fiduciaryAlienationBankSlug": "",
+                "parties": [
+                    {
+                        "name": "JO\u00c3O MARCELO BARRETO SILVA",
+                        "type": "VENDEDOR",
+                        "cpfCnpj": "63469626120"
+                    },
+                    {
+                        "name": "FRANCISCO CORREA DE LIMA",
+                        "type": "COMPRADOR",
+                        "cpfCnpj": "98104748734"
+                    }
+                ]
+            }
+        ],
+        "pontuacao_da_comissao": {
+            "NEGOCIACAO": "Pontuou 1 em sem_sinal_ou_com_sinal",
+            "IMOVEL": [
+                "Pontuou 0 em eh_apartamento",
+                "Pontuou 2 em eh_capital",
+                "Pontuou 2 em checa_valor"
+            ],
+            "VENDEDOR": "Pontuou 0 em checa_quantidade_de_vendedores",
+            "_PONTUACAO_TOTAL": 5
+        }
+    },
+    {
+        "_id": "66b507c293d14d08d38ebe83",
+        "productCode": "ANTECIPACAO_COMISSAO_CORRETOR",
+        "externalId": "1723139932100x731992851072496000",
+        "transactionCode": "1723067253190x360620577609220100",
+        "transactionValue": 890000,
+        "transactionSubstepsCount": 0,
+        "transactionDate": "",
+        "transactionAddressStreet": "Avenida Nossa Senhora de Copacabana",
+        "transactionAddressNeighborhood": "Leme",
+        "transactionAddressNumber": "44",
+        "transactionAddressComplement": "902",
+        "transactionAddressCity": "Rio de Janeiro",
+        "transactionAddressUF": "RJ",
+        "transactionAddressCEP": "22010122",
+        "currentInstallment": 1,
+        "totalInstallment": 1,
+        "constructionYear": "",
+        "companygroup": "Independente (n\u00e3o pertencente a rede)",
+        "propertyTypology": "",
+        "expectedValue": 3026,
+        "expectedDate": "2024-08-12T03:00:00.000Z",
+        "paymentStructure": [
+            {
+                "forma_pagamento_nome": "Sinal e princ\u00edpio de pagamento",
+                "forma_pagamento_valor": 89000.0,
+                "forma_pagamento_detalhes": "TED"
+            },
+            {
+                "forma_pagamento_nome": "Parcela(s) anteriormente \u00e0 escritura",
+                "forma_pagamento_valor": 801000.0,
+                "forma_pagamento_detalhes": "TED"
+            }
+        ],
+        "intermediary": {
+            "name": "Privil\u00e9gio Im\u00f3veis",
+            "type": "JURIDICA",
+            "cpfCnpj": "15385257000186"
+        },
+        "contract_files": [],
+        "property_registration_files": [],
+        "contracted": {
+            "name": "Breno Puzzine",
+            "type": "FISICA",
+            "cpfCnpj": "15344831790"
+        },
+        "guarantees": [
+            {
+                "externalId": "1723067253190x360620577609220100",
+                "guaranteeType": "CONTRATO_COMPRA_VENDA_IMOVEL",
+                "description": "Comiss\u00e3o Intermedia\u00e7\u00e3o Im\u00f3vel \u00e0 Avenida Nossa Senhora de Copacabana, 44, 902, Leme, Rio de Janeiro - RJ, CEP 22010122. Credores desta fatura: Privilegio Investimentos Imobili\u00e1rios Ltda (R$5,02); VINICIUS DA SILVA FERREIRA (R$1.001,25); Jo\u00e3o Paulo Cam",
+                "totalValue": 890000,
+                "contractDate": "",
+                "depositValue": 89000,
+                "depositDate": "",
+                "totalCommission": 44500,
+                "brokerCommission": 3026,
+                "billingUrl": "https://www.asaas.com/i/0ueqp8obrdx2mgvz",
+                "dueDate": "2024-08-12",
+                "brokerName": "Breno Puzzine",
+                "brokerCpfCnpj": "15344831790",
+                "brokerAssociationDate": "2024-02-08",
+                "brokerPreviousTransactions": 1,
+                "agencyName": "Privil\u00e9gio Im\u00f3veis",
+                "agencyCnpj": "15385257000186",
+                "agencyPreviousTransactions": 28,
+                "fiduciaryAlienation": false,
+                "fiduciaryAlienationBankSlug": "",
+                "parties": [
+                    {
+                        "name": "JO\u00c3O MARCELO BARRETO SILVA",
+                        "type": "VENDEDOR",
+                        "cpfCnpj": "63469626120"
+                    },
+                    {
+                        "name": "FRANCISCO CORREA DE LIMA",
+                        "type": "COMPRADOR",
+                        "cpfCnpj": "98104748734"
+                    }
+                ]
+            }
+        ],
+        "pontuacao_da_comissao": {
+            "NEGOCIACAO": "Pontuou 1 em sem_sinal_ou_com_sinal",
+            "IMOVEL": [
+                "Pontuou 0 em eh_apartamento",
+                "Pontuou 2 em eh_capital",
+                "Pontuou 2 em checa_valor"
+            ],
+            "VENDEDOR": "Pontuou 0 em checa_quantidade_de_vendedores",
+            "_PONTUACAO_TOTAL": 5
+        }
+    },
+    {
+        "_id": "66b50f35b7d0068b083c4048",
+        "productCode": "ANTECIPACAO_COMISSAO_CORRETOR",
+        "externalId": "1723141899915x820060541099435500",
+        "transactionCode": "1720282017592x811460361686089700",
+        "transactionValue": 280000,
+        "transactionSubstepsCount": 5,
+        "transactionDate": "",
+        "transactionAddressStreet": "Rua Bar\u00e3o de S\u00e3o Francisco",
+        "transactionAddressNeighborhood": "Andara\u00ed",
+        "transactionAddressNumber": "245",
+        "transactionAddressComplement": "02   1406",
+        "transactionAddressCity": "Rio de Janeiro",
+        "transactionAddressUF": "RJ",
+        "transactionAddressCEP": "20560031",
+        "currentInstallment": 1,
+        "totalInstallment": 1,
+        "constructionYear": "",
+        "companygroup": "Lopes",
+        "propertyTypology": "",
+        "expectedValue": 1800,
+        "expectedDate": "2024-08-09T03:00:00.000Z",
+        "paymentStructure": [
+            {
+                "forma_pagamento_nome": "Sinal e princ\u00edpio de pagamento",
+                "forma_pagamento_valor": 30000.0,
+                "forma_pagamento_detalhes": "Boleto"
+            },
+            {
+                "forma_pagamento_nome": "Parcela concomitante \u00e0 escritura",
+                "forma_pagamento_valor": 250000.0,
+                "forma_pagamento_detalhes": "Cheque ADM"
+            }
+        ],
+        "intermediary": {
+            "name": "BSJ Empreendimentos Imobili\u00e1rios LTDA",
+            "type": "JURIDICA",
+            "cpfCnpj": "28362798000130"
+        },
+        "contract_files": [
+            {
+                "nome": "(assinado 2024718) Minuta CCV Rua Barao de Sao Francisco, 245, 02   1406, Andarai, Rio de Janeiro - RJ, CEP 20560031 2024_07_16_06h07m.pdf.pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1722463075079x109372465288068100/(assinado 2024718) Minuta CCV Rua Bar\u00e3o de S\u00e3o Francisco%2C 245%2C 02   1406%2C Andara\u00ed%2C Rio de Janeiro - RJ%2C CEP 20560031 2024_07_16_06h07m.pdf.pdf",
+                "data_upload": "31/07/2024"
+            },
+            {
+                "nome": "Termo aditivo - BA110146 (1).pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1722463547004x816094858136080100/Termo aditivo - BA110146 (1).pdf",
+                "data_upload": "31/07/2024"
+            }
+        ],
+        "property_registration_files": [
+            {
+                "nome": "S24070361842D (1).PDF",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1721753655435x291939300549326460/S24070361842D%20%281%29.PDF",
+                "data_upload": "23/07/2024"
+            }
+        ],
+        "contracted": {
+            "name": "Cl\u00e1udia  Bravo",
+            "type": "FISICA",
+            "cpfCnpj": "00554862743"
+        },
+        "guarantees": [
+            {
+                "externalId": "1720282017592x811460361686089700",
+                "guaranteeType": "CONTRATO_COMPRA_VENDA_IMOVEL",
+                "description": "Comiss\u00e3o Intermedia\u00e7\u00e3o Im\u00f3vel \u00e0 Rua Bar\u00e3o de S\u00e3o Francisco, 245, 02   1406, Andara\u00ed, Rio de Janeiro - RJ, CEP 20560031. Credores desta fatura: BSJ Empreendimentos Imobili\u00e1rios LTDA (R$4.650,00); Luiz Arthur Moreira (R$450,00); Veronica Reis (R$600,00",
+                "totalValue": 280000,
+                "contractDate": "",
+                "depositValue": 30000,
+                "depositDate": "",
+                "totalCommission": 15000,
+                "brokerCommission": 1800,
+                "billingUrl": "https://www.asaas.com/i/msrh1409ymedc02n",
+                "dueDate": "2024-08-09",
+                "brokerName": "Cl\u00e1udia  Bravo",
+                "brokerCpfCnpj": "00554862743",
+                "brokerAssociationDate": "",
+                "brokerPreviousTransactions": 0,
+                "agencyName": "BSJ Empreendimentos Imobili\u00e1rios LTDA",
+                "agencyCnpj": "28362798000130",
+                "agencyPreviousTransactions": 6,
+                "fiduciaryAlienation": true,
+                "fiduciaryAlienationBankSlug": "",
+                "parties": [
+                    {
+                        "name": "Alexandre da Silva Pinheiro",
+                        "type": "VENDEDOR",
+                        "cpfCnpj": "02213814732"
+                    },
+                    {
+                        "name": "Marcia Catarina Guimaraes de Oliveira ",
+                        "type": "COMPRADOR",
+                        "cpfCnpj": "73771031753"
+                    }
+                ]
+            }
+        ],
+        "pontuacao_da_comissao": {
+            "NEGOCIACAO": "Pontuou 1 em sem_sinal_ou_com_sinal",
+            "IMOVEL": [
+                "Pontuou 0 em eh_apartamento",
+                "Pontuou 2 em eh_capital",
+                "Pontuou 0 em checa_valor"
+            ],
+            "VENDEDOR": "Pontuou 0 em checa_quantidade_de_vendedores",
+            "_PONTUACAO_TOTAL": 3
+        }
+    },
+    {
+        "_id": "66b50f37b7d0068b083c404a",
+        "productCode": "ANTECIPACAO_COMISSAO_CORRETOR",
+        "externalId": "1723141900502x255367763894756030",
+        "transactionCode": "1720282017592x811460361686089700",
+        "transactionValue": 280000,
+        "transactionSubstepsCount": 5,
+        "transactionDate": "",
+        "transactionAddressStreet": "Rua Bar\u00e3o de S\u00e3o Francisco",
+        "transactionAddressNeighborhood": "Andara\u00ed",
+        "transactionAddressNumber": "245",
+        "transactionAddressComplement": "02   1406",
+        "transactionAddressCity": "Rio de Janeiro",
+        "transactionAddressUF": "RJ",
+        "transactionAddressCEP": "20560031",
+        "currentInstallment": 1,
+        "totalInstallment": 1,
+        "constructionYear": "",
+        "companygroup": "Lopes",
+        "propertyTypology": "",
+        "expectedValue": 600,
+        "expectedDate": "2024-08-09T03:00:00.000Z",
+        "paymentStructure": [
+            {
+                "forma_pagamento_nome": "Sinal e princ\u00edpio de pagamento",
+                "forma_pagamento_valor": 30000.0,
+                "forma_pagamento_detalhes": "Boleto"
+            },
+            {
+                "forma_pagamento_nome": "Parcela concomitante \u00e0 escritura",
+                "forma_pagamento_valor": 250000.0,
+                "forma_pagamento_detalhes": "Cheque ADM"
+            }
+        ],
+        "intermediary": {
+            "name": "BSJ Empreendimentos Imobili\u00e1rios LTDA",
+            "type": "JURIDICA",
+            "cpfCnpj": "28362798000130"
+        },
+        "contract_files": [
+            {
+                "nome": "(assinado 2024718) Minuta CCV Rua Barao de Sao Francisco, 245, 02   1406, Andarai, Rio de Janeiro - RJ, CEP 20560031 2024_07_16_06h07m.pdf.pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1722463075079x109372465288068100/(assinado 2024718) Minuta CCV Rua Bar\u00e3o de S\u00e3o Francisco%2C 245%2C 02   1406%2C Andara\u00ed%2C Rio de Janeiro - RJ%2C CEP 20560031 2024_07_16_06h07m.pdf.pdf",
+                "data_upload": "31/07/2024"
+            },
+            {
+                "nome": "Termo aditivo - BA110146 (1).pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1722463547004x816094858136080100/Termo aditivo - BA110146 (1).pdf",
+                "data_upload": "31/07/2024"
+            }
+        ],
+        "property_registration_files": [
+            {
+                "nome": "S24070361842D (1).PDF",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1721753655435x291939300549326460/S24070361842D%20%281%29.PDF",
+                "data_upload": "23/07/2024"
+            }
+        ],
+        "contracted": {
+            "name": "Veronica Reis",
+            "type": "FISICA",
+            "cpfCnpj": "09009801764"
+        },
+        "guarantees": [
+            {
+                "externalId": "1720282017592x811460361686089700",
+                "guaranteeType": "CONTRATO_COMPRA_VENDA_IMOVEL",
+                "description": "Comiss\u00e3o Intermedia\u00e7\u00e3o Im\u00f3vel \u00e0 Rua Bar\u00e3o de S\u00e3o Francisco, 245, 02   1406, Andara\u00ed, Rio de Janeiro - RJ, CEP 20560031. Credores desta fatura: BSJ Empreendimentos Imobili\u00e1rios LTDA (R$4.650,00); Luiz Arthur Moreira (R$450,00); Veronica Reis (R$600,00",
+                "totalValue": 280000,
+                "contractDate": "",
+                "depositValue": 30000,
+                "depositDate": "",
+                "totalCommission": 15000,
+                "brokerCommission": 600,
+                "billingUrl": "https://www.asaas.com/i/msrh1409ymedc02n",
+                "dueDate": "2024-08-09",
+                "brokerName": "Veronica Reis",
+                "brokerCpfCnpj": "09009801764",
+                "brokerAssociationDate": "",
+                "brokerPreviousTransactions": 3,
+                "agencyName": "BSJ Empreendimentos Imobili\u00e1rios LTDA",
+                "agencyCnpj": "28362798000130",
+                "agencyPreviousTransactions": 6,
+                "fiduciaryAlienation": true,
+                "fiduciaryAlienationBankSlug": "",
+                "parties": [
+                    {
+                        "name": "Alexandre da Silva Pinheiro",
+                        "type": "VENDEDOR",
+                        "cpfCnpj": "02213814732"
+                    },
+                    {
+                        "name": "Marcia Catarina Guimaraes de Oliveira ",
+                        "type": "COMPRADOR",
+                        "cpfCnpj": "73771031753"
+                    }
+                ]
+            }
+        ],
+        "pontuacao_da_comissao": {
+            "NEGOCIACAO": "Pontuou 1 em sem_sinal_ou_com_sinal",
+            "IMOVEL": [
+                "Pontuou 0 em eh_apartamento",
+                "Pontuou 2 em eh_capital",
+                "Pontuou 0 em checa_valor"
+            ],
+            "VENDEDOR": "Pontuou 0 em checa_quantidade_de_vendedores",
+            "_PONTUACAO_TOTAL": 3
+        }
+    },
+    {
+        "_id": "66b50f39b7d0068b083c404c",
+        "productCode": "ANTECIPACAO_COMISSAO_CORRETOR",
+        "externalId": "1723141900386x578760008463846400",
+        "transactionCode": "1720282017592x811460361686089700",
+        "transactionValue": 280000,
+        "transactionSubstepsCount": 5,
+        "transactionDate": "",
+        "transactionAddressStreet": "Rua Bar\u00e3o de S\u00e3o Francisco",
+        "transactionAddressNeighborhood": "Andara\u00ed",
+        "transactionAddressNumber": "245",
+        "transactionAddressComplement": "02   1406",
+        "transactionAddressCity": "Rio de Janeiro",
+        "transactionAddressUF": "RJ",
+        "transactionAddressCEP": "20560031",
+        "currentInstallment": 1,
+        "totalInstallment": 1,
+        "constructionYear": "",
+        "companygroup": "Lopes",
+        "propertyTypology": "",
+        "expectedValue": 6600,
+        "expectedDate": "2024-08-09T03:00:00.000Z",
+        "paymentStructure": [
+            {
+                "forma_pagamento_nome": "Sinal e princ\u00edpio de pagamento",
+                "forma_pagamento_valor": 30000.0,
+                "forma_pagamento_detalhes": "Boleto"
+            },
+            {
+                "forma_pagamento_nome": "Parcela concomitante \u00e0 escritura",
+                "forma_pagamento_valor": 250000.0,
+                "forma_pagamento_detalhes": "Cheque ADM"
+            }
+        ],
+        "intermediary": {
+            "name": "BSJ Empreendimentos Imobili\u00e1rios LTDA",
+            "type": "JURIDICA",
+            "cpfCnpj": "28362798000130"
+        },
+        "contract_files": [
+            {
+                "nome": "(assinado 2024718) Minuta CCV Rua Barao de Sao Francisco, 245, 02   1406, Andarai, Rio de Janeiro - RJ, CEP 20560031 2024_07_16_06h07m.pdf.pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1722463075079x109372465288068100/(assinado 2024718) Minuta CCV Rua Bar\u00e3o de S\u00e3o Francisco%2C 245%2C 02   1406%2C Andara\u00ed%2C Rio de Janeiro - RJ%2C CEP 20560031 2024_07_16_06h07m.pdf.pdf",
+                "data_upload": "31/07/2024"
+            },
+            {
+                "nome": "Termo aditivo - BA110146 (1).pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1722463547004x816094858136080100/Termo aditivo - BA110146 (1).pdf",
+                "data_upload": "31/07/2024"
+            }
+        ],
+        "property_registration_files": [
+            {
+                "nome": "S24070361842D (1).PDF",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1721753655435x291939300549326460/S24070361842D%20%281%29.PDF",
+                "data_upload": "23/07/2024"
+            }
+        ],
+        "contracted": {
+            "name": "Jose NOVAIS",
+            "type": "FISICA",
+            "cpfCnpj": "79006698768"
+        },
+        "guarantees": [
+            {
+                "externalId": "1720282017592x811460361686089700",
+                "guaranteeType": "CONTRATO_COMPRA_VENDA_IMOVEL",
+                "description": "Comiss\u00e3o Intermedia\u00e7\u00e3o Im\u00f3vel \u00e0 Rua Bar\u00e3o de S\u00e3o Francisco, 245, 02   1406, Andara\u00ed, Rio de Janeiro - RJ, CEP 20560031. Credores desta fatura: BSJ Empreendimentos Imobili\u00e1rios LTDA (R$4.650,00); Luiz Arthur Moreira (R$450,00); Veronica Reis (R$600,00",
+                "totalValue": 280000,
+                "contractDate": "",
+                "depositValue": 30000,
+                "depositDate": "",
+                "totalCommission": 15000,
+                "brokerCommission": 6600,
+                "billingUrl": "https://www.asaas.com/i/msrh1409ymedc02n",
+                "dueDate": "2024-08-09",
+                "brokerName": "Jose NOVAIS",
+                "brokerCpfCnpj": "79006698768",
+                "brokerAssociationDate": "",
+                "brokerPreviousTransactions": 0,
+                "agencyName": "BSJ Empreendimentos Imobili\u00e1rios LTDA",
+                "agencyCnpj": "28362798000130",
+                "agencyPreviousTransactions": 6,
+                "fiduciaryAlienation": true,
+                "fiduciaryAlienationBankSlug": "",
+                "parties": [
+                    {
+                        "name": "Alexandre da Silva Pinheiro",
+                        "type": "VENDEDOR",
+                        "cpfCnpj": "02213814732"
+                    },
+                    {
+                        "name": "Marcia Catarina Guimaraes de Oliveira ",
+                        "type": "COMPRADOR",
+                        "cpfCnpj": "73771031753"
+                    }
+                ]
+            }
+        ],
+        "pontuacao_da_comissao": {
+            "NEGOCIACAO": "Pontuou 1 em sem_sinal_ou_com_sinal",
+            "IMOVEL": [
+                "Pontuou 0 em eh_apartamento",
+                "Pontuou 2 em eh_capital",
+                "Pontuou 0 em checa_valor"
+            ],
+            "VENDEDOR": "Pontuou 0 em checa_quantidade_de_vendedores",
+            "_PONTUACAO_TOTAL": 3
+        }
+    },
+    {
+        "_id": "66b50f3ab7d0068b083c404e",
+        "productCode": "ANTECIPACAO_COMISSAO_CORRETOR",
+        "externalId": "1723141900628x839516883033347500",
+        "transactionCode": "1720282017592x811460361686089700",
+        "transactionValue": 280000,
+        "transactionSubstepsCount": 5,
+        "transactionDate": "",
+        "transactionAddressStreet": "Rua Bar\u00e3o de S\u00e3o Francisco",
+        "transactionAddressNeighborhood": "Andara\u00ed",
+        "transactionAddressNumber": "245",
+        "transactionAddressComplement": "02   1406",
+        "transactionAddressCity": "Rio de Janeiro",
+        "transactionAddressUF": "RJ",
+        "transactionAddressCEP": "20560031",
+        "currentInstallment": 1,
+        "totalInstallment": 1,
+        "constructionYear": "",
+        "companygroup": "Lopes",
+        "propertyTypology": "",
+        "expectedValue": 450,
+        "expectedDate": "2024-08-09T03:00:00.000Z",
+        "paymentStructure": [
+            {
+                "forma_pagamento_nome": "Sinal e princ\u00edpio de pagamento",
+                "forma_pagamento_valor": 30000.0,
+                "forma_pagamento_detalhes": "Boleto"
+            },
+            {
+                "forma_pagamento_nome": "Parcela concomitante \u00e0 escritura",
+                "forma_pagamento_valor": 250000.0,
+                "forma_pagamento_detalhes": "Cheque ADM"
+            }
+        ],
+        "intermediary": {
+            "name": "BSJ Empreendimentos Imobili\u00e1rios LTDA",
+            "type": "JURIDICA",
+            "cpfCnpj": "28362798000130"
+        },
+        "contract_files": [
+            {
+                "nome": "(assinado 2024718) Minuta CCV Rua Barao de Sao Francisco, 245, 02   1406, Andarai, Rio de Janeiro - RJ, CEP 20560031 2024_07_16_06h07m.pdf.pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1722463075079x109372465288068100/(assinado 2024718) Minuta CCV Rua Bar\u00e3o de S\u00e3o Francisco%2C 245%2C 02   1406%2C Andara\u00ed%2C Rio de Janeiro - RJ%2C CEP 20560031 2024_07_16_06h07m.pdf.pdf",
+                "data_upload": "31/07/2024"
+            },
+            {
+                "nome": "Termo aditivo - BA110146 (1).pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1722463547004x816094858136080100/Termo aditivo - BA110146 (1).pdf",
+                "data_upload": "31/07/2024"
+            }
+        ],
+        "property_registration_files": [
+            {
+                "nome": "S24070361842D (1).PDF",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1721753655435x291939300549326460/S24070361842D%20%281%29.PDF",
+                "data_upload": "23/07/2024"
+            }
+        ],
+        "contracted": {
+            "name": "Marcus Vin\u00edcius Flores De Freitas",
+            "type": "FISICA",
+            "cpfCnpj": "87382091791"
+        },
+        "guarantees": [
+            {
+                "externalId": "1720282017592x811460361686089700",
+                "guaranteeType": "CONTRATO_COMPRA_VENDA_IMOVEL",
+                "description": "Comiss\u00e3o Intermedia\u00e7\u00e3o Im\u00f3vel \u00e0 Rua Bar\u00e3o de S\u00e3o Francisco, 245, 02   1406, Andara\u00ed, Rio de Janeiro - RJ, CEP 20560031. Credores desta fatura: BSJ Empreendimentos Imobili\u00e1rios LTDA (R$4.650,00); Luiz Arthur Moreira (R$450,00); Veronica Reis (R$600,00",
+                "totalValue": 280000,
+                "contractDate": "",
+                "depositValue": 30000,
+                "depositDate": "",
+                "totalCommission": 15000,
+                "brokerCommission": 450,
+                "billingUrl": "https://www.asaas.com/i/msrh1409ymedc02n",
+                "dueDate": "2024-08-09",
+                "brokerName": "Marcus Vin\u00edcius Flores De Freitas",
+                "brokerCpfCnpj": "87382091791",
+                "brokerAssociationDate": "",
+                "brokerPreviousTransactions": 0,
+                "agencyName": "BSJ Empreendimentos Imobili\u00e1rios LTDA",
+                "agencyCnpj": "28362798000130",
+                "agencyPreviousTransactions": 6,
+                "fiduciaryAlienation": true,
+                "fiduciaryAlienationBankSlug": "",
+                "parties": [
+                    {
+                        "name": "Alexandre da Silva Pinheiro",
+                        "type": "VENDEDOR",
+                        "cpfCnpj": "02213814732"
+                    },
+                    {
+                        "name": "Marcia Catarina Guimaraes de Oliveira ",
+                        "type": "COMPRADOR",
+                        "cpfCnpj": "73771031753"
+                    }
+                ]
+            }
+        ],
+        "pontuacao_da_comissao": {
+            "NEGOCIACAO": "Pontuou 1 em sem_sinal_ou_com_sinal",
+            "IMOVEL": [
+                "Pontuou 0 em eh_apartamento",
+                "Pontuou 2 em eh_capital",
+                "Pontuou 0 em checa_valor"
+            ],
+            "VENDEDOR": "Pontuou 0 em checa_quantidade_de_vendedores",
+            "_PONTUACAO_TOTAL": 3
+        }
+    },
+    {
+        "_id": "66b50f3cb7d0068b083c4050",
+        "productCode": "ANTECIPACAO_COMISSAO_CORRETOR",
+        "externalId": "1723141903576x482921794911114200",
+        "transactionCode": "1720282017592x811460361686089700",
+        "transactionValue": 280000,
+        "transactionSubstepsCount": 5,
+        "transactionDate": "",
+        "transactionAddressStreet": "Rua Bar\u00e3o de S\u00e3o Francisco",
+        "transactionAddressNeighborhood": "Andara\u00ed",
+        "transactionAddressNumber": "245",
+        "transactionAddressComplement": "02   1406",
+        "transactionAddressCity": "Rio de Janeiro",
+        "transactionAddressUF": "RJ",
+        "transactionAddressCEP": "20560031",
+        "currentInstallment": 1,
+        "totalInstallment": 1,
+        "constructionYear": "",
+        "companygroup": "Lopes",
+        "propertyTypology": "",
+        "expectedValue": 450,
+        "expectedDate": "2024-08-09T03:00:00.000Z",
+        "paymentStructure": [
+            {
+                "forma_pagamento_nome": "Sinal e princ\u00edpio de pagamento",
+                "forma_pagamento_valor": 30000.0,
+                "forma_pagamento_detalhes": "Boleto"
+            },
+            {
+                "forma_pagamento_nome": "Parcela concomitante \u00e0 escritura",
+                "forma_pagamento_valor": 250000.0,
+                "forma_pagamento_detalhes": "Cheque ADM"
+            }
+        ],
+        "intermediary": {
+            "name": "BSJ Empreendimentos Imobili\u00e1rios LTDA",
+            "type": "JURIDICA",
+            "cpfCnpj": "28362798000130"
+        },
+        "contract_files": [
+            {
+                "nome": "(assinado 2024718) Minuta CCV Rua Barao de Sao Francisco, 245, 02   1406, Andarai, Rio de Janeiro - RJ, CEP 20560031 2024_07_16_06h07m.pdf.pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1722463075079x109372465288068100/(assinado 2024718) Minuta CCV Rua Bar\u00e3o de S\u00e3o Francisco%2C 245%2C 02   1406%2C Andara\u00ed%2C Rio de Janeiro - RJ%2C CEP 20560031 2024_07_16_06h07m.pdf.pdf",
+                "data_upload": "31/07/2024"
+            },
+            {
+                "nome": "Termo aditivo - BA110146 (1).pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1722463547004x816094858136080100/Termo aditivo - BA110146 (1).pdf",
+                "data_upload": "31/07/2024"
+            }
+        ],
+        "property_registration_files": [
+            {
+                "nome": "S24070361842D (1).PDF",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1721753655435x291939300549326460/S24070361842D%20%281%29.PDF",
+                "data_upload": "23/07/2024"
+            }
+        ],
+        "contracted": {
+            "name": "Thiago  Vita Penna",
+            "type": "FISICA",
+            "cpfCnpj": "16236820708"
+        },
+        "guarantees": [
+            {
+                "externalId": "1720282017592x811460361686089700",
+                "guaranteeType": "CONTRATO_COMPRA_VENDA_IMOVEL",
+                "description": "Comiss\u00e3o Intermedia\u00e7\u00e3o Im\u00f3vel \u00e0 Rua Bar\u00e3o de S\u00e3o Francisco, 245, 02   1406, Andara\u00ed, Rio de Janeiro - RJ, CEP 20560031. Credores desta fatura: BSJ Empreendimentos Imobili\u00e1rios LTDA (R$4.650,00); Luiz Arthur Moreira (R$450,00); Veronica Reis (R$600,00",
+                "totalValue": 280000,
+                "contractDate": "",
+                "depositValue": 30000,
+                "depositDate": "",
+                "totalCommission": 15000,
+                "brokerCommission": 450,
+                "billingUrl": "https://www.asaas.com/i/msrh1409ymedc02n",
+                "dueDate": "2024-08-09",
+                "brokerName": "Thiago  Vita Penna",
+                "brokerCpfCnpj": "16236820708",
+                "brokerAssociationDate": "",
+                "brokerPreviousTransactions": 0,
+                "agencyName": "BSJ Empreendimentos Imobili\u00e1rios LTDA",
+                "agencyCnpj": "28362798000130",
+                "agencyPreviousTransactions": 6,
+                "fiduciaryAlienation": true,
+                "fiduciaryAlienationBankSlug": "",
+                "parties": [
+                    {
+                        "name": "Alexandre da Silva Pinheiro",
+                        "type": "VENDEDOR",
+                        "cpfCnpj": "02213814732"
+                    },
+                    {
+                        "name": "Marcia Catarina Guimaraes de Oliveira ",
+                        "type": "COMPRADOR",
+                        "cpfCnpj": "73771031753"
+                    }
+                ]
+            }
+        ],
+        "pontuacao_da_comissao": {
+            "NEGOCIACAO": "Pontuou 1 em sem_sinal_ou_com_sinal",
+            "IMOVEL": [
+                "Pontuou 0 em eh_apartamento",
+                "Pontuou 2 em eh_capital",
+                "Pontuou 0 em checa_valor"
+            ],
+            "VENDEDOR": "Pontuou 0 em checa_quantidade_de_vendedores",
+            "_PONTUACAO_TOTAL": 3
+        }
+    },
+    {
+        "_id": "66b50f3eb7d0068b083c4052",
+        "productCode": "ANTECIPACAO_COMISSAO_CORRETOR",
+        "externalId": "1723141900508x109191917187106080",
+        "transactionCode": "1720282017592x811460361686089700",
+        "transactionValue": 280000,
+        "transactionSubstepsCount": 5,
+        "transactionDate": "",
+        "transactionAddressStreet": "Rua Bar\u00e3o de S\u00e3o Francisco",
+        "transactionAddressNeighborhood": "Andara\u00ed",
+        "transactionAddressNumber": "245",
+        "transactionAddressComplement": "02   1406",
+        "transactionAddressCity": "Rio de Janeiro",
+        "transactionAddressUF": "RJ",
+        "transactionAddressCEP": "20560031",
+        "currentInstallment": 1,
+        "totalInstallment": 1,
+        "constructionYear": "",
+        "companygroup": "Lopes",
+        "propertyTypology": "",
+        "expectedValue": 450,
+        "expectedDate": "2024-08-09T03:00:00.000Z",
+        "paymentStructure": [
+            {
+                "forma_pagamento_nome": "Sinal e princ\u00edpio de pagamento",
+                "forma_pagamento_valor": 30000.0,
+                "forma_pagamento_detalhes": "Boleto"
+            },
+            {
+                "forma_pagamento_nome": "Parcela concomitante \u00e0 escritura",
+                "forma_pagamento_valor": 250000.0,
+                "forma_pagamento_detalhes": "Cheque ADM"
+            }
+        ],
+        "intermediary": {
+            "name": "BSJ Empreendimentos Imobili\u00e1rios LTDA",
+            "type": "JURIDICA",
+            "cpfCnpj": "28362798000130"
+        },
+        "contract_files": [
+            {
+                "nome": "(assinado 2024718) Minuta CCV Rua Barao de Sao Francisco, 245, 02   1406, Andarai, Rio de Janeiro - RJ, CEP 20560031 2024_07_16_06h07m.pdf.pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1722463075079x109372465288068100/(assinado 2024718) Minuta CCV Rua Bar\u00e3o de S\u00e3o Francisco%2C 245%2C 02   1406%2C Andara\u00ed%2C Rio de Janeiro - RJ%2C CEP 20560031 2024_07_16_06h07m.pdf.pdf",
+                "data_upload": "31/07/2024"
+            },
+            {
+                "nome": "Termo aditivo - BA110146 (1).pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1722463547004x816094858136080100/Termo aditivo - BA110146 (1).pdf",
+                "data_upload": "31/07/2024"
+            }
+        ],
+        "property_registration_files": [
+            {
+                "nome": "S24070361842D (1).PDF",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1721753655435x291939300549326460/S24070361842D%20%281%29.PDF",
+                "data_upload": "23/07/2024"
+            }
+        ],
+        "contracted": {
+            "name": "Luiz Arthur Moreira",
+            "type": "FISICA",
+            "cpfCnpj": "03495673792"
+        },
+        "guarantees": [
+            {
+                "externalId": "1720282017592x811460361686089700",
+                "guaranteeType": "CONTRATO_COMPRA_VENDA_IMOVEL",
+                "description": "Comiss\u00e3o Intermedia\u00e7\u00e3o Im\u00f3vel \u00e0 Rua Bar\u00e3o de S\u00e3o Francisco, 245, 02   1406, Andara\u00ed, Rio de Janeiro - RJ, CEP 20560031. Credores desta fatura: BSJ Empreendimentos Imobili\u00e1rios LTDA (R$4.650,00); Luiz Arthur Moreira (R$450,00); Veronica Reis (R$600,00",
+                "totalValue": 280000,
+                "contractDate": "",
+                "depositValue": 30000,
+                "depositDate": "",
+                "totalCommission": 15000,
+                "brokerCommission": 450,
+                "billingUrl": "https://www.asaas.com/i/msrh1409ymedc02n",
+                "dueDate": "2024-08-09",
+                "brokerName": "Luiz Arthur Moreira",
+                "brokerCpfCnpj": "03495673792",
+                "brokerAssociationDate": "",
+                "brokerPreviousTransactions": 6,
+                "agencyName": "BSJ Empreendimentos Imobili\u00e1rios LTDA",
+                "agencyCnpj": "28362798000130",
+                "agencyPreviousTransactions": 6,
+                "fiduciaryAlienation": true,
+                "fiduciaryAlienationBankSlug": "",
+                "parties": [
+                    {
+                        "name": "Alexandre da Silva Pinheiro",
+                        "type": "VENDEDOR",
+                        "cpfCnpj": "02213814732"
+                    },
+                    {
+                        "name": "Marcia Catarina Guimaraes de Oliveira ",
+                        "type": "COMPRADOR",
+                        "cpfCnpj": "73771031753"
+                    }
+                ]
+            }
+        ],
+        "pontuacao_da_comissao": {
+            "NEGOCIACAO": "Pontuou 1 em sem_sinal_ou_com_sinal",
+            "IMOVEL": [
+                "Pontuou 0 em eh_apartamento",
+                "Pontuou 2 em eh_capital",
+                "Pontuou 0 em checa_valor"
+            ],
+            "VENDEDOR": "Pontuou 0 em checa_quantidade_de_vendedores",
+            "_PONTUACAO_TOTAL": 3
+        }
+    },
+    {
+        "_id": "66b51e74913d20793c4622b7",
+        "productCode": "ANTECIPACAO_COMISSAO_CORRETOR",
+        "externalId": "1723145798569x249765542911689400",
+        "transactionCode": "1721336592148x805550972132393000",
+        "transactionValue": 270000,
+        "transactionSubstepsCount": 6,
+        "transactionDate": "2024-08-06",
+        "transactionAddressStreet": "Rua Laurindo",
+        "transactionAddressNeighborhood": "Santana",
+        "transactionAddressNumber": "426",
+        "transactionAddressComplement": "Apto 102",
+        "transactionAddressCity": "Porto Alegre",
+        "transactionAddressUF": "RS",
+        "transactionAddressCEP": "90040140",
+        "currentInstallment": 1,
+        "totalInstallment": 2,
+        "constructionYear": "",
+        "companygroup": "Independente (n\u00e3o pertencente a rede)",
+        "propertyTypology": "",
+        "expectedValue": 405,
+        "expectedDate": "2024-08-09T03:00:00.000Z",
+        "paymentStructure": [
+            {
+                "forma_pagamento_nome": "Sinal e princ\u00edpio de pagamento",
+                "forma_pagamento_valor": 270000.0,
+                "forma_pagamento_detalhes": "Ted no ato da assinatura do contrato de compra e venda. "
+            }
+        ],
+        "intermediary": {
+            "name": "Foxter RS",
+            "type": "JURIDICA",
+            "cpfCnpj": "11022364000199"
+        },
+        "contract_files": [
+            {
+                "nome": "PS AUTO\u0302NOMOS.docx",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1721933708686x982815490634731500/PS%20AUTO%CC%82NOMOS.docx",
+                "data_upload": "25/07/2024"
+            },
+            {
+                "nome": "PS FOXTER.docx",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1721933726402x553785090431699200/PS%20FOXTER.docx",
+                "data_upload": "25/07/2024"
+            },
+            {
+                "nome": "Minuta CCV 277574R. Laurindo - Santana, Porto Alegre - RS, 90450-190, Brasil  Apto 102 2024_07_30_07h07m.pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1722379967536x389370839588766500/Minuta CCV 277574R. Laurindo - Santana%2C Porto Alegre - RS%2C 90450-190%2C Brasil  Apto 102 2024_07_30_07h07m.pdf",
+                "data_upload": "30/07/2024"
+            },
+            {
+                "nome": "CT 10235 PS AUTO\u0302NOMOS.pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1722885420351x404757317396128300/CT 10235 PS AUTO\u0302NOMOS.pdf",
+                "data_upload": "05/08/2024"
+            },
+            {
+                "nome": "CT 10235 PS FOXTER.pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1722885420347x642871116105223400/CT 10235 PS FOXTER.pdf",
+                "data_upload": "05/08/2024"
+            },
+            {
+                "nome": "auto_close (assinado 202486) CT 10235 PS FOXTER.pdf",
+                "url": "https://cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1722984151381x317925370999091000/auto_close (assinado 202486) CT 10235 PS FOXTER.pdf",
+                "data_upload": "06/08/2024"
+            },
+            {
+                "nome": "CT 10235.pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1723053452431x645703840979874300/CT 10235.pdf",
+                "data_upload": "07/08/2024"
+            },
+            {
+                "nome": "auto_close (assinado 202488) CT 10235.pdf",
+                "url": "https://cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1723126613309x920402587959427700/auto_close (assinado 202488) CT 10235.pdf",
+                "data_upload": "08/08/2024"
+            },
+            {
+                "nome": "auto_close (assinado 202488) CT 10235 PS AUTO\u0302NOMOS.pdf",
+                "url": "https://cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1723128261266x976636125261875300/auto_close (assinado 202488) CT 10235 PS AUTO\u0302NOMOS.pdf",
+                "data_upload": "08/08/2024"
+            }
+        ],
+        "property_registration_files": [],
+        "contracted": {
+            "name": "Tanara Silva De Freitas",
+            "type": "FISICA",
+            "cpfCnpj": "80431038015"
+        },
+        "guarantees": [
+            {
+                "externalId": "1721336592148x805550972132393000",
+                "guaranteeType": "CONTRATO_COMPRA_VENDA_IMOVEL",
+                "description": "Comiss\u00e3o Intermedia\u00e7\u00e3o Im\u00f3vel \u00e0 277574R. Laurindo - Santana, Porto Alegre - RS, 90450-190, Brasil  Apto 102. Credores desta fatura: FOXTER CIA IMOBILIARIA (R$810,00); FOXTER CIA IMOBILIARIA (R$972,00); Cl\u00f3vis Passos P\u00e9res Im\u00f3veis (R$243,00); Paulo Ri",
+                "totalValue": 270000,
+                "contractDate": "2024-08-06",
+                "depositValue": 270000,
+                "depositDate": "2024-08-08",
+                "totalCommission": 16200,
+                "brokerCommission": 405,
+                "billingUrl": "https://www.asaas.com/i/x5p4xwvnbjgbopnx",
+                "dueDate": "2024-08-09",
+                "brokerName": "Tanara Silva De Freitas",
+                "brokerCpfCnpj": "80431038015",
+                "brokerAssociationDate": "2024-06-04",
+                "brokerPreviousTransactions": 12,
+                "agencyName": "Foxter RS",
+                "agencyCnpj": "11022364000199",
+                "agencyPreviousTransactions": 251,
+                "fiduciaryAlienation": false,
+                "fiduciaryAlienationBankSlug": "",
+                "parties": [
+                    {
+                        "name": "Andressa Gabriele de Oliveira Strzykalska",
+                        "type": "COMPRADOR",
+                        "cpfCnpj": "86004743020"
+                    },
+                    {
+                        "name": "Neusa Ramos Pinto",
+                        "type": "VENDEDOR",
+                        "cpfCnpj": "33555605020"
+                    }
+                ]
+            }
+        ],
+        "pontuacao_da_comissao": {
+            "NEGOCIACAO": "Pontuou 1 em sem_sinal_ou_com_sinal",
+            "IMOVEL": [
+                "Pontuou 2 em eh_apartamento",
+                "Pontuou 2 em eh_capital",
+                "Pontuou 0 em checa_valor"
+            ],
+            "VENDEDOR": "Pontuou 0 em checa_quantidade_de_vendedores",
+            "_PONTUACAO_TOTAL": 5
+        }
+    },
+    {
+        "_id": "66b51e76913d20793c4622b9",
+        "productCode": "ANTECIPACAO_COMISSAO_CORRETOR",
+        "externalId": "1723145798850x345599475928193300",
+        "transactionCode": "1721336592148x805550972132393000",
+        "transactionValue": 270000,
+        "transactionSubstepsCount": 6,
+        "transactionDate": "2024-08-06",
+        "transactionAddressStreet": "Rua Laurindo",
+        "transactionAddressNeighborhood": "Santana",
+        "transactionAddressNumber": "426",
+        "transactionAddressComplement": "Apto 102",
+        "transactionAddressCity": "Porto Alegre",
+        "transactionAddressUF": "RS",
+        "transactionAddressCEP": "90040140",
+        "currentInstallment": 2,
+        "totalInstallment": 2,
+        "constructionYear": "",
+        "companygroup": "Independente (n\u00e3o pertencente a rede)",
+        "propertyTypology": "",
+        "expectedValue": 404.99,
+        "expectedDate": "2024-09-09T03:00:00.000Z",
+        "paymentStructure": [
+            {
+                "forma_pagamento_nome": "Sinal e princ\u00edpio de pagamento",
+                "forma_pagamento_valor": 270000.0,
+                "forma_pagamento_detalhes": "Ted no ato da assinatura do contrato de compra e venda. "
+            }
+        ],
+        "intermediary": {
+            "name": "Foxter RS",
+            "type": "JURIDICA",
+            "cpfCnpj": "11022364000199"
+        },
+        "contract_files": [
+            {
+                "nome": "PS AUTO\u0302NOMOS.docx",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1721933708686x982815490634731500/PS%20AUTO%CC%82NOMOS.docx",
+                "data_upload": "25/07/2024"
+            },
+            {
+                "nome": "PS FOXTER.docx",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1721933726402x553785090431699200/PS%20FOXTER.docx",
+                "data_upload": "25/07/2024"
+            },
+            {
+                "nome": "Minuta CCV 277574R. Laurindo - Santana, Porto Alegre - RS, 90450-190, Brasil  Apto 102 2024_07_30_07h07m.pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1722379967536x389370839588766500/Minuta CCV 277574R. Laurindo - Santana%2C Porto Alegre - RS%2C 90450-190%2C Brasil  Apto 102 2024_07_30_07h07m.pdf",
+                "data_upload": "30/07/2024"
+            },
+            {
+                "nome": "CT 10235 PS AUTO\u0302NOMOS.pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1722885420351x404757317396128300/CT 10235 PS AUTO\u0302NOMOS.pdf",
+                "data_upload": "05/08/2024"
+            },
+            {
+                "nome": "CT 10235 PS FOXTER.pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1722885420347x642871116105223400/CT 10235 PS FOXTER.pdf",
+                "data_upload": "05/08/2024"
+            },
+            {
+                "nome": "auto_close (assinado 202486) CT 10235 PS FOXTER.pdf",
+                "url": "https://cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1722984151381x317925370999091000/auto_close (assinado 202486) CT 10235 PS FOXTER.pdf",
+                "data_upload": "06/08/2024"
+            },
+            {
+                "nome": "CT 10235.pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1723053452431x645703840979874300/CT 10235.pdf",
+                "data_upload": "07/08/2024"
+            },
+            {
+                "nome": "auto_close (assinado 202488) CT 10235.pdf",
+                "url": "https://cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1723126613309x920402587959427700/auto_close (assinado 202488) CT 10235.pdf",
+                "data_upload": "08/08/2024"
+            },
+            {
+                "nome": "auto_close (assinado 202488) CT 10235 PS AUTO\u0302NOMOS.pdf",
+                "url": "https://cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1723128261266x976636125261875300/auto_close (assinado 202488) CT 10235 PS AUTO\u0302NOMOS.pdf",
+                "data_upload": "08/08/2024"
+            }
+        ],
+        "property_registration_files": [],
+        "contracted": {
+            "name": "Tanara Silva De Freitas",
+            "type": "FISICA",
+            "cpfCnpj": "80431038015"
+        },
+        "guarantees": [
+            {
+                "externalId": "1721336592148x805550972132393000",
+                "guaranteeType": "CONTRATO_COMPRA_VENDA_IMOVEL",
+                "description": "Comiss\u00e3o Intermedia\u00e7\u00e3o Im\u00f3vel \u00e0 277574R. Laurindo - Santana, Porto Alegre - RS, 90450-190, Brasil  Apto 102. Credores desta fatura: FOXTER CIA IMOBILIARIA (R$810,00); FOXTER CIA IMOBILIARIA (R$972,00); Cl\u00f3vis Passos P\u00e9res Im\u00f3veis (R$243,00); Paulo Ri",
+                "totalValue": 270000,
+                "contractDate": "2024-08-06",
+                "depositValue": 270000,
+                "depositDate": "2024-08-08",
+                "totalCommission": 16200,
+                "brokerCommission": 404.99,
+                "billingUrl": "https://www.asaas.com/i/mhe085tijpv0luf9",
+                "dueDate": "2024-09-09",
+                "brokerName": "Tanara Silva De Freitas",
+                "brokerCpfCnpj": "80431038015",
+                "brokerAssociationDate": "2024-06-04",
+                "brokerPreviousTransactions": 12,
+                "agencyName": "Foxter RS",
+                "agencyCnpj": "11022364000199",
+                "agencyPreviousTransactions": 251,
+                "fiduciaryAlienation": false,
+                "fiduciaryAlienationBankSlug": "",
+                "parties": [
+                    {
+                        "name": "Andressa Gabriele de Oliveira Strzykalska",
+                        "type": "COMPRADOR",
+                        "cpfCnpj": "86004743020"
+                    },
+                    {
+                        "name": "Neusa Ramos Pinto",
+                        "type": "VENDEDOR",
+                        "cpfCnpj": "33555605020"
+                    }
+                ]
+            }
+        ],
+        "pontuacao_da_comissao": {
+            "NEGOCIACAO": "Pontuou 1 em sem_sinal_ou_com_sinal",
+            "IMOVEL": [
+                "Pontuou 2 em eh_apartamento",
+                "Pontuou 2 em eh_capital",
+                "Pontuou 0 em checa_valor"
+            ],
+            "VENDEDOR": "Pontuou 0 em checa_quantidade_de_vendedores",
+            "_PONTUACAO_TOTAL": 5
+        }
+    },
+    {
+        "_id": "66b51e77913d20793c4622bb",
+        "productCode": "ANTECIPACAO_COMISSAO_CORRETOR",
+        "externalId": "1723145799960x946025770613970700",
+        "transactionCode": "1721336592148x805550972132393000",
+        "transactionValue": 270000,
+        "transactionSubstepsCount": 6,
+        "transactionDate": "2024-08-06",
+        "transactionAddressStreet": "Rua Laurindo",
+        "transactionAddressNeighborhood": "Santana",
+        "transactionAddressNumber": "426",
+        "transactionAddressComplement": "Apto 102",
+        "transactionAddressCity": "Porto Alegre",
+        "transactionAddressUF": "RS",
+        "transactionAddressCEP": "90040140",
+        "currentInstallment": 1,
+        "totalInstallment": 2,
+        "constructionYear": "",
+        "companygroup": "Independente (n\u00e3o pertencente a rede)",
+        "propertyTypology": "",
+        "expectedValue": 2430,
+        "expectedDate": "2024-08-09T03:00:00.000Z",
+        "paymentStructure": [
+            {
+                "forma_pagamento_nome": "Sinal e princ\u00edpio de pagamento",
+                "forma_pagamento_valor": 270000.0,
+                "forma_pagamento_detalhes": "Ted no ato da assinatura do contrato de compra e venda. "
+            }
+        ],
+        "intermediary": {
+            "name": "Foxter RS",
+            "type": "JURIDICA",
+            "cpfCnpj": "11022364000199"
+        },
+        "contract_files": [
+            {
+                "nome": "PS AUTO\u0302NOMOS.docx",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1721933708686x982815490634731500/PS%20AUTO%CC%82NOMOS.docx",
+                "data_upload": "25/07/2024"
+            },
+            {
+                "nome": "PS FOXTER.docx",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1721933726402x553785090431699200/PS%20FOXTER.docx",
+                "data_upload": "25/07/2024"
+            },
+            {
+                "nome": "Minuta CCV 277574R. Laurindo - Santana, Porto Alegre - RS, 90450-190, Brasil  Apto 102 2024_07_30_07h07m.pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1722379967536x389370839588766500/Minuta CCV 277574R. Laurindo - Santana%2C Porto Alegre - RS%2C 90450-190%2C Brasil  Apto 102 2024_07_30_07h07m.pdf",
+                "data_upload": "30/07/2024"
+            },
+            {
+                "nome": "CT 10235 PS AUTO\u0302NOMOS.pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1722885420351x404757317396128300/CT 10235 PS AUTO\u0302NOMOS.pdf",
+                "data_upload": "05/08/2024"
+            },
+            {
+                "nome": "CT 10235 PS FOXTER.pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1722885420347x642871116105223400/CT 10235 PS FOXTER.pdf",
+                "data_upload": "05/08/2024"
+            },
+            {
+                "nome": "auto_close (assinado 202486) CT 10235 PS FOXTER.pdf",
+                "url": "https://cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1722984151381x317925370999091000/auto_close (assinado 202486) CT 10235 PS FOXTER.pdf",
+                "data_upload": "06/08/2024"
+            },
+            {
+                "nome": "CT 10235.pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1723053452431x645703840979874300/CT 10235.pdf",
+                "data_upload": "07/08/2024"
+            },
+            {
+                "nome": "auto_close (assinado 202488) CT 10235.pdf",
+                "url": "https://cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1723126613309x920402587959427700/auto_close (assinado 202488) CT 10235.pdf",
+                "data_upload": "08/08/2024"
+            },
+            {
+                "nome": "auto_close (assinado 202488) CT 10235 PS AUTO\u0302NOMOS.pdf",
+                "url": "https://cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1723128261266x976636125261875300/auto_close (assinado 202488) CT 10235 PS AUTO\u0302NOMOS.pdf",
+                "data_upload": "08/08/2024"
+            }
+        ],
+        "property_registration_files": [],
+        "contracted": {
+            "name": "Paulo Ricardo Allgayer",
+            "type": "FISICA",
+            "cpfCnpj": "29383811072"
+        },
+        "guarantees": [
+            {
+                "externalId": "1721336592148x805550972132393000",
+                "guaranteeType": "CONTRATO_COMPRA_VENDA_IMOVEL",
+                "description": "Comiss\u00e3o Intermedia\u00e7\u00e3o Im\u00f3vel \u00e0 277574R. Laurindo - Santana, Porto Alegre - RS, 90450-190, Brasil  Apto 102. Credores desta fatura: FOXTER CIA IMOBILIARIA (R$810,00); FOXTER CIA IMOBILIARIA (R$972,00); Cl\u00f3vis Passos P\u00e9res Im\u00f3veis (R$243,00); Paulo Ri",
+                "totalValue": 270000,
+                "contractDate": "2024-08-06",
+                "depositValue": 270000,
+                "depositDate": "2024-08-08",
+                "totalCommission": 16200,
+                "brokerCommission": 2430,
+                "billingUrl": "https://www.asaas.com/i/x5p4xwvnbjgbopnx",
+                "dueDate": "2024-08-09",
+                "brokerName": "Paulo Ricardo Allgayer",
+                "brokerCpfCnpj": "29383811072",
+                "brokerAssociationDate": "2024-06-11",
+                "brokerPreviousTransactions": 3,
+                "agencyName": "Foxter RS",
+                "agencyCnpj": "11022364000199",
+                "agencyPreviousTransactions": 251,
+                "fiduciaryAlienation": false,
+                "fiduciaryAlienationBankSlug": "",
+                "parties": [
+                    {
+                        "name": "Andressa Gabriele de Oliveira Strzykalska",
+                        "type": "COMPRADOR",
+                        "cpfCnpj": "86004743020"
+                    },
+                    {
+                        "name": "Neusa Ramos Pinto",
+                        "type": "VENDEDOR",
+                        "cpfCnpj": "33555605020"
+                    }
+                ]
+            }
+        ],
+        "pontuacao_da_comissao": {
+            "NEGOCIACAO": "Pontuou 1 em sem_sinal_ou_com_sinal",
+            "IMOVEL": [
+                "Pontuou 2 em eh_apartamento",
+                "Pontuou 2 em eh_capital",
+                "Pontuou 0 em checa_valor"
+            ],
+            "VENDEDOR": "Pontuou 0 em checa_quantidade_de_vendedores",
+            "_PONTUACAO_TOTAL": 5
+        }
+    },
+    {
+        "_id": "66b51e79913d20793c4622bd",
+        "productCode": "ANTECIPACAO_COMISSAO_CORRETOR",
+        "externalId": "1723145799264x461611907192169840",
+        "transactionCode": "1721336592148x805550972132393000",
+        "transactionValue": 270000,
+        "transactionSubstepsCount": 6,
+        "transactionDate": "2024-08-06",
+        "transactionAddressStreet": "Rua Laurindo",
+        "transactionAddressNeighborhood": "Santana",
+        "transactionAddressNumber": "426",
+        "transactionAddressComplement": "Apto 102",
+        "transactionAddressCity": "Porto Alegre",
+        "transactionAddressUF": "RS",
+        "transactionAddressCEP": "90040140",
+        "currentInstallment": 2,
+        "totalInstallment": 2,
+        "constructionYear": "",
+        "companygroup": "Independente (n\u00e3o pertencente a rede)",
+        "propertyTypology": "",
+        "expectedValue": 2429.99,
+        "expectedDate": "2024-09-09T03:00:00.000Z",
+        "paymentStructure": [
+            {
+                "forma_pagamento_nome": "Sinal e princ\u00edpio de pagamento",
+                "forma_pagamento_valor": 270000.0,
+                "forma_pagamento_detalhes": "Ted no ato da assinatura do contrato de compra e venda. "
+            }
+        ],
+        "intermediary": {
+            "name": "Foxter RS",
+            "type": "JURIDICA",
+            "cpfCnpj": "11022364000199"
+        },
+        "contract_files": [
+            {
+                "nome": "PS AUTO\u0302NOMOS.docx",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1721933708686x982815490634731500/PS%20AUTO%CC%82NOMOS.docx",
+                "data_upload": "25/07/2024"
+            },
+            {
+                "nome": "PS FOXTER.docx",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1721933726402x553785090431699200/PS%20FOXTER.docx",
+                "data_upload": "25/07/2024"
+            },
+            {
+                "nome": "Minuta CCV 277574R. Laurindo - Santana, Porto Alegre - RS, 90450-190, Brasil  Apto 102 2024_07_30_07h07m.pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1722379967536x389370839588766500/Minuta CCV 277574R. Laurindo - Santana%2C Porto Alegre - RS%2C 90450-190%2C Brasil  Apto 102 2024_07_30_07h07m.pdf",
+                "data_upload": "30/07/2024"
+            },
+            {
+                "nome": "CT 10235 PS AUTO\u0302NOMOS.pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1722885420351x404757317396128300/CT 10235 PS AUTO\u0302NOMOS.pdf",
+                "data_upload": "05/08/2024"
+            },
+            {
+                "nome": "CT 10235 PS FOXTER.pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1722885420347x642871116105223400/CT 10235 PS FOXTER.pdf",
+                "data_upload": "05/08/2024"
+            },
+            {
+                "nome": "auto_close (assinado 202486) CT 10235 PS FOXTER.pdf",
+                "url": "https://cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1722984151381x317925370999091000/auto_close (assinado 202486) CT 10235 PS FOXTER.pdf",
+                "data_upload": "06/08/2024"
+            },
+            {
+                "nome": "CT 10235.pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1723053452431x645703840979874300/CT 10235.pdf",
+                "data_upload": "07/08/2024"
+            },
+            {
+                "nome": "auto_close (assinado 202488) CT 10235.pdf",
+                "url": "https://cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1723126613309x920402587959427700/auto_close (assinado 202488) CT 10235.pdf",
+                "data_upload": "08/08/2024"
+            },
+            {
+                "nome": "auto_close (assinado 202488) CT 10235 PS AUTO\u0302NOMOS.pdf",
+                "url": "https://cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1723128261266x976636125261875300/auto_close (assinado 202488) CT 10235 PS AUTO\u0302NOMOS.pdf",
+                "data_upload": "08/08/2024"
+            }
+        ],
+        "property_registration_files": [],
+        "contracted": {
+            "name": "Paulo Ricardo Allgayer",
+            "type": "FISICA",
+            "cpfCnpj": "29383811072"
+        },
+        "guarantees": [
+            {
+                "externalId": "1721336592148x805550972132393000",
+                "guaranteeType": "CONTRATO_COMPRA_VENDA_IMOVEL",
+                "description": "Comiss\u00e3o Intermedia\u00e7\u00e3o Im\u00f3vel \u00e0 277574R. Laurindo - Santana, Porto Alegre - RS, 90450-190, Brasil  Apto 102. Credores desta fatura: FOXTER CIA IMOBILIARIA (R$810,00); FOXTER CIA IMOBILIARIA (R$972,00); Cl\u00f3vis Passos P\u00e9res Im\u00f3veis (R$243,00); Paulo Ri",
+                "totalValue": 270000,
+                "contractDate": "2024-08-06",
+                "depositValue": 270000,
+                "depositDate": "2024-08-08",
+                "totalCommission": 16200,
+                "brokerCommission": 2429.99,
+                "billingUrl": "https://www.asaas.com/i/mhe085tijpv0luf9",
+                "dueDate": "2024-09-09",
+                "brokerName": "Paulo Ricardo Allgayer",
+                "brokerCpfCnpj": "29383811072",
+                "brokerAssociationDate": "2024-06-11",
+                "brokerPreviousTransactions": 3,
+                "agencyName": "Foxter RS",
+                "agencyCnpj": "11022364000199",
+                "agencyPreviousTransactions": 251,
+                "fiduciaryAlienation": false,
+                "fiduciaryAlienationBankSlug": "",
+                "parties": [
+                    {
+                        "name": "Andressa Gabriele de Oliveira Strzykalska",
+                        "type": "COMPRADOR",
+                        "cpfCnpj": "86004743020"
+                    },
+                    {
+                        "name": "Neusa Ramos Pinto",
+                        "type": "VENDEDOR",
+                        "cpfCnpj": "33555605020"
+                    }
+                ]
+            }
+        ],
+        "pontuacao_da_comissao": {
+            "NEGOCIACAO": "Pontuou 1 em sem_sinal_ou_com_sinal",
+            "IMOVEL": [
+                "Pontuou 2 em eh_apartamento",
+                "Pontuou 2 em eh_capital",
+                "Pontuou 0 em checa_valor"
+            ],
+            "VENDEDOR": "Pontuou 0 em checa_quantidade_de_vendedores",
+            "_PONTUACAO_TOTAL": 5
+        }
+    },
+    {
+        "_id": "66b51e7b913d20793c4622bf",
+        "productCode": "ANTECIPACAO_COMISSAO_CORRETOR",
+        "externalId": "1723145798534x593879934119106600",
+        "transactionCode": "1721336592148x805550972132393000",
+        "transactionValue": 270000,
+        "transactionSubstepsCount": 6,
+        "transactionDate": "2024-08-06",
+        "transactionAddressStreet": "Rua Laurindo",
+        "transactionAddressNeighborhood": "Santana",
+        "transactionAddressNumber": "426",
+        "transactionAddressComplement": "Apto 102",
+        "transactionAddressCity": "Porto Alegre",
+        "transactionAddressUF": "RS",
+        "transactionAddressCEP": "90040140",
+        "currentInstallment": 2,
+        "totalInstallment": 2,
+        "constructionYear": "",
+        "companygroup": "Independente (n\u00e3o pertencente a rede)",
+        "propertyTypology": "",
+        "expectedValue": 242.99,
+        "expectedDate": "2024-09-09T03:00:00.000Z",
+        "paymentStructure": [
+            {
+                "forma_pagamento_nome": "Sinal e princ\u00edpio de pagamento",
+                "forma_pagamento_valor": 270000.0,
+                "forma_pagamento_detalhes": "Ted no ato da assinatura do contrato de compra e venda. "
+            }
+        ],
+        "intermediary": {
+            "name": "Foxter RS",
+            "type": "JURIDICA",
+            "cpfCnpj": "11022364000199"
+        },
+        "contract_files": [
+            {
+                "nome": "PS AUTO\u0302NOMOS.docx",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1721933708686x982815490634731500/PS%20AUTO%CC%82NOMOS.docx",
+                "data_upload": "25/07/2024"
+            },
+            {
+                "nome": "PS FOXTER.docx",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1721933726402x553785090431699200/PS%20FOXTER.docx",
+                "data_upload": "25/07/2024"
+            },
+            {
+                "nome": "Minuta CCV 277574R. Laurindo - Santana, Porto Alegre - RS, 90450-190, Brasil  Apto 102 2024_07_30_07h07m.pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1722379967536x389370839588766500/Minuta CCV 277574R. Laurindo - Santana%2C Porto Alegre - RS%2C 90450-190%2C Brasil  Apto 102 2024_07_30_07h07m.pdf",
+                "data_upload": "30/07/2024"
+            },
+            {
+                "nome": "CT 10235 PS AUTO\u0302NOMOS.pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1722885420351x404757317396128300/CT 10235 PS AUTO\u0302NOMOS.pdf",
+                "data_upload": "05/08/2024"
+            },
+            {
+                "nome": "CT 10235 PS FOXTER.pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1722885420347x642871116105223400/CT 10235 PS FOXTER.pdf",
+                "data_upload": "05/08/2024"
+            },
+            {
+                "nome": "auto_close (assinado 202486) CT 10235 PS FOXTER.pdf",
+                "url": "https://cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1722984151381x317925370999091000/auto_close (assinado 202486) CT 10235 PS FOXTER.pdf",
+                "data_upload": "06/08/2024"
+            },
+            {
+                "nome": "CT 10235.pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1723053452431x645703840979874300/CT 10235.pdf",
+                "data_upload": "07/08/2024"
+            },
+            {
+                "nome": "auto_close (assinado 202488) CT 10235.pdf",
+                "url": "https://cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1723126613309x920402587959427700/auto_close (assinado 202488) CT 10235.pdf",
+                "data_upload": "08/08/2024"
+            },
+            {
+                "nome": "auto_close (assinado 202488) CT 10235 PS AUTO\u0302NOMOS.pdf",
+                "url": "https://cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1723128261266x976636125261875300/auto_close (assinado 202488) CT 10235 PS AUTO\u0302NOMOS.pdf",
+                "data_upload": "08/08/2024"
+            }
+        ],
+        "property_registration_files": [],
+        "contracted": {
+            "name": "Cl\u00f3vis Passos P\u00e9res Im\u00f3veis",
+            "type": "JURIDICA",
+            "cpfCnpj": "41507981000145"
+        },
+        "guarantees": [
+            {
+                "externalId": "1721336592148x805550972132393000",
+                "guaranteeType": "CONTRATO_COMPRA_VENDA_IMOVEL",
+                "description": "Comiss\u00e3o Intermedia\u00e7\u00e3o Im\u00f3vel \u00e0 277574R. Laurindo - Santana, Porto Alegre - RS, 90450-190, Brasil  Apto 102. Credores desta fatura: FOXTER CIA IMOBILIARIA (R$810,00); FOXTER CIA IMOBILIARIA (R$972,00); Cl\u00f3vis Passos P\u00e9res Im\u00f3veis (R$243,00); Paulo Ri",
+                "totalValue": 270000,
+                "contractDate": "2024-08-06",
+                "depositValue": 270000,
+                "depositDate": "2024-08-08",
+                "totalCommission": 16200,
+                "brokerCommission": 242.99,
+                "billingUrl": "https://www.asaas.com/i/mhe085tijpv0luf9",
+                "dueDate": "2024-09-09",
+                "brokerName": "Cl\u00f3vis Passos P\u00e9res Im\u00f3veis",
+                "brokerCpfCnpj": "41507981000145",
+                "brokerAssociationDate": "2024-06-04",
+                "brokerPreviousTransactions": 54,
+                "agencyName": "Foxter RS",
+                "agencyCnpj": "11022364000199",
+                "agencyPreviousTransactions": 251,
+                "fiduciaryAlienation": false,
+                "fiduciaryAlienationBankSlug": "",
+                "parties": [
+                    {
+                        "name": "Andressa Gabriele de Oliveira Strzykalska",
+                        "type": "COMPRADOR",
+                        "cpfCnpj": "86004743020"
+                    },
+                    {
+                        "name": "Neusa Ramos Pinto",
+                        "type": "VENDEDOR",
+                        "cpfCnpj": "33555605020"
+                    }
+                ]
+            }
+        ],
+        "pontuacao_da_comissao": {
+            "NEGOCIACAO": "Pontuou 1 em sem_sinal_ou_com_sinal",
+            "IMOVEL": [
+                "Pontuou 2 em eh_apartamento",
+                "Pontuou 2 em eh_capital",
+                "Pontuou 0 em checa_valor"
+            ],
+            "VENDEDOR": "Pontuou 0 em checa_quantidade_de_vendedores",
+            "_PONTUACAO_TOTAL": 5
+        }
+    },
+    {
+        "_id": "66b51e7c913d20793c4622c1",
+        "productCode": "ANTECIPACAO_COMISSAO_CORRETOR",
+        "externalId": "1723145798552x166443402266785570",
+        "transactionCode": "1721336592148x805550972132393000",
+        "transactionValue": 270000,
+        "transactionSubstepsCount": 6,
+        "transactionDate": "2024-08-06",
+        "transactionAddressStreet": "Rua Laurindo",
+        "transactionAddressNeighborhood": "Santana",
+        "transactionAddressNumber": "426",
+        "transactionAddressComplement": "Apto 102",
+        "transactionAddressCity": "Porto Alegre",
+        "transactionAddressUF": "RS",
+        "transactionAddressCEP": "90040140",
+        "currentInstallment": 1,
+        "totalInstallment": 2,
+        "constructionYear": "",
+        "companygroup": "Independente (n\u00e3o pertencente a rede)",
+        "propertyTypology": "",
+        "expectedValue": 243,
+        "expectedDate": "2024-08-09T03:00:00.000Z",
+        "paymentStructure": [
+            {
+                "forma_pagamento_nome": "Sinal e princ\u00edpio de pagamento",
+                "forma_pagamento_valor": 270000.0,
+                "forma_pagamento_detalhes": "Ted no ato da assinatura do contrato de compra e venda. "
+            }
+        ],
+        "intermediary": {
+            "name": "Foxter RS",
+            "type": "JURIDICA",
+            "cpfCnpj": "11022364000199"
+        },
+        "contract_files": [
+            {
+                "nome": "PS AUTO\u0302NOMOS.docx",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1721933708686x982815490634731500/PS%20AUTO%CC%82NOMOS.docx",
+                "data_upload": "25/07/2024"
+            },
+            {
+                "nome": "PS FOXTER.docx",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1721933726402x553785090431699200/PS%20FOXTER.docx",
+                "data_upload": "25/07/2024"
+            },
+            {
+                "nome": "Minuta CCV 277574R. Laurindo - Santana, Porto Alegre - RS, 90450-190, Brasil  Apto 102 2024_07_30_07h07m.pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1722379967536x389370839588766500/Minuta CCV 277574R. Laurindo - Santana%2C Porto Alegre - RS%2C 90450-190%2C Brasil  Apto 102 2024_07_30_07h07m.pdf",
+                "data_upload": "30/07/2024"
+            },
+            {
+                "nome": "CT 10235 PS AUTO\u0302NOMOS.pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1722885420351x404757317396128300/CT 10235 PS AUTO\u0302NOMOS.pdf",
+                "data_upload": "05/08/2024"
+            },
+            {
+                "nome": "CT 10235 PS FOXTER.pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1722885420347x642871116105223400/CT 10235 PS FOXTER.pdf",
+                "data_upload": "05/08/2024"
+            },
+            {
+                "nome": "auto_close (assinado 202486) CT 10235 PS FOXTER.pdf",
+                "url": "https://cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1722984151381x317925370999091000/auto_close (assinado 202486) CT 10235 PS FOXTER.pdf",
+                "data_upload": "06/08/2024"
+            },
+            {
+                "nome": "CT 10235.pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1723053452431x645703840979874300/CT 10235.pdf",
+                "data_upload": "07/08/2024"
+            },
+            {
+                "nome": "auto_close (assinado 202488) CT 10235.pdf",
+                "url": "https://cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1723126613309x920402587959427700/auto_close (assinado 202488) CT 10235.pdf",
+                "data_upload": "08/08/2024"
+            },
+            {
+                "nome": "auto_close (assinado 202488) CT 10235 PS AUTO\u0302NOMOS.pdf",
+                "url": "https://cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1723128261266x976636125261875300/auto_close (assinado 202488) CT 10235 PS AUTO\u0302NOMOS.pdf",
+                "data_upload": "08/08/2024"
+            }
+        ],
+        "property_registration_files": [],
+        "contracted": {
+            "name": "Cl\u00f3vis Passos P\u00e9res Im\u00f3veis",
+            "type": "JURIDICA",
+            "cpfCnpj": "41507981000145"
+        },
+        "guarantees": [
+            {
+                "externalId": "1721336592148x805550972132393000",
+                "guaranteeType": "CONTRATO_COMPRA_VENDA_IMOVEL",
+                "description": "Comiss\u00e3o Intermedia\u00e7\u00e3o Im\u00f3vel \u00e0 277574R. Laurindo - Santana, Porto Alegre - RS, 90450-190, Brasil  Apto 102. Credores desta fatura: FOXTER CIA IMOBILIARIA (R$810,00); FOXTER CIA IMOBILIARIA (R$972,00); Cl\u00f3vis Passos P\u00e9res Im\u00f3veis (R$243,00); Paulo Ri",
+                "totalValue": 270000,
+                "contractDate": "2024-08-06",
+                "depositValue": 270000,
+                "depositDate": "2024-08-08",
+                "totalCommission": 16200,
+                "brokerCommission": 243,
+                "billingUrl": "https://www.asaas.com/i/x5p4xwvnbjgbopnx",
+                "dueDate": "2024-08-09",
+                "brokerName": "Cl\u00f3vis Passos P\u00e9res Im\u00f3veis",
+                "brokerCpfCnpj": "41507981000145",
+                "brokerAssociationDate": "2024-06-04",
+                "brokerPreviousTransactions": 54,
+                "agencyName": "Foxter RS",
+                "agencyCnpj": "11022364000199",
+                "agencyPreviousTransactions": 251,
+                "fiduciaryAlienation": false,
+                "fiduciaryAlienationBankSlug": "",
+                "parties": [
+                    {
+                        "name": "Andressa Gabriele de Oliveira Strzykalska",
+                        "type": "COMPRADOR",
+                        "cpfCnpj": "86004743020"
+                    },
+                    {
+                        "name": "Neusa Ramos Pinto",
+                        "type": "VENDEDOR",
+                        "cpfCnpj": "33555605020"
+                    }
+                ]
+            }
+        ],
+        "pontuacao_da_comissao": {
+            "NEGOCIACAO": "Pontuou 1 em sem_sinal_ou_com_sinal",
+            "IMOVEL": [
+                "Pontuou 2 em eh_apartamento",
+                "Pontuou 2 em eh_capital",
+                "Pontuou 0 em checa_valor"
+            ],
+            "VENDEDOR": "Pontuou 0 em checa_quantidade_de_vendedores",
+            "_PONTUACAO_TOTAL": 5
+        }
+    },
+    {
+        "_id": "66b5501cfb91828663857f03",
+        "productCode": "ANTECIPACAO_COMISSAO_CORRETOR",
+        "externalId": "1723158556094x412824658248785100",
+        "transactionCode": "1720631831023x554772433814159360",
+        "transactionValue": 300000,
+        "transactionSubstepsCount": 2,
+        "transactionDate": "2024-08-07",
+        "transactionAddressStreet": "Rua Domingos Paiva",
+        "transactionAddressNeighborhood": "Br\u00e1s",
+        "transactionAddressNumber": "206",
+        "transactionAddressComplement": "Ap. 707",
+        "transactionAddressCity": "S\u00e3o Paulo",
+        "transactionAddressUF": "SP",
+        "transactionAddressCEP": "03043070",
+        "currentInstallment": 1,
+        "totalInstallment": 1,
+        "constructionYear": "",
+        "companygroup": "Independente (n\u00e3o pertencente a rede)",
+        "propertyTypology": "",
+        "expectedValue": 5400,
+        "expectedDate": "2024-12-07T03:00:00.000Z",
+        "paymentStructure": [
+            {
+                "forma_pagamento_nome": "Aliena\u00e7\u00e3o fiduci\u00e1ria (cr\u00e9dito do financiamento)",
+                "forma_pagamento_valor": 200000.0,
+                "forma_pagamento_detalhes": "em at\u00e9 90 (noventa) dias corridos, contados da assinatura deste Contrato, por meio de recursos oriundos de financiamento, cons\u00f3rcio, que ser\u00e3o liberados pela institui\u00e7\u00e3o financeira e/ou administradora do cons\u00f3rcio contratado pelo COMPRADOR, diretamente na conta do VENDEDOR, mediante a assinatura do Instrumento Definitivo de Compra e Venda e respectivo registro na matr\u00edcula do im\u00f3vel. "
+            },
+            {
+                "forma_pagamento_nome": "Sinal e princ\u00edpio de pagamento",
+                "forma_pagamento_valor": 100000.0,
+                "forma_pagamento_detalhes": "em at\u00e9 3 (tr\u00eas) dias \u00fateis a contar da data da assinatura deste Contrato por ambas as Partes diretamente na conta banc\u00e1ria do VENDEDOR."
+            }
+        ],
+        "intermediary": {
+            "name": "Loft Brasil",
+            "type": "JURIDICA",
+            "cpfCnpj": "29213298000108"
+        },
+        "contract_files": [
+            {
+                "nome": "[562556] CCV Rua Domingos Paiva, 206, Ap. 707 Torre B [Lu] (2).pdf",
+                "url": "//cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1723050242398x957998377609876600/[562556] CCV Rua Domingos Paiva%2C 206%2C Ap. 707 Torre B [Lu] (2).pdf",
+                "data_upload": "07/08/2024"
+            },
+            {
+                "nome": "auto_close (assinado 202487) [562556] CCV Rua Domingos Paiva, 206, Ap. 707 Torre B [Lu] (2).pdf",
+                "url": "https://cea7cb56288423b0716ae7bdf63d73a1.cdn.bubble.io/d193/f1723057065878x996202136505534100/auto_close (assinado 202487) [562556] CCV Rua Domingos Paiva%2C 206%2C Ap. 707 Torre B [Lu] (2).pdf",
+                "data_upload": "07/08/2024"
+            }
+        ],
+        "property_registration_files": [],
+        "contracted": {
+            "name": "Lucas De Oliveira Lima Ferraz",
+            "type": "FISICA",
+            "cpfCnpj": "45581957886"
+        },
+        "guarantees": [
+            {
+                "externalId": "1720631831023x554772433814159360",
+                "guaranteeType": "CONTRATO_COMPRA_VENDA_IMOVEL",
+                "description": "Comiss\u00e3o Intermedia\u00e7\u00e3o Im\u00f3vel \u00e0 Rua Domingos Paiva, 206, Ap. 707, Br\u00e1s, S\u00e3o Paulo - SP, CEP 03043070. Credores desta fatura: LOFT (R$12.600,00); Lucas De Oliveira Lima Ferraz (R$5.400,00).",
+                "totalValue": 300000,
+                "contractDate": "2024-08-07",
+                "depositValue": 100000,
+                "depositDate": "2024-08-09",
+                "totalCommission": 18000,
+                "brokerCommission": 5400,
+                "billingUrl": "https://www.asaas.com/i/9bmdewqupxiwoizz",
+                "dueDate": "2024-12-07",
+                "brokerName": "Lucas De Oliveira Lima Ferraz",
+                "brokerCpfCnpj": "45581957886",
+                "brokerAssociationDate": "2024-05-22",
+                "brokerPreviousTransactions": 1,
+                "agencyName": "Loft Brasil",
+                "agencyCnpj": "29213298000108",
+                "agencyPreviousTransactions": 57,
+                "fiduciaryAlienation": true,
+                "fiduciaryAlienationBankSlug": "cef",
+                "parties": [
+                    {
+                        "name": "Sarah de Oliveira Alc\u00e2ntara",
+                        "type": "VENDEDOR",
+                        "cpfCnpj": "33367137812"
+                    },
+                    {
+                        "name": "MURILO MASAO HONJO",
+                        "type": "COMPRADOR",
+                        "cpfCnpj": "02170742948"
+                    }
+                ]
+            }
+        ],
+        "pontuacao_da_comissao": {
+            "NEGOCIACAO": "Pontuou 1 em sem_sinal_ou_com_sinal",
+            "IMOVEL": [
+                "Pontuou 0 em eh_apartamento",
+                "Pontuou 2 em eh_capital",
+                "Pontuou 0 em checa_valor"
+            ],
+            "VENDEDOR": "Pontuou 0 em checa_quantidade_de_vendedores",
+            "_PONTUACAO_TOTAL": 3
+        }
+    }

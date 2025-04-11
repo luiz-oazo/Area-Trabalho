@@ -1,0 +1,16 @@
+{
+    "user1": {
+        "id": 1,
+        "nome": "ra",
+        "email": "ra",
+        "cidade": "ra",
+        "estado": "SP"
+    },
+    "user2": {
+        "id": 2,
+        "nome": "aqererwerwe",
+        "email": "qwe",
+        "cidade": "qwe",
+        "estado": "SP"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "user1": {
+        "id" : 1,
+        "nome": "Dave Miller",
+        "email": "user1@gmail.com",
+        "cidade": "São Paulo",
+        "estado": "SP"
+    },
+
+    "user2": {
+        "id" : 2,
+        "nome": "Larry Davidson",
+        "email": "user2@gmail.com",
+        "cidade": "Rio de Janeiro",
+        "estado": "RJ"
+    },
+
+    "user3": {
+        "id" : 3,
+        "nome": "Tobey Garfield Holland",
+        "email": "user3@gmail.com",
+        "cidade": "Belo Horizonte",
+        "estado": "MG"
+    },
+
+    "user4": {
+        "id" : 4,
+        "nome": "Alexander Burton",
+        "email": "user4@gmail.com",
+        "cidade": "Vitória",
+        "estado": "ES"
+    }
+}

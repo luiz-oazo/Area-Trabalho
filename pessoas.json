@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "nome": "Ana Silva",
+        "email": "ana.silva@email.com",
+        "cidade": "S\u00e3o Paulo",
+        "estado": "SP"
+    },
+    {
+        "id": 2,
+        "nome": "Jo\u00e3o Pereira",
+        "email": "joao.pereira@email.com",
+        "cidade": "Rio de Janeiro",
+        "estado": "RJ"
+    },
+    {
+        "id": 3,
+        "nome": "Maria Oliveira",
+        "email": "maria.oliveira@email.com",
+        "cidade": "Belo Horizonte",
+        "estado": "MG"
+    }
+]

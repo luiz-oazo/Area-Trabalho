@@ -1,0 +1,24 @@
+library(tibble)
+
+tib <- tibble(
+  nome = c("João", "Maria", "Pedro"), 
+  idade = c(25, 30, 28),
+  casado = c(TRUE, FALSE, TRUE) 
+  )
+
+tib
+
+elemento_tib <- tib[1, 2]
+elemento_tib
+
+df <- data.frame(
+  nome = c("João", "Maria", "Pedro"), idade = c(25, 30, 28),
+  casado = c(TRUE, FALSE, TRUE)
+)
+
+df
+
+elemento_df <- df[1, 2]
+
+elemento_tib
+elemento_df
