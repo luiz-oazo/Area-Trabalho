@@ -5,6 +5,7 @@ Sistema de Retrieval-Augmented Generation (RAG) que aprende com suas avaliaçõe
 Estrutura do Sistema
 
 rag_system/
+
 ├── 1_rag_trainer.py                              # Treiner inicial
 ├── 1_rag_trainer_universal.py                    # Trainer universal
 ├── 2_rag_query.py                                # Consultas
