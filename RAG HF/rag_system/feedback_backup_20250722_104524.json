@@ -1,0 +1,15 @@
+{
+  "document_scores": {},
+  "query_history": [],
+  "session_data": [],
+  "stats": {
+    "total_queries": 0,
+    "total_documents_with_feedback": 0,
+    "last_updated": "2025-07-22T10:45:24.686125",
+    "version": "2.0_super_robust"
+  },
+  "metadata": {
+    "created_at": "2025-07-22T10:45:24.686156",
+    "system_type": "super_robust_rag"
+  }
+}

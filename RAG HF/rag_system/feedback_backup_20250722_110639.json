@@ -1,0 +1,183 @@
+{
+  "document_scores": {
+    "0": [
+      4,
+      5
+    ],
+    "229": [
+      4,
+      5
+    ],
+    "227": [
+      4,
+      5
+    ],
+    "596": [
+      1
+    ],
+    "614": [
+      1
+    ],
+    "25": [
+      1
+    ],
+    "18": [
+      2
+    ],
+    "151": [
+      2
+    ],
+    "208": [
+      2
+    ]
+  },
+  "query_history": [
+    {
+      "id": "query_0",
+      "question": "What is Artificial Intelligence?",
+      "answer": "Com base nos documentos encontrados sobre 'What is Artificial Intelligence?':\n\nDe 'Artificial intelligence': Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learning, reasoning, problem-solving, perception, and decision-making. It is a field of research in computer science that develops and studies methods and so\n\nDe 'Artificial intelligence': \"intelligence\" of the machine—and no other philosophical discussion is required, or may not even be possible.\n\nAnother definition has been adopted by Google, a major practitioner in the field of AI. This definition stipulates the ability of systems to synthesize information as the manifestation of i\n\nDe 'Artificial intelligence': intelligence is not, by definition, simulation of human intelligence\".\n\nMcCarthy defines intelligence as \"...",
+      "rating": 4,
+      "timestamp": "2025-07-22T10:47:50.047806",
+      "docs_used": [
+        {
+          "chunk_id": 0,
+          "title": "Artificial intelligence",
+          "weight": 1.0,
+          "confidence": "Médio"
+        },
+        {
+          "chunk_id": 229,
+          "title": "Artificial intelligence",
+          "weight": 1.0,
+          "confidence": "Médio"
+        },
+        {
+          "chunk_id": 227,
+          "title": "Artificial intelligence",
+          "weight": 1.0,
+          "confidence": "Médio"
+        }
+      ]
+    },
+    {
+      "id": "query_1",
+      "question": "1_rag_trainer_corrigido",
+      "answer": "Com base nos documentos encontrados sobre '1_rag_trainer_corrigido':\n\nDe 'Deep learning': new tasks through observation. Using Deep TAMER, a robot learned a task with a human trainer, watching video streams or observing a human perform a task in-person. The robot later practiced the task with the help of some coaching from the trainer, who provided feedback such as \"good job\" and \"bad jo\n\nDe 'Deep learning': are often not recognized as such. The philosopher Rainer Mühlhoff distinguishes five types of \"machinic capture\" of human microwork to generate training data: (1) gamification (the embedding of annotation or computation tasks in the flow of a game), (2) \"trapping and tracking\" (e.g. CAPTCHAs for ima\n\nDe 'Artificial intelligence': o predict what category the input belongs in) and regression (where the program must deduce a numeric function based on numeri...",
+      "rating": 1,
+      "timestamp": "2025-07-22T10:48:19.565930",
+      "docs_used": [
+        {
+          "chunk_id": 596,
+          "title": "Deep learning",
+          "weight": 1.0,
+          "confidence": "Médio"
+        },
+        {
+          "chunk_id": 614,
+          "title": "Deep learning",
+          "weight": 1.0,
+          "confidence": "Médio"
+        },
+        {
+          "chunk_id": 25,
+          "title": "Artificial intelligence",
+          "weight": 1.0,
+          "confidence": "Médio"
+        }
+      ]
+    },
+    {
+      "id": "query_2",
+      "question": "What is Artificial Intelligence?",
+      "answer": "Com base nas informações encontradas sobre 'What is Artificial Intelligence?':\n\nArtificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learning, reasoning, problem-solving, perception, and decision-making. \n\nFontes consultadas: Artificial intelligence",
+      "rating": 5,
+      "timestamp": "2025-07-22T10:55:40.903291",
+      "docs_used": [
+        {
+          "chunk_id": 0,
+          "title": "Artificial intelligence",
+          "weight": 2.0,
+          "confidence": "Bom"
+        },
+        {
+          "chunk_id": 229,
+          "title": "Artificial intelligence",
+          "weight": 2.0,
+          "confidence": "Bom"
+        },
+        {
+          "chunk_id": 227,
+          "title": "Artificial intelligence",
+          "weight": 2.0,
+          "confidence": "Bom"
+        }
+      ]
+    },
+    {
+      "id": "query_3",
+      "question": "What is Machine Learning?",
+      "answer": "Com base nas informações encontradas sobre 'What is Machine Learning?':\n\nMachine learning\n\nis the study of programs that can improve their performance on a given task automatically. supervised learning\n\n, the training data is l g uses many machine learning methods, but with different goals; on the other hand, machine learning also employs data mining methods as \"\n\nunsupervised learning\n\n\" or as a preprocessing step to improve learner accuracy. Much of the confusion between these two research communities (which do often have separate conferences and separate journals,\n\nbeing a major exception) comes from the basic assumptions they work with: in machine learning, performance is usually evaluated with respect to the abili tive and negative examples. machine learning model\n\nis a type of\n\nmathematical model\n\nthat, once \"trained\" on a given dataset, can be used to make predictions or classifications on new data. \n\nFontes consultadas: Artificial intelligence - Wikipedia, Machine learning - Wikipedia",
+      "rating": 2,
+      "timestamp": "2025-07-22T11:06:39.686719",
+      "docs_used": [
+        {
+          "chunk_id": 18,
+          "title": "Artificial intelligence - Wikipedia",
+          "weight": 1.0,
+          "confidence": "Médio"
+        },
+        {
+          "chunk_id": 151,
+          "title": "Machine learning - Wikipedia",
+          "weight": 1.0,
+          "confidence": "Médio"
+        },
+        {
+          "chunk_id": 208,
+          "title": "Machine learning - Wikipedia",
+          "weight": 1.0,
+          "confidence": "Médio"
+        }
+      ]
+    }
+  ],
+  "session_data": [
+    {
+      "id": "query_3",
+      "question": "What is Machine Learning?",
+      "answer": "Com base nas informações encontradas sobre 'What is Machine Learning?':\n\nMachine learning\n\nis the study of programs that can improve their performance on a given task automatically. supervised learning\n\n, the training data is l g uses many machine learning methods, but with different goals; on the other hand, machine learning also employs data mining methods as \"\n\nunsupervised learning\n\n\" or as a preprocessing step to improve learner accuracy. Much of the confusion between these two research communities (which do often have separate conferences and separate journals,\n\nbeing a major exception) comes from the basic assumptions they work with: in machine learning, performance is usually evaluated with respect to the abili tive and negative examples. machine learning model\n\nis a type of\n\nmathematical model\n\nthat, once \"trained\" on a given dataset, can be used to make predictions or classifications on new data. \n\nFontes consultadas: Artificial intelligence - Wikipedia, Machine learning - Wikipedia",
+      "rating": 2,
+      "timestamp": "2025-07-22T11:06:39.686719",
+      "docs_used": [
+        {
+          "chunk_id": 18,
+          "title": "Artificial intelligence - Wikipedia",
+          "weight": 1.0,
+          "confidence": "Médio"
+        },
+        {
+          "chunk_id": 151,
+          "title": "Machine learning - Wikipedia",
+          "weight": 1.0,
+          "confidence": "Médio"
+        },
+        {
+          "chunk_id": 208,
+          "title": "Machine learning - Wikipedia",
+          "weight": 1.0,
+          "confidence": "Médio"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total_queries": 4,
+    "total_documents_with_feedback": 9,
+    "last_updated": "2025-07-22T11:06:39.687084",
+    "version": "2.0_super_robust"
+  },
+  "metadata": {
+    "created_at": "2025-07-22T11:06:39.687106",
+    "system_type": "super_robust_rag"
+  }
+}

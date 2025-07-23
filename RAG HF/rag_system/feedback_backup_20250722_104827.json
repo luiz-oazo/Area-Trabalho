@@ -1,0 +1,144 @@
+{
+  "document_scores": {
+    "0": [
+      4
+    ],
+    "229": [
+      4
+    ],
+    "227": [
+      4
+    ],
+    "596": [
+      1
+    ],
+    "614": [
+      1
+    ],
+    "25": [
+      1
+    ]
+  },
+  "query_history": [
+    {
+      "id": "query_0",
+      "question": "What is Artificial Intelligence?",
+      "answer": "Com base nos documentos encontrados sobre 'What is Artificial Intelligence?':\n\nDe 'Artificial intelligence': Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learning, reasoning, problem-solving, perception, and decision-making. It is a field of research in computer science that develops and studies methods and so\n\nDe 'Artificial intelligence': \"intelligence\" of the machine—and no other philosophical discussion is required, or may not even be possible.\n\nAnother definition has been adopted by Google, a major practitioner in the field of AI. This definition stipulates the ability of systems to synthesize information as the manifestation of i\n\nDe 'Artificial intelligence': intelligence is not, by definition, simulation of human intelligence\".\n\nMcCarthy defines intelligence as \"...",
+      "rating": 4,
+      "timestamp": "2025-07-22T10:47:50.047806",
+      "docs_used": [
+        {
+          "chunk_id": 0,
+          "title": "Artificial intelligence",
+          "weight": 1.0,
+          "confidence": "Médio"
+        },
+        {
+          "chunk_id": 229,
+          "title": "Artificial intelligence",
+          "weight": 1.0,
+          "confidence": "Médio"
+        },
+        {
+          "chunk_id": 227,
+          "title": "Artificial intelligence",
+          "weight": 1.0,
+          "confidence": "Médio"
+        }
+      ]
+    },
+    {
+      "id": "query_1",
+      "question": "1_rag_trainer_corrigido",
+      "answer": "Com base nos documentos encontrados sobre '1_rag_trainer_corrigido':\n\nDe 'Deep learning': new tasks through observation. Using Deep TAMER, a robot learned a task with a human trainer, watching video streams or observing a human perform a task in-person. The robot later practiced the task with the help of some coaching from the trainer, who provided feedback such as \"good job\" and \"bad jo\n\nDe 'Deep learning': are often not recognized as such. The philosopher Rainer Mühlhoff distinguishes five types of \"machinic capture\" of human microwork to generate training data: (1) gamification (the embedding of annotation or computation tasks in the flow of a game), (2) \"trapping and tracking\" (e.g. CAPTCHAs for ima\n\nDe 'Artificial intelligence': o predict what category the input belongs in) and regression (where the program must deduce a numeric function based on numeri...",
+      "rating": 1,
+      "timestamp": "2025-07-22T10:48:19.565930",
+      "docs_used": [
+        {
+          "chunk_id": 596,
+          "title": "Deep learning",
+          "weight": 1.0,
+          "confidence": "Médio"
+        },
+        {
+          "chunk_id": 614,
+          "title": "Deep learning",
+          "weight": 1.0,
+          "confidence": "Médio"
+        },
+        {
+          "chunk_id": 25,
+          "title": "Artificial intelligence",
+          "weight": 1.0,
+          "confidence": "Médio"
+        }
+      ]
+    }
+  ],
+  "session_data": [
+    {
+      "id": "query_0",
+      "question": "What is Artificial Intelligence?",
+      "answer": "Com base nos documentos encontrados sobre 'What is Artificial Intelligence?':\n\nDe 'Artificial intelligence': Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learning, reasoning, problem-solving, perception, and decision-making. It is a field of research in computer science that develops and studies methods and so\n\nDe 'Artificial intelligence': \"intelligence\" of the machine—and no other philosophical discussion is required, or may not even be possible.\n\nAnother definition has been adopted by Google, a major practitioner in the field of AI. This definition stipulates the ability of systems to synthesize information as the manifestation of i\n\nDe 'Artificial intelligence': intelligence is not, by definition, simulation of human intelligence\".\n\nMcCarthy defines intelligence as \"...",
+      "rating": 4,
+      "timestamp": "2025-07-22T10:47:50.047806",
+      "docs_used": [
+        {
+          "chunk_id": 0,
+          "title": "Artificial intelligence",
+          "weight": 1.0,
+          "confidence": "Médio"
+        },
+        {
+          "chunk_id": 229,
+          "title": "Artificial intelligence",
+          "weight": 1.0,
+          "confidence": "Médio"
+        },
+        {
+          "chunk_id": 227,
+          "title": "Artificial intelligence",
+          "weight": 1.0,
+          "confidence": "Médio"
+        }
+      ]
+    },
+    {
+      "id": "query_1",
+      "question": "1_rag_trainer_corrigido",
+      "answer": "Com base nos documentos encontrados sobre '1_rag_trainer_corrigido':\n\nDe 'Deep learning': new tasks through observation. Using Deep TAMER, a robot learned a task with a human trainer, watching video streams or observing a human perform a task in-person. The robot later practiced the task with the help of some coaching from the trainer, who provided feedback such as \"good job\" and \"bad jo\n\nDe 'Deep learning': are often not recognized as such. The philosopher Rainer Mühlhoff distinguishes five types of \"machinic capture\" of human microwork to generate training data: (1) gamification (the embedding of annotation or computation tasks in the flow of a game), (2) \"trapping and tracking\" (e.g. CAPTCHAs for ima\n\nDe 'Artificial intelligence': o predict what category the input belongs in) and regression (where the program must deduce a numeric function based on numeri...",
+      "rating": 1,
+      "timestamp": "2025-07-22T10:48:19.565930",
+      "docs_used": [
+        {
+          "chunk_id": 596,
+          "title": "Deep learning",
+          "weight": 1.0,
+          "confidence": "Médio"
+        },
+        {
+          "chunk_id": 614,
+          "title": "Deep learning",
+          "weight": 1.0,
+          "confidence": "Médio"
+        },
+        {
+          "chunk_id": 25,
+          "title": "Artificial intelligence",
+          "weight": 1.0,
+          "confidence": "Médio"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total_queries": 2,
+    "total_documents_with_feedback": 6,
+    "last_updated": "2025-07-22T10:48:27.384452",
+    "version": "2.0_super_robust"
+  },
+  "metadata": {
+    "created_at": "2025-07-22T10:48:27.384473",
+    "system_type": "super_robust_rag"
+  }
+}
